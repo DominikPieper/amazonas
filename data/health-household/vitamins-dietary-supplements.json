@@ -1,0 +1,142 @@
+[
+  {
+    "title": "UltraOmega Fish Oil Capsules",
+    "manufacturer": "HealthHarbor",
+    "description": "High-potency omega-3 fish oil for heart health.",
+    "price": "$24.99 per bottle",
+    "dietary_preferences": "Non-Vegetarian"
+  },
+  {
+    "title": "GreenBoost Spirulina Tablets",
+    "manufacturer": "Nature's Essence",
+    "description": "Organic spirulina tablets rich in antioxidants.",
+    "price": "$19.99 per bottle",
+    "dietary_preferences": "Vegan"
+  },
+  {
+    "title": "VitaMax Daily Multivitamin",
+    "manufacturer": "WellLife",
+    "description": "Comprehensive multivitamin for overall wellness.",
+    "price": "$15.99 per bottle",
+    "dietary_preferences": "Vegetarian"
+  },
+  {
+    "title": "ProteinPlus Vegan Powder",
+    "manufacturer": "FitFuel",
+    "description": "Plant-based protein powder for muscle growth.",
+    "price": "$29.99 per tub",
+    "dietary_preferences": "Vegan, Gluten-Free"
+  },
+  {
+    "title": "KetoBurn Weight Loss Pills",
+    "manufacturer": "SlimFit",
+    "description": "Natural ketogenic supplement for weight management.",
+    "price": "$34.99 per bottle",
+    "dietary_preferences": "Keto-Friendly"
+  },
+  {
+    "title": "EnergyBlast B12 Lozenges",
+    "manufacturer": "VitalityBoost",
+    "description": "Vitamin B12 lozenges for energy and metabolism.",
+    "price": "$12.99 per pack",
+    "dietary_preferences": "Vegan"
+  },
+  {
+    "title": "Herbal Sleep Aid Tablets",
+    "manufacturer": "TranquilNights",
+    "description": "Natural sleep aid with melatonin and herbs.",
+    "price": "$16.99 per bottle",
+    "dietary_preferences": "Vegetarian, Non-GMO"
+  },
+  {
+    "title": "Calcium+D3 Bone Strength",
+    "manufacturer": "StrongBones",
+    "description": "Calcium and Vitamin D3 for bone health.",
+    "price": "$14.99 per bottle",
+    "dietary_preferences": "Vegetarian"
+  },
+  {
+    "title": "IronBoost Ferrous Tablets",
+    "manufacturer": "HemoHealth",
+    "description": "Ferrous sulfate tablets to prevent iron deficiency.",
+    "price": "$8.99 per bottle",
+    "dietary_preferences": "Vegetarian"
+  },
+  {
+    "title": "GutHealth Probiotic Blend",
+    "manufacturer": "FloraBalance",
+    "description": "Advanced probiotic blend for digestive health.",
+    "price": "$25.99 per bottle",
+    "dietary_preferences": "Vegan, Gluten-Free"
+  },
+  {
+    "title": "ImmunoShield Vitamin C",
+    "manufacturer": "DefendWell",
+    "description": "High-strength Vitamin C for immune support.",
+    "price": "$12.99 per bottle",
+    "dietary_preferences": "Vegetarian, Sugar-Free"
+  },
+  {
+    "title": "JointFlex Glucosamine Chondroitin",
+    "manufacturer": "MoveEase",
+    "description": "Joint support supplement with MSM and turmeric.",
+    "price": "$29.99 per bottle",
+    "dietary_preferences": "Non-Vegetarian"
+  },
+  {
+    "title": "ZincAdvance Immune Tablets",
+    "manufacturer": "ImmuneBoost",
+    "description": "Zinc tablets for immune system support.",
+    "price": "$9.99 per bottle",
+    "dietary_preferences": "Vegetarian"
+  },
+  {
+    "title": "DetoxPure Cleanse Formula",
+    "manufacturer": "PureBody",
+    "description": "Natural detox and cleanse supplement.",
+    "price": "$22.99 per bottle",
+    "dietary_preferences": "Vegan, Non-GMO"
+  },
+  {
+    "title": "MoodLift St. John's Wort",
+    "manufacturer": "HarmonyHerbs",
+    "description": "St. John's Wort capsules for mood support.",
+    "price": "$18.99 per bottle",
+    "dietary_preferences": "Vegetarian"
+  },
+  {
+    "title": "OmegaFlax Flaxseed Oil",
+    "manufacturer": "PlantPure",
+    "description": "Cold-pressed flaxseed oil for omega-3.",
+    "price": "$21.99 per bottle",
+    "dietary_preferences": "Vegan"
+  },
+  {
+    "title": "ActiveLife Electrolyte Powder",
+    "manufacturer": "HydrateWell",
+    "description": "Electrolyte powder for hydration and energy.",
+    "price": "$15.99 per pack",
+    "dietary_preferences": "Vegan, Gluten-Free"
+  },
+  {
+    "title": "BrainBoost Ginkgo Biloba",
+    "manufacturer": "MindSharp",
+    "description": "Ginkgo Biloba for memory and cognitive function.",
+    "price": "$20.99 per bottle",
+    "dietary_preferences": "Vegetarian"
+  },
+  {
+    "title": "Prebiotic Fiber Gummies",
+    "manufacturer": "DigestWell",
+    "description": "Delicious gummies with prebiotic fiber for gut health.",
+    "price": "$17.99 per jar",
+    "dietary_preferences": "Vegan, Gluten-Free"
+  },
+  {
+    "title": "Turmeric Curcumin Capsules",
+    "manufacturer": "GoldenHealth",
+    "description": "Anti-inflammatory and antioxidant support.",
+    "price": "$26.99 per bottle",
+    "dietary_preferences": "Vegan"
+  }
+]

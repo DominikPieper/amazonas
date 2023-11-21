@@ -1,0 +1,162 @@
+[
+  {
+    "title": "SummitTrail Hiking Backpack",
+    "manufacturer": "TrekGear",
+    "description": "A durable, water-resistant backpack perfect for long hiking trips.",
+    "price": 89.99,
+    "material": "Nylon, Polyester",
+    "weight": "2.5 lbs"
+  },
+  {
+    "title": "AquaQuest Waterproof Tent",
+    "manufacturer": "CampHome",
+    "description": "A lightweight, 4-person waterproof tent with easy setup.",
+    "price": 120.0,
+    "material": "Ripstop fabric",
+    "weight": "8 lbs"
+  },
+  {
+    "title": "TrailBlazer Sleeping Bag",
+    "manufacturer": "OutdoorZzz",
+    "description": "A comfortable sleeping bag suitable for all seasons.",
+    "price": 50.0,
+    "material": "Polyester, Synthetic filling",
+    "weight": "3.5 lbs"
+  },
+  {
+    "title": "FireFly Portable Stove",
+    "manufacturer": "CampCook",
+    "description": "A compact, portable stove ideal for camping and backpacking.",
+    "price": 35.0,
+    "material": "Stainless steel",
+    "weight": "1.2 lbs"
+  },
+  {
+    "title": "StarGazer Telescope",
+    "manufacturer": "SkyView",
+    "description": "A portable telescope for beginners and enthusiasts alike.",
+    "price": 150.0,
+    "material": "Aluminum, Glass",
+    "weight": "10 lbs"
+  },
+  {
+    "title": "EverCool Cooler",
+    "manufacturer": "ChillBox",
+    "description": "A high-capacity cooler that keeps contents cold for days.",
+    "price": 200.0,
+    "material": "Polyethylene, Insulation foam",
+    "weight": "22 lbs"
+  },
+  {
+    "title": "RapidFlow Water Filter",
+    "manufacturer": "AquaSafe",
+    "description": "A portable water filter for safe drinking water in the wilderness.",
+    "price": 40.0,
+    "material": "ABS Plastic, Activated Carbon",
+    "weight": "0.5 lbs"
+  },
+  {
+    "title": "Wilderness Survival Kit",
+    "manufacturer": "SurvivorGear",
+    "description": "A comprehensive survival kit for any outdoor emergency.",
+    "price": 70.0,
+    "material": "Various",
+    "weight": "2.3 lbs"
+  },
+  {
+    "title": "RidgeRunner Mountain Bike",
+    "manufacturer": "TrailBikes",
+    "description": "A robust mountain bike designed for all types of terrain.",
+    "price": 450.0,
+    "material": "Aluminum frame",
+    "weight": "30 lbs"
+  },
+  {
+    "title": "EcoTrek Solar Charger",
+    "manufacturer": "SunPower",
+    "description": "A solar charger for keeping devices powered during outdoor activities.",
+    "price": 55.0,
+    "material": "Solar panels, Plastic",
+    "weight": "1 lb"
+  },
+  {
+    "title": "RiverRide Inflatable Kayak",
+    "manufacturer": "PaddlePro",
+    "description": "An inflatable kayak perfect for river and lake adventures.",
+    "price": 300.0,
+    "material": "PVC",
+    "weight": "25 lbs"
+  },
+  {
+    "title": "TrailHead Walking Poles",
+    "manufacturer": "HikePro",
+    "description": "Adjustable walking poles for hiking and trekking.",
+    "price": 30.0,
+    "material": "Aluminum, Rubber",
+    "weight": "1.4 lbs"
+  },
+  {
+    "title": "FishFinder Portable Rod",
+    "manufacturer": "AnglerTech",
+    "description": "A portable fishing rod with integrated smart fish finder.",
+    "price": 80.0,
+    "material": "Carbon fiber",
+    "weight": "2 lbs"
+  },
+  {
+    "title": "NightVision Binoculars",
+    "manufacturer": "EagleEye",
+    "description": "High-quality binoculars with night vision capability.",
+    "price": 220.0,
+    "material": "Plastic, Glass lenses",
+    "weight": "3 lbs"
+  },
+  {
+    "title": "PeakClimb Climbing Harness",
+    "manufacturer": "AscentGear",
+    "description": "A safe and comfortable climbing harness for all skill levels.",
+    "price": 60.0,
+    "material": "Nylon, Foam padding",
+    "weight": "1.5 lbs"
+  },
+  {
+    "title": "BreezeWind Camping Fan",
+    "manufacturer": "CoolCamp",
+    "description": "A portable fan for camping, providing a cool breeze anywhere.",
+    "price": 25.0,
+    "material": "Plastic",
+    "weight": "1 lb"
+  },
+  {
+    "title": "SunShade Beach Umbrella",
+    "manufacturer": "ShadePro",
+    "description": "A large, UV-protective beach umbrella for sunny days.",
+    "price": 45.0,
+    "material": "Polyester, Steel",
+    "weight": "4 lbs"
+  },
+  {
+    "title": "TrekMate GPS Watch",
+    "manufacturer": "PathFinder",
+    "description": "A durable GPS watch with multiple outdoor features.",
+    "price": 199.0,
+    "material": "Silicone, Glass",
+    "weight": "0.6 lbs"
+  },
+  {
+    "title": "MysticGlow Lantern",
+    "manufacturer": "Lumina",
+    "description": "A rechargeable lantern with adjustable brightness for camping.",
+    "price": 35.0,
+    "material": "Plastic, LED",
+    "weight": "1 lb"
+  },
+  {
+    "title": "SafariZoom Spotting Scope",
+    "manufacturer": "WildView",
+    "description": "A high-powered spotting scope for wildlife observation.",
+    "price": 180.0,
+    "material": "Aluminum, Optical glass",
+    "weight": "5 lbs"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Xenon X20 Pro",
+    "manufacturer": "Xenon",
+    "description": "The Xenon X20 Pro features a 6.7-inch OLED display, triple camera system, and a powerful AI-driven processor.",
+    "price": "899.99"
+  },
+  {
+    "title": "Galactica S12",
+    "manufacturer": "Galactica",
+    "description": "Galactica S12 offers a seamless experience with its 120Hz refresh rate screen and long-lasting battery life.",
+    "price": "799.00"
+  },
+  {
+    "title": "Nebula N9",
+    "manufacturer": "Nebula",
+    "description": "Compact and efficient, the Nebula N9 boasts an impressive camera and a user-friendly interface.",
+    "price": "650.00"
+  },
+  {
+    "title": "Orbit O5",
+    "manufacturer": "Orbit",
+    "description": "Orbit O5 introduces an innovative foldable design with top-tier performance and 5G connectivity.",
+    "price": "999.00"
+  },
+  {
+    "title": "Vertex V10",
+    "manufacturer": "Vertex",
+    "description": "Vertex V10 features an all-day battery, robust build quality, and an immersive audio experience.",
+    "price": "550.00"
+  },
+  {
+    "title": "Quantum Q8",
+    "manufacturer": "Quantum",
+    "description": "With Quantum Q8's dynamic OLED screen and high-fidelity speakers, enjoy a premium multimedia experience.",
+    "price": "700.00"
+  },
+  {
+    "title": "Pulse P30 Lite",
+    "manufacturer": "Pulse",
+    "description": "The Pulse P30 Lite is a budget-friendly smartphone with a strong performance and elegant design.",
+    "price": "300.00"
+  },
+  {
+    "title": "Echo E4",
+    "manufacturer": "Echo",
+    "description": "Echo E4 stands out with its sleek design, user-friendly OS, and efficient power management.",
+    "price": "400.00"
+  },
+  {
+    "title": "Mystic M5",
+    "manufacturer": "Mystic",
+    "description": "The Mystic M5 features a robust security system, AI-enhanced photography, and a crystal-clear display.",
+    "price": "750.00"
+  },
+  {
+    "title": "Zephyr Z2",
+    "manufacturer": "Zephyr",
+    "description": "Experience next-level connectivity and speed with Zephyr Z2's 5G capability and ultra-fast processor.",
+    "price": "820.00"
+  },
+  {
+    "title": "Lunar L16",
+    "manufacturer": "Lunar",
+    "description": "The Lunar L16 comes with an exceptional dual-camera setup and a high-resolution AMOLED display.",
+    "price": "650.00"
+  },
+  {
+    "title": "Solaris S5 Max",
+    "manufacturer": "Solaris",
+    "description": "With its innovative solar charging feature, the Solaris S5 Max keeps you connected without the constant need for a charger.",
+    "price": "780.00"
+  },
+  {
+    "title": "Cosmo C7",
+    "manufacturer": "Cosmo",
+    "description": "Cosmo C7 delivers a balanced performance with its energy-efficient chipset and vibrant display.",
+    "price": "520.00"
+  },
+  {
+    "title": "Astra A1",
+    "manufacturer": "Astra",
+    "description": "Astra A1 is a perfect entry-level smartphone with reliable performance and an intuitive interface.",
+    "price": "299.99"
+  },
+  {
+    "title": "Nova N4",
+    "manufacturer": "Nova",
+    "description": "Nova N4 offers a sleek design, robust build, and an AI camera for stunning photography.",
+    "price": "450.00"
+  },
+  {
+    "title": "Vortex V8",
+    "manufacturer": "Vortex",
+    "description": "Vortex V8 stands out with its ultra-fast charging, high-resolution camera, and immersive gaming experience.",
+    "price": "680.00"
+  },
+  {
+    "title": "Horizon H3",
+    "manufacturer": "Horizon",
+    "description": "Horizon H3 offers a durable design, impressive battery life, and a high-quality camera setup.",
+    "price": "550.00"
+  },
+  {
+    "title": "Spark S4",
+    "manufacturer": "Spark",
+    "description": "The Spark S4 features a compact design, exceptional durability, and a user-friendly interface.",
+    "price": "370.00"
+  },
+  {
+    "title": "Cyber C9",
+    "manufacturer": "Cyber",
+    "description": "Cyber C9 integrates cutting-edge technology with a stunning display and revolutionary camera system.",
+    "price": "920.00"
+  },
+  {
+    "title": "Oasis O6",
+    "manufacturer": "Oasis",
+    "description": "Oasis O6 offers a blend of style and substance with its elegant design and powerful performance.",
+    "price": "600.00"
+  }
+]

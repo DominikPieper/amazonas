@@ -1,0 +1,122 @@
+[
+  {
+    "title": "ColorBlast Markers",
+    "manufacturer": "Artify",
+    "description": "Set of 24 vibrant, non-toxic markers perfect for art projects and classroom use.",
+    "price": "$12.99"
+  },
+  {
+    "title": "Geometry Genius Math Set",
+    "manufacturer": "EduTools",
+    "description": "Comprehensive math set including compass, protractor, rulers, and set squares.",
+    "price": "$8.50"
+  },
+  {
+    "title": "DuraBind Notebooks",
+    "manufacturer": "PaperCraft",
+    "description": "Pack of 5 durable spiral-bound notebooks with lined paper, ideal for note-taking.",
+    "price": "$10.00"
+  },
+  {
+    "title": "Science Explorer Lab Kit",
+    "manufacturer": "DiscoveryKids",
+    "description": "Interactive lab kit for young scientists, including basic equipment for experiments.",
+    "price": "$24.99"
+  },
+  {
+    "title": "Eco-Friendly Pencil Case",
+    "manufacturer": "GreenStationery",
+    "description": "Biodegradable pencil case made from sustainable materials, with multiple compartments.",
+    "price": "$5.99"
+  },
+  {
+    "title": "SmartMath Calculator",
+    "manufacturer": "TechGenius",
+    "description": "Advanced scientific calculator with solar power and easy-to-use interface.",
+    "price": "$15.00"
+  },
+  {
+    "title": "History Time Flashcards",
+    "manufacturer": "LearnFast",
+    "description": "Set of educational flashcards covering key historical events and figures.",
+    "price": "$7.50"
+  },
+  {
+    "title": "MegaPack Art Supplies",
+    "manufacturer": "CreateSpace",
+    "description": "Extensive art supply set including paints, brushes, canvases, and more.",
+    "price": "$30.00"
+  },
+  {
+    "title": "SpaceSaver Locker Organizer",
+    "manufacturer": "OrganizeMe",
+    "description": "Adjustable locker organizer with shelves and hooks to maximize space.",
+    "price": "$14.99"
+  },
+  {
+    "title": "Bilingual Learning Tablet",
+    "manufacturer": "EduTech",
+    "description": "Educational tablet preloaded with bilingual learning games and activities.",
+    "price": "$49.99"
+  },
+  {
+    "title": "WriteRight Whiteboard",
+    "manufacturer": "ClassroomEssentials",
+    "description": "Double-sided portable whiteboard with dry-erase markers and eraser.",
+    "price": "$20.00"
+  },
+  {
+    "title": "Reading Rainbow Book Set",
+    "manufacturer": "StoryWorld",
+    "description": "Collection of 10 illustrated children's books to encourage reading and imagination.",
+    "price": "$35.00"
+  },
+  {
+    "title": "ErgoKid Study Chair",
+    "manufacturer": "HealthyPosture",
+    "description": "Ergonomically designed chair for children, adjustable and with lumbar support.",
+    "price": "$55.00"
+  },
+  {
+    "title": "TimeTeller Educational Clock",
+    "manufacturer": "LearnTime",
+    "description": "Interactive clock to help children learn to tell time, with fun activities.",
+    "price": "$18.00"
+  },
+  {
+    "title": "MultiLang Language Software",
+    "manufacturer": "GlobalLearner",
+    "description": "Language learning software for students, covering multiple languages with interactive exercises.",
+    "price": "$40.00"
+  },
+  {
+    "title": "CraftyKids Clay Set",
+    "manufacturer": "PlayCreate",
+    "description": "Non-toxic modeling clay set in various colors, great for art and craft projects.",
+    "price": "$9.99"
+  },
+  {
+    "title": "StudyBuddy Lap Desk",
+    "manufacturer": "HomeClassroom",
+    "description": "Portable lap desk with built-in light and storage compartments for studying anywhere.",
+    "price": "$25.00"
+  },
+  {
+    "title": "GlobeTrotter Interactive Globe",
+    "manufacturer": "WorldExplorer",
+    "description": "Interactive globe with touch-sensitive features to learn geography and world cultures.",
+    "price": "$45.00"
+  },
+  {
+    "title": "ZooFriends Animal Stickers",
+    "manufacturer": "FunStickers",
+    "description": "Pack of colorful animal stickers, great for rewards, decoration, or educational purposes.",
+    "price": "$3.50"
+  },
+  {
+    "title": "KidProof Tablet Case",
+    "manufacturer": "SafeTech",
+    "description": "Durable, shock-proof tablet case suitable for classroom and home use.",
+    "price": "$19.99"
+  }
+]

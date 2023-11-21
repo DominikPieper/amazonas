@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Cozy Corner Sofa",
+    "manufacturer": "ComfyHome Inc.",
+    "description": "A luxurious, L-shaped sofa with plush cushioning, perfect for family lounging.",
+    "price": 899.99,
+    "material": "Microfiber upholstery",
+    "dimensions": "84 x 60 x 35 inches"
+  },
+  {
+    "title": "Elegant Dining Set",
+    "manufacturer": "Elegance Furnishings",
+    "description": "A classic wooden dining set with a table and six chairs, featuring intricate carvings.",
+    "price": 1299.5,
+    "material": "Solid oak wood",
+    "dimensions": "Table: 72 x 36 x 30 inches, Chairs: 18 x 22 x 40 inches"
+  },
+  {
+    "title": "Modernist Coffee Table",
+    "manufacturer": "UrbanEdge",
+    "description": "A sleek, minimalist coffee table with a glass top and metal frame.",
+    "price": 350.0,
+    "material": "Tempered glass, stainless steel",
+    "dimensions": "42 x 24 x 18 inches"
+  },
+  {
+    "title": "Vintage Bookshelf",
+    "manufacturer": "RetroWoods",
+    "description": "A tall, five-tiered bookshelf in a vintage style, ideal for a classic home library.",
+    "price": 475.0,
+    "material": "Mahogany",
+    "dimensions": "30 x 14 x 75 inches"
+  },
+  {
+    "title": "Space-Saver Bed Frame",
+    "manufacturer": "CompactLiving",
+    "description": "A smart bed frame with built-in storage, perfect for small bedrooms.",
+    "price": 650.0,
+    "material": "Engineered wood",
+    "dimensions": "60 x 80 x 12 inches"
+  },
+  {
+    "title": "Luxury Recliner Chair",
+    "manufacturer": "RelaxZone",
+    "description": "An ultra-comfortable recliner chair with adjustable positions and plush seating.",
+    "price": 549.99,
+    "material": "Leather",
+    "dimensions": "38 x 35 x 40 inches"
+  },
+  {
+    "title": "Artisan Console Table",
+    "manufacturer": "CraftedElegance",
+    "description": "A handcrafted console table with artistic designs, perfect for hallways or living rooms.",
+    "price": 425.0,
+    "material": "Walnut wood",
+    "dimensions": "48 x 16 x 30 inches"
+  },
+  {
+    "title": "Retro Bar Stool Set",
+    "manufacturer": "Nostalgia Furnishings",
+    "description": "A set of two retro-style bar stools with adjustable height and comfortable seating.",
+    "price": 299.98,
+    "material": "Chrome, faux leather",
+    "dimensions": "15 x 15 x 25-33 inches (adjustable height)"
+  },
+  {
+    "title": "Scandinavian Style Armchair",
+    "manufacturer": "NordicComfort",
+    "description": "A simple yet stylish armchair, embodying Scandinavian design principles.",
+    "price": 399.0,
+    "material": "Linen fabric, solid wood",
+    "dimensions": "30 x 28 x 35 inches"
+  },
+  {
+    "title": "Contemporary TV Stand",
+    "manufacturer": "ModernLife Furnishings",
+    "description": "A contemporary TV stand with ample storage and a clean, modern look.",
+    "price": 550.0,
+    "material": "High-gloss MDF",
+    "dimensions": "70 x 16 x 24 inches"
+  },
+  {
+    "title": "Rustic Kitchen Island",
+    "manufacturer": "CountryCharm",
+    "description": "A rustic kitchen island with a natural wood finish and additional storage shelves.",
+    "price": 699.99,
+    "material": "Reclaimed wood",
+    "dimensions": "60 x 30 x 36 inches"
+  },
+  {
+    "title": "Industrial Shelving Unit",
+    "manufacturer": "LoftStyle",
+    "description": "An industrial-style shelving unit, perfect for urban lofts or modern home offices.",
+    "price": 400.0,
+    "material": "Metal and wood",
+    "dimensions": "48 x 14 x 72 inches"
+  },
+  {
+    "title": "Chic Accent Chair",
+    "manufacturer": "TrendySpaces",
+    "description": "A chic and comfortable accent chair that adds a pop of color to any room.",
+    "price": 275.0,
+    "material": "Velvet",
+    "dimensions": "25 x 28 x 33 inches"
+  },
+  {
+    "title": "Minimalist Nightstand",
+    "manufacturer": "SimpleLiving",
+    "description": "A minimalist nightstand with a sleek design, featuring a drawer and an open shelf.",
+    "price": 150.0,
+    "material": "Birch plywood",
+    "dimensions": "20 x 18 x 24 inches"
+  },
+  {
+    "title": "Ornate Vanity Set",
+    "manufacturer": "GlamourHouse",
+    "description": "An ornate vanity set with a mirror and stool, perfect for a luxurious bedroom.",
+    "price": 750.0,
+    "material": "Solid wood, glass",
+    "dimensions": "Vanity: 32 x 18 x 50 inches, Stool: 18 x 14 x 17 inches"
+  },
+  {
+    "title": "Sleek Office Desk",
+    "manufacturer": "WorkSmart",
+    "description": "A sleek and modern office desk with a spacious top and minimalist design.",
+    "price": 500.0,
+    "material": "Metal, tempered glass",
+    "dimensions": "55 x 28 x 30 inches"
+  },
+  {
+    "title": "Convertible Sofa Bed",
+    "manufacturer": "FlexiFurnish",
+    "description": "A versatile sofa bed that easily converts into a double bed, ideal for guests.",
+    "price": 800.0,
+    "material": "Fabric, metal frame",
+    "dimensions": "Sofa: 78 x 38 x 35 inches, Bed: 78 x 48 x 18 inches"
+  },
+  {
+    "title": "Classic Rocking Chair",
+    "manufacturer": "HeritageFurniture",
+    "description": "A classic wooden rocking chair, perfect for relaxing on the porch or in a nursery.",
+    "price": 225.0,
+    "material": "Hardwood",
+    "dimensions": "24 x 32 x 44 inches"
+  },
+  {
+    "title": "Bamboo Bathroom Shelf",
+    "manufacturer": "EcoTrends",
+    "description": "A stylish and eco-friendly bamboo shelf, great for bathroom storage and organization.",
+    "price": 120.0,
+    "material": "Bamboo",
+    "dimensions": "24 x 12 x 72 inches"
+  },
+  {
+    "title": "L-Shaped Gaming Desk",
+    "manufacturer": "GamerPro",
+    "description": "An L-shaped gaming desk with a modern design and built-in features for gamers.",
+    "price": 459.99,
+    "material": "Carbon fiber, steel",
+    "dimensions": "60 x 55 x 29 inches"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Sunset Lounge Chair",
+    "manufacturer": "PatioComfort",
+    "description": "Ergonomic outdoor lounge chair with weather-resistant cushions.",
+    "price": "$249.99"
+  },
+  {
+    "title": "Garden Oasis Hammock",
+    "manufacturer": "RelaxNature",
+    "description": "A sturdy and comfortable hammock, perfect for backyard relaxation.",
+    "price": "$129.99"
+  },
+  {
+    "title": "Eco-Wood Picnic Table",
+    "manufacturer": "OutdoorCraft",
+    "description": "Sustainably sourced wooden picnic table with built-in benches.",
+    "price": "$399.99"
+  },
+  {
+    "title": "Rustic Fire Pit Table",
+    "manufacturer": "FlameGlow",
+    "description": "A rustic-style fire pit table, perfect for evening gatherings.",
+    "price": "$549.99"
+  },
+  {
+    "title": "Breezy Canopy Swing",
+    "manufacturer": "SwingAway",
+    "description": "A comfortable outdoor swing with a canopy for shade.",
+    "price": "$289.99"
+  },
+  {
+    "title": "Alfresco Dining Set",
+    "manufacturer": "PatioElegance",
+    "description": "A stylish outdoor dining set including a table and six chairs.",
+    "price": "$999.99"
+  },
+  {
+    "title": "Modular Outdoor Sofa",
+    "manufacturer": "FlexiLounge",
+    "description": "A modular sofa that can be arranged in multiple configurations.",
+    "price": "$799.99"
+  },
+  {
+    "title": "Poolside Sunbeds",
+    "manufacturer": "AquaRest",
+    "description": "A set of two luxurious sunbeds, ideal for poolside lounging.",
+    "price": "$459.99"
+  },
+  {
+    "title": "Garden Bench with Storage",
+    "manufacturer": "PatioStore",
+    "description": "A garden bench with hidden storage space under the seat.",
+    "price": "$279.99"
+  },
+  {
+    "title": "Zen Garden Rocking Chair",
+    "manufacturer": "CalmMotion",
+    "description": "A rocking chair designed for relaxation in garden settings.",
+    "price": "$199.99"
+  },
+  {
+    "title": "Patio Bar Cart",
+    "manufacturer": "ServeEase",
+    "description": "A mobile bar cart with storage for drinks and glassware.",
+    "price": "$249.99"
+  },
+  {
+    "title": "Hanging Egg Chair",
+    "manufacturer": "SwingNest",
+    "description": "A stylish and comfortable hanging egg chair for outdoor relaxation.",
+    "price": "$349.99"
+  },
+  {
+    "title": "Outdoor Bean Bag",
+    "manufacturer": "LoungeCloud",
+    "description": "A large, waterproof outdoor bean bag, perfect for any patio.",
+    "price": "$89.99"
+  },
+  {
+    "title": "Convertible Daybed",
+    "manufacturer": "SunDaze",
+    "description": "A versatile daybed that converts into a guest bed.",
+    "price": "$699.99"
+  },
+  {
+    "title": "Balcony Folding Table Set",
+    "manufacturer": "SpaceSaver",
+    "description": "A compact table and chairs set designed for balcony use.",
+    "price": "$179.99"
+  },
+  {
+    "title": "LED Patio Umbrella",
+    "manufacturer": "ShadeBright",
+    "description": "An outdoor umbrella with built-in LED lighting.",
+    "price": "$159.99"
+  },
+  {
+    "title": "Ornate Garden Fountain",
+    "manufacturer": "WaterArt",
+    "description": "An elegantly designed garden fountain that adds tranquility to any space.",
+    "price": "$489.99"
+  },
+  {
+    "title": "Teakwood Deck Tiles",
+    "manufacturer": "DeckDeluxe",
+    "description": "Easy-to-install teakwood tiles for upgrading your patio or deck.",
+    "price": "$59.99 per sq ft"
+  },
+  {
+    "title": "Collapsible Outdoor Gazebo",
+    "manufacturer": "ShadePro",
+    "description": "A collapsible gazebo, perfect for temporary outdoor shelter.",
+    "price": "$329.99"
+  },
+  {
+    "title": "Retro Metal Lawn Chairs",
+    "manufacturer": "VintageVibe",
+    "description": "Colorful, retro-styled metal chairs to add a nostalgic touch to your garden.",
+    "price": "$119.99 each"
+  }
+]

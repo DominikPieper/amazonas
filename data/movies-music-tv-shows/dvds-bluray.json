@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Galactic Adventures",
+    "manufacturer": "Epic Visions",
+    "description": "A thrilling space opera with stunning visuals.",
+    "price": "$14.99",
+    "genre": "Sci-Fi"
+  },
+  {
+    "title": "Yesterday's Mystery",
+    "manufacturer": "Twilight Studios",
+    "description": "A gripping detective story set in the 1950s.",
+    "price": "$16.50",
+    "genre": "Mystery"
+  },
+  {
+    "title": "Laugh Out Loud: Season 1",
+    "manufacturer": "Comedy Central Productions",
+    "description": "Hilarious sitcom about a group of friends navigating life.",
+    "price": "$20.00",
+    "genre": "Comedy"
+  },
+  {
+    "title": "Nature's Wonders",
+    "manufacturer": "Earthview Media",
+    "description": "A breathtaking documentary on the beauty of our planet.",
+    "price": "$22.99",
+    "genre": "Documentary"
+  },
+  {
+    "title": "Royal Affairs",
+    "manufacturer": "Historic Tales",
+    "description": "A drama series based on true events in a royal court.",
+    "price": "$18.00",
+    "genre": "Historical Drama"
+  },
+  {
+    "title": "Spectral Shadows",
+    "manufacturer": "Horror House",
+    "description": "A chilling tale of supernatural hauntings.",
+    "price": "$15.99",
+    "genre": "Horror"
+  },
+  {
+    "title": "Dance Revolution",
+    "manufacturer": "Rhythm Productions",
+    "description": "An inspiring story of a street dancer's rise to fame.",
+    "price": "$17.99",
+    "genre": "Drama"
+  },
+  {
+    "title": "Futuristic Wars",
+    "manufacturer": "Action Flicks",
+    "description": "An action-packed movie set in a dystopian future.",
+    "price": "$19.50",
+    "genre": "Action"
+  },
+  {
+    "title": "Ocean's Secrets",
+    "manufacturer": "Blue Planet Studios",
+    "description": "Explore the mysteries of the deep sea.",
+    "price": "$21.00",
+    "genre": "Nature Documentary"
+  },
+  {
+    "title": "Alien Encounter",
+    "manufacturer": "Thriller Edge",
+    "description": "An intense thriller about an alien invasion.",
+    "price": "$16.95",
+    "genre": "Thriller"
+  },
+  {
+    "title": "The Forgotten Kingdom",
+    "manufacturer": "Epic Quest Films",
+    "description": "A fantasy adventure in a mystical land.",
+    "price": "$23.00",
+    "genre": "Fantasy"
+  },
+  {
+    "title": "Robotic Uprising",
+    "manufacturer": "Sci-Fi Studios",
+    "description": "A sci-fi thriller about robots gaining consciousness.",
+    "price": "$18.99",
+    "genre": "Science Fiction"
+  },
+  {
+    "title": "Lost in Time",
+    "manufacturer": "Chrono Films",
+    "description": "A time-travel drama with unexpected twists.",
+    "price": "$20.99",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Heartland Tales",
+    "manufacturer": "Family Flicks",
+    "description": "Heartwarming stories from rural America.",
+    "price": "$14.99",
+    "genre": "Family"
+  },
+  {
+    "title": "The Last Empire",
+    "manufacturer": "Period Pieces",
+    "description": "An epic saga of love and war in ancient times.",
+    "price": "$22.50",
+    "genre": "Epic"
+  },
+  {
+    "title": "Heroes Among Us",
+    "manufacturer": "Real Stories",
+    "description": "True stories of bravery and heroism.",
+    "price": "$19.95",
+    "genre": "Biography"
+  },
+  {
+    "title": "The Comedy Special",
+    "manufacturer": "Laugh Network",
+    "description": "A stand-up comedy special featuring top comedians.",
+    "price": "$12.99",
+    "genre": "Stand-up Comedy"
+  },
+  {
+    "title": "Undercover Ops",
+    "manufacturer": "Spy Thrillers",
+    "description": "An action-packed spy thriller with unexpected turns.",
+    "price": "$21.99",
+    "genre": "Action"
+  },
+  {
+    "title": "Enchanted Realms",
+    "manufacturer": "Magic World Studios",
+    "description": "A family-friendly animated adventure in magical worlds.",
+    "price": "$17.50",
+    "genre": "Animation"
+  },
+  {
+    "title": "The Great Heist",
+    "manufacturer": "Crime Cinema",
+    "description": "A gripping tale of a perfectly planned robbery.",
+    "price": "$18.75",
+    "genre": "Crime"
+  }
+]

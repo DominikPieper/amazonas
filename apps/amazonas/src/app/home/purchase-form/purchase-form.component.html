@@ -1,0 +1,225 @@
+<!--<button (click)="fetchData()">Fetch data</button>
+<br>
+<form (ngSubmit)="onSubmit()"
+      [formValue]="formValue()"
+      [suite]="suite"
+      [alwaysTriggerValidations]="true"
+      (validChange)="formValid.set($event || false)"
+      (formValueChange)="setFormValue($event)">
+  <fieldset [disabled]="vm.loading">
+    <h1>Purchase form</h1>
+    <div class="form--horizontal-split">
+      <div amControlWrapper>
+        <label>
+          <span>First name</span>
+          <input type="text" [ngModel]="vm.formValue.firstName" name="firstName" />
+        </label>
+      </div>
+      <div amControlWrapper>
+        <label>
+          <span>Last name</span>
+          <input type="text" [ngModel]="vm.formValue.lastName" name="lastName" />
+        </label>
+      </div>
+    </div>
+    <div class="form--horizontal-split">
+      <div amControlWrapper>
+        <label>
+          <span>Age</span>
+          <input type="number" [ngModel]="vm.formValue.age" name="age" />
+        </label>
+      </div>
+      <div amControlWrapper>
+        <label>
+          <span>Emergency contact</span>
+          <input type="text" [disabled]="vm.emergencyContactDisabled" [ngModel]="vm.formValue.emergencyContact"
+                 name="emergencyContact" />
+        </label>
+      </div>
+    </div>
+    <div amControlWrapper ngModelGroup="phonenumbers">
+      <am-phonenumbers [phonenumbers]="vm.formValue.phonenumbers?.values || {}">
+      </am-phonenumbers>
+    </div>
+    <div amControlWrapper>
+      <label>
+        <span>Gender</span>
+        <div class="radiobuttons--horizontal">
+        <span class="radiobutton__wrapper">
+          Male
+          <input
+            type="radio"
+            [ngModel]="vm.formValue.gender"
+            name="gender"
+            value="male"
+          />
+        </span>
+          <span class="radiobutton__wrapper">
+          Female
+          <input
+            type="radio"
+            [ngModel]="vm.formValue.gender"
+            name="gender"
+            value="female"
+          />
+        </span>
+          <span class="radiobutton__wrapper">
+          Other
+          <input
+            type="radio"
+            [ngModel]="vm.formValue.gender"
+            name="gender"
+            value="other"
+          />
+        </span>
+        </div>
+      </label>
+    </div>
+    <div amControlWrapper *ngIf="vm.showGenderOther">
+      <label>
+        <span>Specify gender</span>
+        <input type="text" [ngModel]="vm.formValue.genderOther"
+               name="genderOther">
+      </label>
+    </div>
+    <div amControlWrapper ngModelGroup="passwords">
+      <div class="form--horizontal-split">
+        <div amControlWrapper>
+          <label>
+            <span>Password</span>
+            <input type="password" [ngModel]="vm.formValue.passwords?.password" name="password" />
+          </label>
+        </div>
+        <div amControlWrapper>
+          <label>
+            <span>Confirm</span>
+            <input type="password" [ngModel]="vm.formValue.passwords?.confirmPassword" name="confirmPassword" />
+          </label>
+        </div>
+      </div>
+    </div>
+    <div amControlWrapper>
+      <label>
+        <span>Product</span>
+        <select name="productId" [ngModel]="vm.formValue.productId">
+          <option *ngFor="let product of products(); trackBy: tracker" [value]="product.id">{{ product.name }}</option>
+        </select>
+      </label>
+    </div>
+    <div amControlWrapper ngModelGroup="addresses">
+      <div amControlWrapper ngModelGroup="billingAddress">
+        <h3>Billing address</h3>
+        <am-address [address]="vm.formValue.addresses?.billingAddress"></am-address>
+      </div>
+      <label amControlWrapper>
+        <span>Shipping address is different from billing address</span>
+        <input type="checkbox"
+               [ngModel]="vm.formValue.addresses?.shippingAddressDifferentFromBillingAddress"
+               name="shippingAddressDifferentFromBillingAddress">
+      </label>
+      <div amControlWrapper ngModelGroup="shippingAddress" *ngIf="vm.showShippingAddress">
+        <h3>Shipping Address</h3>
+        <am-address [address]="vm.shippingAddress"></am-address>
+      </div>
+    </div>
+    <div class="buttons">
+      <button type="button"
+              class="text-red-600 inline-flex items-center hover:text-white border border-red-600 hover:bg-red-600 focus:ring-4 focus:outline-none focus:ring-red-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:border-red-500 dark:text-red-500 dark:hover:text-white dark:hover:bg-red-600 dark:focus:ring-red-900">
+        Reset
+      </button>&nbsp;
+      <button type="submit"
+              class="text-white bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+        Submit
+      </button>
+    </div>
+  </fieldset>
+
+</form>-->
+<pre>
+    {{ vm.formValue|json }}
+</pre>
+
+<form (ngSubmit)="onSubmit()"
+      [formValue]="formValue()"
+      [suite]="suite"
+      [alwaysTriggerValidations]="true"
+      (validChange)="formValid.set($event || false)"
+      (formValueChange)="setFormValue($event)">
+  <div class="grid gap-4 mb-4 sm:grid-cols-2 sm:gap-6 sm:mb-5">
+    <div class="sm:col-span-2">
+      <label for="name" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Product Name</label>
+      <input type="text" name="name" id="name"
+             class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-primary-600 focus:border-primary-600 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500"
+             value="Apple iMac 27&ldquo;" placeholder="Type product name" required="">
+    </div>
+    <div class="w-full" amControlWrapper>
+      <label for="firstname" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">First name</label>
+      <input type="text" [ngModel]="vm.formValue.firstName" name="firstname" id="firstname"
+             class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-primary-600 focus:border-primary-600 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500">
+    </div>
+    <div class="w-full" amControlWrapper>
+      <label for="lastname" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Last name</label>
+      <input type="text" [ngModel]="vm.formValue.lastName" name="lastname" id="lastname"
+             class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-primary-600 focus:border-primary-600 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500">
+    </div>
+    <div class="w-full" amControlWrapper>
+      <label for="age" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Age</label>
+      <input type="number" [ngModel]="vm.formValue.age" name="age" id="age"
+             class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-primary-600 focus:border-primary-600 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500">
+    </div>
+    <div class="w-full" amControlWrapper>
+      <label for="emergencycontact" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">
+        Emergency Contact
+      </label>
+      <input type="text" [disabled]="vm.emergencyContactDisabled" [ngModel]="vm.formValue.emergencyContact"
+             name="emergencycontact" id="emergencycontact"
+             class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-primary-600 focus:border-primary-600 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500">
+    </div>
+
+    <div class="sm:col-span-2" amControlWrapper>
+      <h3 class="mb-4 font-semibold text-gray-900 dark:text-white">Gender</h3>
+      <ul
+        class="items-center w-full text-sm font-medium text-gray-900 bg-white border border-gray-200 rounded-lg sm:flex dark:bg-gray-700 dark:border-gray-600 dark:text-white">
+        <li class="w-full border-b border-gray-200 sm:border-b-0 sm:border-r dark:border-gray-600">
+          <div class="flex items-center ps-3">
+            <input id="horizontal-list-radio-license" type="radio" value="" name="list-radio"
+                   class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-700 dark:focus:ring-offset-gray-700 focus:ring-2 dark:bg-gray-600 dark:border-gray-500">
+            <label for="horizontal-list-radio-license"
+                   class="w-full py-3 ms-2 text-sm font-medium text-gray-900 dark:text-gray-300">Male</label>
+          </div>
+        </li>
+        <li class="w-full border-b border-gray-200 sm:border-b-0 sm:border-r dark:border-gray-600">
+          <div class="flex items-center ps-3">
+            <input id="horizontal-list-radio-id" type="radio" value="" name="list-radio"
+                   class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-700 dark:focus:ring-offset-gray-700 focus:ring-2 dark:bg-gray-600 dark:border-gray-500">
+            <label for="horizontal-list-radio-id"
+                   class="w-full py-3 ms-2 text-sm font-medium text-gray-900 dark:text-gray-300">Female</label>
+          </div>
+        </li>
+        <li class="w-full dark:border-gray-600">
+          <div class="flex items-center ps-3">
+            <input id="horizontal-list-radio-passport" type="radio" value="" name="list-radio"
+                   class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-700 dark:focus:ring-offset-gray-700 focus:ring-2 dark:bg-gray-600 dark:border-gray-500">
+            <label for="horizontal-list-radio-passport"
+                   class="w-full py-3 ms-2 text-sm font-medium text-gray-900 dark:text-gray-300">Other</label>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div class="flex items-center space-x-4">
+    <button type="submit"
+            class="text-white bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+      Submit
+    </button>
+    <button type="button"
+            class="text-red-600 inline-flex items-center hover:text-white border border-red-600 hover:bg-red-600 focus:ring-4 focus:outline-none focus:ring-red-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:border-red-500 dark:text-red-500 dark:hover:text-white dark:hover:bg-red-600 dark:focus:ring-red-900">
+      <svg class="w-5 h-5 mr-1 -ml-1" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+        <path fill-rule="evenodd"
+              d="M9 2a1 1 0 00-.894.553L7.382 4H4a1 1 0 000 2v10a2 2 0 002 2h8a2 2 0 002-2V6a1 1 0 100-2h-3.382l-.724-1.447A1 1 0 0011 2H9zM7 8a1 1 0 012 0v6a1 1 0 11-2 0V8zm5-1a1 1 0 00-1 1v6a1 1 0 102 0V8a1 1 0 00-1-1z"
+              clip-rule="evenodd"></path>
+      </svg>
+      Reset
+    </button>
+  </div>
+</form>

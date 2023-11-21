@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Fundamentals of Mathematics",
+    "author": "Eleanor M. Thompson",
+    "description": "A comprehensive guide to basic and advanced mathematical concepts.",
+    "genre": "Mathematics",
+    "price": 29.99
+  },
+  {
+    "title": "Exploring the Universe",
+    "author": "Neil R. Hampton",
+    "description": "An introductory text on astronomy and the mysteries of space.",
+    "genre": "Astronomy",
+    "price": 35.0
+  },
+  {
+    "title": "The World of Chemistry",
+    "author": "David L. Peterson",
+    "description": "A detailed exploration of chemical principles and their real-world applications.",
+    "genre": "Chemistry",
+    "price": 40.5
+  },
+  {
+    "title": "Modern Biology",
+    "author": "Hannah S. Brooks",
+    "description": "An in-depth look at the fundamental concepts of biology in the contemporary world.",
+    "genre": "Biology",
+    "price": 45.0
+  },
+  {
+    "title": "Introduction to Programming",
+    "author": "Michael J. Garcia",
+    "description": "A beginner's guide to programming languages and coding principles.",
+    "genre": "Computer Science",
+    "price": 50.0
+  },
+  {
+    "title": "Ancient Civilizations Unveiled",
+    "author": "Sophia T. Lee",
+    "description": "An educational journey through the history and culture of ancient societies.",
+    "genre": "History",
+    "price": 27.99
+  },
+  {
+    "title": "Physics in Motion",
+    "author": "Ethan R. Wallace",
+    "description": "A dynamic approach to understanding the laws of physics and their applications.",
+    "genre": "Physics",
+    "price": 32.0
+  },
+  {
+    "title": "Understanding Earth's Climate",
+    "author": "Olivia D. Martinez",
+    "description": "An analysis of climate science, global warming, and environmental change.",
+    "genre": "Environmental Science",
+    "price": 38.95
+  },
+  {
+    "title": "Literature and Society",
+    "author": "Ava C. Johnson",
+    "description": "An exploration of how literature reflects and influences societal values and norms.",
+    "genre": "Literature",
+    "price": 22.5
+  },
+  {
+    "title": "The Art of Public Speaking",
+    "author": "James K. Anderson",
+    "description": "Techniques and strategies for effective communication and public speaking.",
+    "genre": "Communications",
+    "price": 18.99
+  },
+  {
+    "title": "Global Economics",
+    "author": "Richard N. Brown",
+    "description": "A study of economic principles, global markets, and financial systems.",
+    "genre": "Economics",
+    "price": 33.0
+  },
+  {
+    "title": "Philosophy: A Modern Encounter",
+    "author": "Emma P. Wilson",
+    "description": "An introduction to the fundamental questions and ideas in philosophy.",
+    "genre": "Philosophy",
+    "price": 26.0
+  },
+  {
+    "title": "World Geography",
+    "author": "Daniel S. Murphy",
+    "description": "An insightful look into the physical and human geography of our planet.",
+    "genre": "Geography",
+    "price": 24.99
+  },
+  {
+    "title": "Principles of Sociology",
+    "author": "Grace H. Turner",
+    "description": "An examination of social structures, cultural norms, and human interactions.",
+    "genre": "Sociology",
+    "price": 30.0
+  },
+  {
+    "title": "Psychology and Behavior",
+    "author": "Oliver G. Smith",
+    "description": "Insights into human behavior and the workings of the mind.",
+    "genre": "Psychology",
+    "price": 39.99
+  },
+  {
+    "title": "The Science of Nutrition",
+    "author": "Emily A. Roberts",
+    "description": "An evidence-based approach to understanding nutrition and healthy eating.",
+    "genre": "Health Science",
+    "price": 28.95
+  },
+  {
+    "title": "Artistic Techniques",
+    "author": "Zoe K. Thompson",
+    "description": "A guide to various art techniques and mediums for aspiring artists.",
+    "genre": "Art",
+    "price": 25.0
+  },
+  {
+    "title": "Digital Media and Society",
+    "author": "Noah J. Williams",
+    "description": "An analysis of the impact of digital media on modern society and culture.",
+    "genre": "Media Studies",
+    "price": 34.5
+  },
+  {
+    "title": "The Evolution of Language",
+    "author": "Chloe R. Davis",
+    "description": "A historical and linguistic study of how languages evolve and shape cultures.",
+    "genre": "Linguistics",
+    "price": 29.0
+  },
+  {
+    "title": "The Human Brain",
+    "author": "Liam F. Martinez",
+    "description": "An in-depth look at the structure, function, and mysteries of the human brain.",
+    "genre": "Neuroscience",
+    "price": 42.0
+  }
+]

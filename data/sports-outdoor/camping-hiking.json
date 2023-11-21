@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Trailblazer Hiking Boots",
+    "manufacturer": "Mountain Step",
+    "description": "Durable and waterproof hiking boots, designed for both comfort and traction on rugged terrain.",
+    "price": "$120.00",
+    "material": "Genuine Leather",
+    "weight": "2 lbs"
+  },
+  {
+    "title": "EcoTrek Sleeping Bag",
+    "manufacturer": "GreenOutdoor",
+    "description": "Lightweight, eco-friendly sleeping bag, perfect for three-season camping, made with recycled materials.",
+    "price": "$80.00",
+    "material": "Recycled Polyester",
+    "weight": "2.5 lbs"
+  },
+  {
+    "title": "StarGazer 2-Person Tent",
+    "manufacturer": "SkyView Gear",
+    "description": "Compact and easy-to-set-up two-person tent with a clear roof panel for stargazing.",
+    "price": "$150.00",
+    "material": "Nylon, Mesh",
+    "weight": "5 lbs"
+  },
+  {
+    "title": "Summit Backpack",
+    "manufacturer": "HighRange",
+    "description": "Multi-compartment backpack with ergonomic design, suitable for long hikes and backpacking trips.",
+    "price": "$90.00",
+    "material": "Ripstop Nylon",
+    "weight": "3.5 lbs"
+  },
+  {
+    "title": "TrailChef Portable Stove",
+    "manufacturer": "CampCuisine",
+    "description": "Compact and efficient portable camping stove, perfect for cooking meals on the trail.",
+    "price": "$50.00",
+    "material": "Stainless Steel",
+    "weight": "1.5 lbs"
+  },
+  {
+    "title": "HydraFlow Water Filter",
+    "manufacturer": "PurityStream",
+    "description": "Portable water filtration system, ideal for hikers needing to purify water from natural sources.",
+    "price": "$40.00",
+    "material": "ABS Plastic",
+    "weight": "0.6 lbs"
+  },
+  {
+    "title": "EverGlow Solar Lantern",
+    "manufacturer": "LuminaLight",
+    "description": "Solar-powered lantern with adjustable brightness, perfect for eco-friendly lighting in campsites.",
+    "price": "$35.00",
+    "material": "Polycarbonate",
+    "weight": "1 lb"
+  },
+  {
+    "title": "RidgeWalker Trekking Poles",
+    "manufacturer": "StepSteady",
+    "description": "Lightweight and adjustable trekking poles for added stability and support on uneven terrain.",
+    "price": "$60.00",
+    "material": "Aluminum",
+    "weight": "1.2 lbs per pair"
+  },
+  {
+    "title": "AlphaSurvival Multi-Tool",
+    "manufacturer": "HandyOutdoor",
+    "description": "Versatile multi-tool for camping and hiking, includes a knife, screwdriver, bottle opener, and more.",
+    "price": "$25.00",
+    "material": "Stainless Steel",
+    "weight": "0.5 lbs"
+  },
+  {
+    "title": "CampComfort Inflatable Pillow",
+    "manufacturer": "DreamRest",
+    "description": "Ultra-comfortable inflatable pillow, easy to pack and ideal for a good night's sleep in the outdoors.",
+    "price": "$15.00",
+    "material": "Velvet, PVC",
+    "weight": "0.3 lbs"
+  }
+]

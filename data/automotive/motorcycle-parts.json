@@ -1,0 +1,142 @@
+[
+  {
+    "title": "UltraGrip Motorcycle Tires",
+    "manufacturer": "MotoTread",
+    "description": "High-performance tires designed for maximum grip and durability on all road conditions.",
+    "price": "$120.00",
+    "suitable_for_vehicle_types": "All motorcycles"
+  },
+  {
+    "title": "LED Headlight Upgrade Kit",
+    "manufacturer": "BrightPath",
+    "description": "Energy-efficient, super bright LED headlight kit to enhance visibility and safety.",
+    "price": "$80.00",
+    "suitable_for_vehicle_types": "All motorcycles"
+  },
+  {
+    "title": "AeroDynamic Windshield",
+    "manufacturer": "WindCutter",
+    "description": "A sleek, aerodynamic windshield that reduces wind resistance and improves fuel efficiency.",
+    "price": "$150.00",
+    "suitable_for_vehicle_types": "Sport, Touring motorcycles"
+  },
+  {
+    "title": "Bluetooth Helmet Intercom",
+    "manufacturer": "RiderComm",
+    "description": "Wireless intercom system for helmets, allowing clear communication and music streaming on the go.",
+    "price": "$200.00",
+    "suitable_for_vehicle_types": "All motorcycles"
+  },
+  {
+    "title": "Adjustable Suspension System",
+    "manufacturer": "SmoothRide",
+    "description": "Highly adjustable suspension kit for a smoother, more comfortable ride on varying terrains.",
+    "price": "$300.00",
+    "suitable_for_vehicle_types": "All motorcycles"
+  },
+  {
+    "title": "High-Performance Brake Pads",
+    "manufacturer": "StopRight",
+    "description": "Advanced brake pads offering superior stopping power and longer wear life.",
+    "price": "$70.00",
+    "suitable_for_vehicle_types": "All motorcycles"
+  },
+  {
+    "title": "Quick-Shift Gear Lever",
+    "manufacturer": "ShiftPro",
+    "description": "Ergonomically designed gear lever for faster and smoother gear shifting.",
+    "price": "$50.00",
+    "suitable_for_vehicle_types": "Sport motorcycles"
+  },
+  {
+    "title": "Customizable Exhaust System",
+    "manufacturer": "RoarPower",
+    "description": "Customizable exhaust system that boosts performance and adds a distinctive sound.",
+    "price": "$400.00",
+    "suitable_for_vehicle_types": "All motorcycles"
+  },
+  {
+    "title": "Leather Saddlebags",
+    "manufacturer": "RoadCarry",
+    "description": "Stylish and durable leather saddlebags for added storage space without sacrificing style.",
+    "price": "$180.00",
+    "suitable_for_vehicle_types": "Cruiser, Touring motorcycles"
+  },
+  {
+    "title": "Digital Dashboard Display",
+    "manufacturer": "DashTech",
+    "description": "A modern digital dashboard display that provides all vital information at a glance.",
+    "price": "$250.00",
+    "suitable_for_vehicle_types": "All motorcycles"
+  },
+  {
+    "title": "Advanced Air Filter",
+    "manufacturer": "AirMaxPro",
+    "description": "High-efficiency air filter for improved engine performance and longevity.",
+    "price": "$60.00",
+    "suitable_for_vehicle_types": "All motorcycles"
+  },
+  {
+    "title": "Racing Foot Pegs",
+    "manufacturer": "GripMaster",
+    "description": "High-grip foot pegs designed for racing and aggressive riding styles.",
+    "price": "$90.00",
+    "suitable_for_vehicle_types": "Sport, Racing motorcycles"
+  },
+  {
+    "title": "Heated Hand Grips",
+    "manufacturer": "WarmRide",
+    "description": "Comfortable heated hand grips for a more pleasant ride in cold weather.",
+    "price": "$100.00",
+    "suitable_for_vehicle_types": "All motorcycles"
+  },
+  {
+    "title": "Carbon Fiber Body Kit",
+    "manufacturer": "CarbonEdge",
+    "description": "Lightweight and durable carbon fiber body kit, enhancing both aesthetics and performance.",
+    "price": "$500.00",
+    "suitable_for_vehicle_types": "Sport motorcycles"
+  },
+  {
+    "title": "Motorcycle GPS Navigator",
+    "manufacturer": "RouteFinder",
+    "description": "A rugged, waterproof GPS navigator specifically designed for motorcycle use.",
+    "price": "$220.00",
+    "suitable_for_vehicle_types": "All motorcycles"
+  },
+  {
+    "title": "Fork Suspension Upgrade",
+    "manufacturer": "FlexFork",
+    "description": "Enhanced fork suspension for improved handling and comfort on rough terrains.",
+    "price": "$350.00",
+    "suitable_for_vehicle_types": "All motorcycles"
+  },
+  {
+    "title": "Rearview Camera Kit",
+    "manufacturer": "SafeView",
+    "description": "A rearview camera kit for increased awareness and safety while riding.",
+    "price": "$130.00",
+    "suitable_for_vehicle_types": "All motorcycles"
+  },
+  {
+    "title": "Performance Clutch Kit",
+    "manufacturer": "ClutchPlus",
+    "description": "A high-performance clutch kit for smoother transmission and better control.",
+    "price": "$250.00",
+    "suitable_for_vehicle_types": "All motorcycles"
+  },
+  {
+    "title": "LED Turn Signal Indicators",
+    "manufacturer": "SignalBright",
+    "description": "Bright and durable LED turn signals for enhanced visibility and safety.",
+    "price": "$45.00",
+    "suitable_for_vehicle_types": "All motorcycles"
+  },
+  {
+    "title": "Adjustable Rider Backrest",
+    "manufacturer": "ComfortRide",
+    "description": "Ergonomically designed adjustable backrest for long-distance riding comfort.",
+    "price": "$160.00",
+    "suitable_for_vehicle_types": "Touring motorcycles"
+  }
+]

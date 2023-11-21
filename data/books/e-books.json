@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Silent Echoes",
+    "author": "Mia K. Bennett",
+    "description": "A thrilling mystery novel set in a small coastal town.",
+    "genre": "Mystery",
+    "price": 9.99
+  },
+  {
+    "title": "The Last Star",
+    "author": "Evan T. James",
+    "description": "A science fiction saga about the last survivor of a distant planet.",
+    "genre": "Science Fiction",
+    "price": 12.99
+  },
+  {
+    "title": "Digital Love",
+    "author": "Sara H. Clarke",
+    "description": "A contemporary romance novel exploring love in the digital age.",
+    "genre": "Romance",
+    "price": 7.99
+  },
+  {
+    "title": "Time's Canvas",
+    "author": "Henry G. Wilson",
+    "description": "A historical fiction story set in Renaissance Italy.",
+    "genre": "Historical Fiction",
+    "price": 10.5
+  },
+  {
+    "title": "Beyond the Horizon",
+    "author": "Lily A. Foster",
+    "description": "An adventurer's memoir of exploring the world's most remote places.",
+    "genre": "Travel Memoir",
+    "price": 8.99
+  },
+  {
+    "title": "Code of Shadows",
+    "author": "Alex J. Murphy",
+    "description": "A cyber thriller about a hacker caught in a web of espionage.",
+    "genre": "Thriller",
+    "price": 11.99
+  },
+  {
+    "title": "Lost in Dreams",
+    "author": "Rachel L. Adams",
+    "description": "A young adult fantasy about a girl who can enter dreams.",
+    "genre": "Fantasy",
+    "price": 6.99
+  },
+  {
+    "title": "Echoes of War",
+    "author": "David P. Thompson",
+    "description": "A military fiction detailing the life of a soldier in a futuristic war.",
+    "genre": "Military Fiction",
+    "price": 13.5
+  },
+  {
+    "title": "The Hidden Path",
+    "author": "Emma C. Martinez",
+    "description": "A self-help guide on finding one's personal journey to happiness.",
+    "genre": "Self-Help",
+    "price": 5.99
+  },
+  {
+    "title": "Whispers of the Past",
+    "author": "Nathan R. Lee",
+    "description": "A gripping novel about uncovering family secrets through generations.",
+    "genre": "Drama",
+    "price": 9.5
+  },
+  {
+    "title": "Galactic Alliance",
+    "author": "Sophie K. Harris",
+    "description": "A space opera chronicling an interstellar war and the rise of a hero.",
+    "genre": "Space Opera",
+    "price": 14.99
+  },
+  {
+    "title": "Mindful Living",
+    "author": "Oliver T. Brown",
+    "description": "A guide to practicing mindfulness and living in the present moment.",
+    "genre": "Wellness",
+    "price": 7.5
+  },
+  {
+    "title": "The Artist's Way",
+    "author": "Grace M. Johnson",
+    "description": "A novel about an artist's struggle and success in Paris.",
+    "genre": "Literary Fiction",
+    "price": 8.5
+  },
+  {
+    "title": "Journey Through Time",
+    "author": "Ethan F. Roberts",
+    "description": "A science fiction novel about time travel and its consequences.",
+    "genre": "Time Travel",
+    "price": 10.99
+  },
+  {
+    "title": "Secrets of the Deep",
+    "author": "Chloe A. Williams",
+    "description": "An underwater adventure novel exploring the mysteries of the ocean.",
+    "genre": "Adventure",
+    "price": 12.0
+  },
+  {
+    "title": "The Entrepreneur's Edge",
+    "author": "Maxwell R. Smith",
+    "description": "A business book about innovative strategies for startup success.",
+    "genre": "Business",
+    "price": 15.99
+  },
+  {
+    "title": "The Haunting",
+    "author": "Ava E. Garcia",
+    "description": "A horror novel set in an abandoned mansion with a dark past.",
+    "genre": "Horror",
+    "price": 6.5
+  },
+  {
+    "title": "Quantum Leap",
+    "author": "Ryan D. Patel",
+    "description": "A scientific exploration of quantum mechanics made accessible.",
+    "genre": "Science",
+    "price": 18.99
+  },
+  {
+    "title": "Forbidden City",
+    "author": "Isabella Y. Lee",
+    "description": "A historical novel set in the heart of ancient China.",
+    "genre": "Historical",
+    "price": 14.5
+  },
+  {
+    "title": "The Mindful Chef",
+    "author": "Jack O. Thompson",
+    "description": "A cookbook combining mindfulness with delicious, healthy recipes.",
+    "genre": "Cookbook",
+    "price": 16.0
+  }
+]

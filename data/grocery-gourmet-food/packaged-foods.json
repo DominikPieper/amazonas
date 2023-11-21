@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Hearty Harvest Organic Soup Mix",
+    "manufacturer": "Nature's Bowl",
+    "description": "A blend of organic, non-GMO vegetables and herbs, perfect for a nutritious soup.",
+    "price": "$5.99",
+    "dietary_preferences": "Organic, Vegan"
+  },
+  {
+    "title": "Golden Morning Granola",
+    "manufacturer": "Sunrise Crunch",
+    "description": "Crunchy, whole-grain granola with honey, nuts, and dried fruits.",
+    "price": "$4.50",
+    "dietary_preferences": "Vegetarian"
+  },
+  {
+    "title": "Gluten-Free Penne Pasta",
+    "manufacturer": "Bella Vita",
+    "description": "Premium gluten-free penne pasta made from rice and corn flour.",
+    "price": "$3.99",
+    "dietary_preferences": "Gluten-Free, Vegan"
+  },
+  {
+    "title": "Tropical Bliss Dried Fruit Mix",
+    "manufacturer": "Island Munch",
+    "description": "A delicious mix of dried mango, pineapple, and papaya.",
+    "price": "$6.99",
+    "dietary_preferences": "Vegan, Gluten-Free"
+  },
+  {
+    "title": "Classic Marinara Sauce",
+    "manufacturer": "Roma's Kitchen",
+    "description": "Rich and authentic marinara sauce made from vine-ripened tomatoes and Italian herbs.",
+    "price": "$5.49",
+    "dietary_preferences": "Organic, Vegetarian"
+  },
+  {
+    "title": "Spicy Sriracha Almonds",
+    "manufacturer": "Nutty Heat",
+    "description": "Roasted almonds coated in a bold and spicy Sriracha seasoning.",
+    "price": "$7.99",
+    "dietary_preferences": "Vegan, Gluten-Free"
+  },
+  {
+    "title": "Smokey BBQ Tofu Jerky",
+    "manufacturer": "Veggie Delight",
+    "description": "Flavorful tofu jerky with a smokey barbecue taste, a perfect meat-free snack.",
+    "price": "$6.50",
+    "dietary_preferences": "Vegan, Gluten-Free"
+  },
+  {
+    "title": "Organic Wild Rice",
+    "manufacturer": "Pure Grains",
+    "description": "Premium, long-grain wild rice, organically grown and harvested.",
+    "price": "$8.99",
+    "dietary_preferences": "Organic, Gluten-Free"
+  },
+  {
+    "title": "Zesty Lemon Cookies",
+    "manufacturer": "Citrus Bites",
+    "description": "Light and crispy lemon-flavored cookies, a sweet and tangy treat.",
+    "price": "$4.99",
+    "dietary_preferences": "Vegetarian"
+  },
+  {
+    "title": "Savory Seaweed Snacks",
+    "manufacturer": "Ocean Crisp",
+    "description": "Thin and crispy seaweed snacks, lightly salted for a savory crunch.",
+    "price": "$2.99",
+    "dietary_preferences": "Vegan, Gluten-Free"
+  },
+  {
+    "title": "Exotic Mushroom Risotto",
+    "manufacturer": "Gourmet Harvest",
+    "description": "Ready-to-cook risotto with a blend of exotic mushrooms and arborio rice.",
+    "price": "$7.49",
+    "dietary_preferences": "Vegetarian, Gluten-Free"
+  },
+  {
+    "title": "Maple Pecan Oatmeal",
+    "manufacturer": "Morning Delight",
+    "description": "Whole grain oatmeal with sweet maple and crunchy pecans.",
+    "price": "$3.75",
+    "dietary_preferences": "Vegetarian"
+  },
+  {
+    "title": "Sweet and Spicy Trail Mix",
+    "manufacturer": "Trail King",
+    "description": "A mix of nuts, seeds, and dried fruits with a balance of sweet and spicy flavors.",
+    "price": "$5.99",
+    "dietary_preferences": "Vegan, Gluten-Free"
+  },
+  {
+    "title": "Organic Quinoa",
+    "manufacturer": "Andean Pure",
+    "description": "Nutritious and versatile organic quinoa, perfect for salads and side dishes.",
+    "price": "$9.99",
+    "dietary_preferences": "Organic, Gluten-Free"
+  },
+  {
+    "title": "Dark Chocolate Mint Bars",
+    "manufacturer": "Cocoa Bliss",
+    "description": "Rich dark chocolate bars infused with natural mint flavor.",
+    "price": "$6.50",
+    "dietary_preferences": "Vegetarian"
+  },
+  {
+    "title": "Cheddar Cheese Popcorn",
+    "manufacturer": "Pop Joy",
+    "description": "Air-popped popcorn coated in real cheddar cheese for a cheesy treat.",
+    "price": "$3.99",
+    "dietary_preferences": "Vegetarian, Gluten-Free"
+  },
+  {
+    "title": "Fiery Jalapeno Salsa",
+    "manufacturer": "Hot Harvest",
+    "description": "Spicy salsa made with fresh jalapenos, perfect for dipping or as a condiment.",
+    "price": "$4.99",
+    "dietary_preferences": "Vegan, Gluten-Free"
+  },
+  {
+    "title": "Gourmet Black Bean Soup",
+    "manufacturer": "Soup's On",
+    "description": "A hearty and flavorful black bean soup, ready to heat and serve.",
+    "price": "$5.99",
+    "dietary_preferences": "Vegan, Organic"
+  },
+  {
+    "title": "Whole Wheat Pita Bread",
+    "manufacturer": "Mediterranean Baker",
+    "description": "Soft and fluffy whole wheat pita bread, perfect for sandwiches and dips.",
+    "price": "$2.50",
+    "dietary_preferences": "Vegetarian"
+  },
+  {
+    "title": "Artisanal Olive Tapenade",
+    "manufacturer": "Oliva Gourmet",
+    "description": "A rich and savory olive tapenade, made with a blend of Kalamata and green olives.",
+    "price": "$8.99",
+    "dietary_preferences": "Vegan"
+  }
+]

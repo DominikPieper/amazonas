@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Alphabet Adventure Board",
+    "manufacturer": "Learn & Play",
+    "description": "A colorful board game designed to teach children the alphabet and basic phonetics.",
+    "price": "$19.99",
+    "minimum_age": 3
+  },
+  {
+    "title": "Math Maze Challenge",
+    "manufacturer": "NumbersFun",
+    "description": "An interactive puzzle game that helps children practice basic math skills.",
+    "price": "$24.99",
+    "minimum_age": 5
+  },
+  {
+    "title": "Junior Microscope Set",
+    "manufacturer": "ScienceKids",
+    "description": "A beginner's microscope kit for young scientists to explore the microscopic world.",
+    "price": "$29.99",
+    "minimum_age": 6
+  },
+  {
+    "title": "Eco Explorer Kit",
+    "manufacturer": "NatureQuest",
+    "description": "An outdoor exploration kit encouraging kids to learn about nature and the environment.",
+    "price": "$35.00",
+    "minimum_age": 4
+  },
+  {
+    "title": "Build-A-Robot Workshop",
+    "manufacturer": "TechTots",
+    "description": "A DIY robot kit for kids to assemble and program, introducing basic robotics concepts.",
+    "price": "$45.00",
+    "minimum_age": 7
+  },
+  {
+    "title": "Magnetic Puzzle Globe",
+    "manufacturer": "GeoGenius",
+    "description": "A 3D magnetic puzzle that forms a globe, teaching geography in a fun way.",
+    "price": "$39.99",
+    "minimum_age": 5
+  },
+  {
+    "title": "Musical Genius Keyboard",
+    "manufacturer": "MelodyMakers",
+    "description": "A kid-friendly electronic keyboard that teaches music theory and composition.",
+    "price": "$49.99",
+    "minimum_age": 4
+  },
+  {
+    "title": "Historical Heroes Chess Set",
+    "manufacturer": "PastMasters",
+    "description": "A chess set with historical figures as pieces, combining strategy games with history lessons.",
+    "price": "$34.99",
+    "minimum_age": 6
+  },
+  {
+    "title": "Solar Robot Creator",
+    "manufacturer": "FutureInventors",
+    "description": "A solar-powered robot kit that can be transformed into different modules, promoting renewable energy education.",
+    "price": "$30.00",
+    "minimum_age": 8
+  },
+  {
+    "title": "Bilingual Fun Flashcards",
+    "manufacturer": "LanguageLearners",
+    "description": "Flashcards designed to help children learn basic vocabulary in two languages.",
+    "price": "$15.99",
+    "minimum_age": 3
+  },
+  {
+    "title": "Interactive World Map",
+    "manufacturer": "GlobeTrotters",
+    "description": "A touch-sensitive electronic world map that teaches geography, culture, and languages.",
+    "price": "$40.00",
+    "minimum_age": 5
+  },
+  {
+    "title": "Dino Dig Archaeology Kit",
+    "manufacturer": "PaleoKids",
+    "description": "A hands-on kit for kids to dig and discover dinosaur fossils, learning about paleontology.",
+    "price": "$25.00",
+    "minimum_age": 6
+  },
+  {
+    "title": "Electricity & Circuits Lab",
+    "manufacturer": "BrightMinds",
+    "description": "An educational kit that introduces children to the basics of electricity and circuits.",
+    "price": "$50.00",
+    "minimum_age": 8
+  },
+  {
+    "title": "Planetarium Projector",
+    "manufacturer": "StarrySky",
+    "description": "A home planetarium that projects the night sky onto the ceiling, teaching astronomy.",
+    "price": "$45.00",
+    "minimum_age": 5
+  },
+  {
+    "title": "Junior Builder Toolset",
+    "manufacturer": "TinyCrafts",
+    "description": "A safe, child-friendly set of tools for young builders to create and learn basic carpentry.",
+    "price": "$29.99",
+    "minimum_age": 4
+  },
+  {
+    "title": "Science Magic Kit",
+    "manufacturer": "WizardLab",
+    "description": "A set of science-based magic tricks that teaches basic physics and chemistry principles.",
+    "price": "$35.00",
+    "minimum_age": 6
+  },
+  {
+    "title": "Botany Discovery Garden",
+    "manufacturer": "GreenThumb",
+    "description": "A grow-your-own garden kit that teaches children about plants and botany.",
+    "price": "$20.00",
+    "minimum_age": 5
+  },
+  {
+    "title": "Space Explorer Telescope",
+    "manufacturer": "CosmoKids",
+    "description": "A beginner's telescope for young astronomers to explore the stars and planets.",
+    "price": "$60.00",
+    "minimum_age": 7
+  },
+  {
+    "title": "Time Travel Puzzle",
+    "manufacturer": "HistoryHunters",
+    "description": "A jigsaw puzzle that, when completed, reveals a scene from a different historical period.",
+    "price": "$18.00",
+    "minimum_age": 4
+  },
+  {
+    "title": "Coding Critters",
+    "manufacturer": "CodeBuddies",
+    "description": "Interactive pets that teach children the basics of programming and logical thinking.",
+    "price": "$40.00",
+    "minimum_age": 5
+  }
+]

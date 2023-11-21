@@ -1,0 +1,142 @@
+[
+  {
+    "title": "CinemaWorld Plus",
+    "manufacturer": "CinemaWorld Studios",
+    "description": "An exclusive streaming service offering the latest blockbusters and classic movies.",
+    "price": "$9.99/month",
+    "genre": "Movies"
+  },
+  {
+    "title": "ShowBinge Premium",
+    "manufacturer": "ShowBinge Network",
+    "description": "Endless TV shows, including popular series and exclusive originals.",
+    "price": "$12.99/month",
+    "genre": "TV Shows"
+  },
+  {
+    "title": "DocuStream",
+    "manufacturer": "Documentary Network",
+    "description": "The go-to streaming service for award-winning documentaries.",
+    "price": "$8.99/month",
+    "genre": "Documentaries"
+  },
+  {
+    "title": "KidsFlix",
+    "manufacturer": "Family Entertainment Co.",
+    "description": "Safe and fun streaming platform for kids, featuring cartoons and educational shows.",
+    "price": "$6.99/month",
+    "genre": "Kids"
+  },
+  {
+    "title": "MusicLive",
+    "manufacturer": "Concert Network",
+    "description": "Live concerts and music videos streaming service for music enthusiasts.",
+    "price": "$10.50/month",
+    "genre": "Music"
+  },
+  {
+    "title": "AnimeGalaxy",
+    "manufacturer": "Otaku Media",
+    "description": "A vast collection of anime series and movies, from classics to new releases.",
+    "price": "$7.99/month",
+    "genre": "Anime"
+  },
+  {
+    "title": "ClassicCinema Archive",
+    "manufacturer": "Golden Age Studios",
+    "description": "Relive the golden era of cinema with this extensive library of classic films.",
+    "price": "$5.99/month",
+    "genre": "Classic Movies"
+  },
+  {
+    "title": "RealityHub",
+    "manufacturer": "Reality TV Network",
+    "description": "All your favorite reality TV shows in one place, with exclusive content.",
+    "price": "$11.99/month",
+    "genre": "Reality TV"
+  },
+  {
+    "title": "SportsStream Live",
+    "manufacturer": "Athletic Broadcasting Co.",
+    "description": "Live sports events and replays from around the world.",
+    "price": "$14.99/month",
+    "genre": "Sports"
+  },
+  {
+    "title": "IndieFlicks",
+    "manufacturer": "Independent Cinema Co.",
+    "description": "A curated selection of independent movies from emerging filmmakers.",
+    "price": "$8.50/month",
+    "genre": "Independent"
+  },
+  {
+    "title": "ThrillerZone",
+    "manufacturer": "Mystery Network",
+    "description": "A streaming service dedicated to thriller and mystery genres.",
+    "price": "$9.50/month",
+    "genre": "Thriller"
+  },
+  {
+    "title": "SciFi Universe",
+    "manufacturer": "Future Media",
+    "description": "Explore new worlds with this sci-fi and fantasy streaming service.",
+    "price": "$10.99/month",
+    "genre": "Sci-Fi"
+  },
+  {
+    "title": "RomCom Central",
+    "manufacturer": "Love Stories Network",
+    "description": "The ultimate destination for romantic comedies.",
+    "price": "$7.50/month",
+    "genre": "Romantic Comedy"
+  },
+  {
+    "title": "ActionMax",
+    "manufacturer": "Adrenaline Studios",
+    "description": "Non-stop action movies and series for thrill-seekers.",
+    "price": "$11.50/month",
+    "genre": "Action"
+  },
+  {
+    "title": "HorrorVault",
+    "manufacturer": "Fright Night Entertainment",
+    "description": "A vast collection of horror movies, from classic scares to modern nightmares.",
+    "price": "$8.99/month",
+    "genre": "Horror"
+  },
+  {
+    "title": "GlobalCultures Stream",
+    "manufacturer": "Worldview Media",
+    "description": "Discover movies and shows from different cultures around the world.",
+    "price": "$6.50/month",
+    "genre": "International"
+  },
+  {
+    "title": "ComedyLaughs Network",
+    "manufacturer": "Fun Times Media",
+    "description": "A streaming service dedicated to comedies, stand-ups, and sitcoms.",
+    "price": "$10.00/month",
+    "genre": "Comedy"
+  },
+  {
+    "title": "WildNature Live",
+    "manufacturer": "NatureWatch Co.",
+    "description": "Stream breathtaking nature and wildlife documentaries.",
+    "price": "$9.00/month",
+    "genre": "Nature"
+  },
+  {
+    "title": "HistoryChronicles",
+    "manufacturer": "Past Times Network",
+    "description": "Dive into the past with documentaries and series on historical events.",
+    "price": "$8.00/month",
+    "genre": "History"
+  },
+  {
+    "title": "MysteryTheatre Online",
+    "manufacturer": "Suspense Media",
+    "description": "A unique collection of mystery and suspense films and series.",
+    "price": "$10.50/month",
+    "genre": "Mystery"
+  }
+]

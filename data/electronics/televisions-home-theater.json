@@ -1,0 +1,122 @@
+[
+  {
+    "title": "CinemaView 4K Smart TV",
+    "manufacturer": "VisionTech",
+    "description": "65-inch 4K Ultra HD Smart TV with HDR10 and voice control compatibility.",
+    "price": "999.99"
+  },
+  {
+    "title": "SoundWave Surround System",
+    "manufacturer": "AuralSpace",
+    "description": "7.1 Channel high-fidelity surround sound system with wireless speakers.",
+    "price": "600.00"
+  },
+  {
+    "title": "StreamBox Media Player",
+    "manufacturer": "DigitalStream",
+    "description": "Compact streaming media player with 4K support and integrated voice assistant.",
+    "price": "129.99"
+  },
+  {
+    "title": "ProjectorPro HD Projector",
+    "manufacturer": "LightBeam",
+    "description": "1080p HD projector with 3000 lumens brightness and easy connectivity.",
+    "price": "450.00"
+  },
+  {
+    "title": "UltraSound Bar",
+    "manufacturer": "EchoTech",
+    "description": "Slim soundbar with built-in subwoofer, Bluetooth, and Dolby Atmos technology.",
+    "price": "299.99"
+  },
+  {
+    "title": "HomeCinema Wireless Headphones",
+    "manufacturer": "QuietZone",
+    "description": "Wireless over-ear headphones designed for home theater with noise cancellation.",
+    "price": "200.00"
+  },
+  {
+    "title": "MegaScreen Outdoor TV",
+    "manufacturer": "OpenAir",
+    "description": "75-inch weatherproof outdoor TV with 4K resolution and anti-glare screen.",
+    "price": "2500.00"
+  },
+  {
+    "title": "BluRay Master Player",
+    "manufacturer": "DigitalPlay",
+    "description": "High-definition Blu-ray player with 3D support and integrated streaming apps.",
+    "price": "150.00"
+  },
+  {
+    "title": "VisionMount TV Wall Mount",
+    "manufacturer": "SturdyHold",
+    "description": "Adjustable wall mount for TVs up to 85 inches with tilt and swivel features.",
+    "price": "99.99"
+  },
+  {
+    "title": "EchoBass Subwoofer",
+    "manufacturer": "BassPulse",
+    "description": "Powerful subwoofer with deep bass response for home theater systems.",
+    "price": "350.00"
+  },
+  {
+    "title": "BeamLink HDMI Cables",
+    "manufacturer": "ConnectPro",
+    "description": "High-speed HDMI cables, 6 ft, with ethernet support for 4K video.",
+    "price": "19.99"
+  },
+  {
+    "title": "Satellite Speaker Set",
+    "manufacturer": "SonicSphere",
+    "description": "Set of 4 compact satellite speakers for surround sound systems.",
+    "price": "250.00"
+  },
+  {
+    "title": "RemoteMaster Universal Remote",
+    "manufacturer": "ControlHub",
+    "description": "Universal remote control with touchscreen and programmable macros.",
+    "price": "79.99"
+  },
+  {
+    "title": "ScreenClean Kit",
+    "manufacturer": "PureView",
+    "description": "Screen cleaning kit for TVs and monitors with microfiber cloth and solution.",
+    "price": "14.99"
+  },
+  {
+    "title": "AuraLight LED Backlight",
+    "manufacturer": "GlowEdge",
+    "description": "LED TV backlight kit with color-changing options and remote control.",
+    "price": "29.99"
+  },
+  {
+    "title": "FlexTilt TV Stand",
+    "manufacturer": "StableView",
+    "description": "Adjustable TV stand with tilt and rotate options for TVs up to 60 inches.",
+    "price": "120.00"
+  },
+  {
+    "title": "PowerProtect Surge Protector",
+    "manufacturer": "SafeCurrent",
+    "description": "Surge protector with 8 outlets and 4 USB ports for home theater setups.",
+    "price": "49.99"
+  },
+  {
+    "title": "Wireless HDMI Transmitter",
+    "manufacturer": "SignalWave",
+    "description": "Wireless HDMI transmitter and receiver kit for streaming HD video and audio.",
+    "price": "199.99"
+  },
+  {
+    "title": "SmartTV Upgrade Kit",
+    "manufacturer": "FutureTech",
+    "description": "Device to upgrade non-smart TVs with streaming capabilities and app support.",
+    "price": "89.99"
+  },
+  {
+    "title": "ClearVision Antenna",
+    "manufacturer": "SkyLink",
+    "description": "Digital HDTV antenna with 150-mile range and easy installation.",
+    "price": "55.00"
+  }
+]

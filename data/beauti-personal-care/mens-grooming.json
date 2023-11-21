@@ -1,0 +1,142 @@
+[
+  {
+    "title": "RuggedBeard Oil",
+    "manufacturer": "BeardBros",
+    "description": "A nourishing beard oil for a smooth, healthy beard.",
+    "price": 15.99,
+    "ingredients": "Argan oil, Jojoba oil, Vitamin E"
+  },
+  {
+    "title": "SleekShave Gel",
+    "manufacturer": "SmoothEdge",
+    "description": "A hydrating shave gel for a close, comfortable shave.",
+    "price": 9.99,
+    "ingredients": "Aloe vera, Glycerin, Tea tree oil"
+  },
+  {
+    "title": "PowerHold Hair Wax",
+    "manufacturer": "StyleKing",
+    "description": "A strong hold hair wax for lasting style.",
+    "price": 12.5,
+    "ingredients": "Beeswax, Lanolin, Castor oil"
+  },
+  {
+    "title": "DeepClean Face Wash",
+    "manufacturer": "SkinGuard",
+    "description": "A deep cleansing face wash for clear skin.",
+    "price": 10.0,
+    "ingredients": "Charcoal, Salicylic acid, Witch hazel"
+  },
+  {
+    "title": "UltraFresh Body Wash",
+    "manufacturer": "AquaFresh",
+    "description": "An invigorating body wash for all-day freshness.",
+    "price": 8.99,
+    "ingredients": "Peppermint, Eucalyptus, Glycerin"
+  },
+  {
+    "title": "CoolKick After Shave",
+    "manufacturer": "SootheMaster",
+    "description": "A cooling after shave lotion to soothe and hydrate skin.",
+    "price": 14.0,
+    "ingredients": "Menthol, Witch hazel, Aloe vera"
+  },
+  {
+    "title": "SilverFox Hair Tonic",
+    "manufacturer": "AgelessStyle",
+    "description": "A revitalizing tonic for silver and grey hair.",
+    "price": 16.0,
+    "ingredients": "Biotin, Keratin, Purple pigment"
+  },
+  {
+    "title": "IronGrip Hair Gel",
+    "manufacturer": "HoldHero",
+    "description": "A high-strength hair gel for maximum hold.",
+    "price": 11.0,
+    "ingredients": "Polyvinylpyrrolidone, Glycerin, Aloe vera"
+  },
+  {
+    "title": "OceanBreeze Deodorant",
+    "manufacturer": "FreshWave",
+    "description": "A long-lasting deodorant with a fresh ocean scent.",
+    "price": 7.5,
+    "ingredients": "Aluminum zirconium, Sea salt, Sandalwood"
+  },
+  {
+    "title": "ReviveEye Cream",
+    "manufacturer": "LookAlive",
+    "description": "An eye cream to reduce puffiness and dark circles.",
+    "price": 18.0,
+    "ingredients": "Caffeine, Hyaluronic acid, Green tea"
+  },
+  {
+    "title": "ManeThick Shampoo",
+    "manufacturer": "FullLocks",
+    "description": "A volumizing shampoo for thicker, fuller hair.",
+    "price": 12.99,
+    "ingredients": "Biotin, Wheat protein, Saw palmetto"
+  },
+  {
+    "title": "SportGuard Sunscreen",
+    "manufacturer": "SunDefender",
+    "description": "A water-resistant sunscreen for active lifestyles.",
+    "price": 15.0,
+    "ingredients": "Zinc oxide, Aloe vera, Vitamin E"
+  },
+  {
+    "title": "NightRepair Moisturizer",
+    "manufacturer": "SkinRenew",
+    "description": "An overnight moisturizer for rejuvenated skin.",
+    "price": 20.0,
+    "ingredients": "Retinol, Shea butter, Green tea"
+  },
+  {
+    "title": "CharcoalBody Scrub",
+    "manufacturer": "ExfoliMen",
+    "description": "An exfoliating body scrub with activated charcoal.",
+    "price": 13.0,
+    "ingredients": "Activated charcoal, Walnut shell, Jojoba oil"
+  },
+  {
+    "title": "Gentleman's Cologne",
+    "manufacturer": "ScentSavvy",
+    "description": "A sophisticated cologne with a timeless scent.",
+    "price": 35.0,
+    "ingredients": "Bergamot, Sandalwood, Musk"
+  },
+  {
+    "title": "HydraBoost Face Serum",
+    "manufacturer": "LuxeDerm",
+    "description": "A hydrating serum for a youthful complexion.",
+    "price": 22.0,
+    "ingredients": "Hyaluronic acid, Vitamin C, Squalane"
+  },
+  {
+    "title": "ClearPores Acne Treatment",
+    "manufacturer": "NoBlemish",
+    "description": "A targeted acne treatment for clear skin.",
+    "price": 19.0,
+    "ingredients": "Benzoyl peroxide, Tea tree oil, Salicylic acid"
+  },
+  {
+    "title": "MountainFresh Body Lotion",
+    "manufacturer": "PeakHydration",
+    "description": "A body lotion with a refreshing mountain scent.",
+    "price": 10.5,
+    "ingredients": "Shea butter, Cedarwood, Glycerin"
+  },
+  {
+    "title": "EdgeControl Shaving Cream",
+    "manufacturer": "SharpLine",
+    "description": "A premium shaving cream for precise shaving.",
+    "price": 13.5,
+    "ingredients": "Lanolin, Stearic acid, Lavender oil"
+  },
+  {
+    "title": "ZenBalance Scalp Treatment",
+    "manufacturer": "RootRelief",
+    "description": "A scalp treatment to soothe and nourish.",
+    "price": 17.0,
+    "ingredients": "Peppermint oil, Tea tree oil, Jojoba oil"
+  }
+]

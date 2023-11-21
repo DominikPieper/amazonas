@@ -1,0 +1,142 @@
+[
+  {
+    "title": "FleaAway Natural Flea Treatment",
+    "manufacturer": "PetWell",
+    "description": "All-natural flea and tick repellent for dogs and cats.",
+    "price": "$18.99",
+    "kind_of_animal": "Dog, Cat"
+  },
+  {
+    "title": "BrightBeak Parrot Vitamin Supplement",
+    "manufacturer": "AviaryBoost",
+    "description": "Daily vitamin supplement for parrots to enhance feather health.",
+    "price": "$15.99",
+    "kind_of_animal": "Bird"
+  },
+  {
+    "title": "Aquatic Health Fish Vitamins",
+    "manufacturer": "AquaVita",
+    "description": "Water-soluble multivitamin formula for all aquarium fish.",
+    "price": "$12.99",
+    "kind_of_animal": "Fish"
+  },
+  {
+    "title": "CalmPaws Anxiety Relief for Dogs",
+    "manufacturer": "CanineCare",
+    "description": "Herbal remedy to soothe and calm anxious dogs.",
+    "price": "$19.99",
+    "kind_of_animal": "Dog"
+  },
+  {
+    "title": "ShellGuard Turtle Shell Strengthener",
+    "manufacturer": "ReptiHealth",
+    "description": "Nutrient supplement for strengthening turtle shells.",
+    "price": "$9.99",
+    "kind_of_animal": "Turtle"
+  },
+  {
+    "title": "Rabbit Digestive Support",
+    "manufacturer": "BunnyBalance",
+    "description": "Probiotic and digestive enzyme blend for rabbits.",
+    "price": "$16.99",
+    "kind_of_animal": "Rabbit"
+  },
+  {
+    "title": "Senior Cat Joint Formula",
+    "manufacturer": "FelineFlex",
+    "description": "Joint and mobility support for older cats.",
+    "price": "$21.99",
+    "kind_of_animal": "Cat"
+  },
+  {
+    "title": "Hamster Coat Enhancer",
+    "manufacturer": "FurGlow",
+    "description": "Natural supplement for a shiny and healthy hamster coat.",
+    "price": "$8.99",
+    "kind_of_animal": "Rodent"
+  },
+  {
+    "title": "Guinea Pig Vitamin C Drops",
+    "manufacturer": "CavyCare",
+    "description": "Easy-to-administer Vitamin C drops for guinea pigs.",
+    "price": "$10.99",
+    "kind_of_animal": "Guinea Pig"
+  },
+  {
+    "title": "ReptiDerm Shedding Aid",
+    "manufacturer": "ReptiRelief",
+    "description": "Skin and scale conditioner for reptiles during shedding.",
+    "price": "$7.99",
+    "kind_of_animal": "Reptile"
+  },
+  {
+    "title": "Kitten Immune Booster",
+    "manufacturer": "KittyVital",
+    "description": "Immune system booster for growing kittens.",
+    "price": "$14.99",
+    "kind_of_animal": "Cat"
+  },
+  {
+    "title": "Canine Dental Hygiene Chews",
+    "manufacturer": "DoggyDent",
+    "description": "Dental chews for maintaining dog oral health.",
+    "price": "$13.99",
+    "kind_of_animal": "Dog"
+  },
+  {
+    "title": "Bird Beak and Claw Conditioner",
+    "manufacturer": "FeatherCare",
+    "description": "Conditioner for healthy bird beaks and claws.",
+    "price": "$6.99",
+    "kind_of_animal": "Bird"
+  },
+  {
+    "title": "Puppy Calcium Formula",
+    "manufacturer": "PuppyGrow",
+    "description": "Calcium supplement for growing puppies.",
+    "price": "$18.99",
+    "kind_of_animal": "Dog"
+  },
+  {
+    "title": "Ferret Ear Cleaner",
+    "manufacturer": "FerretEase",
+    "description": "Gentle ear cleaning solution for ferrets.",
+    "price": "$9.99",
+    "kind_of_animal": "Ferret"
+  },
+  {
+    "title": "Chinchilla Bath Dust",
+    "manufacturer": "ChinchillaCharm",
+    "description": "Hypoallergenic dust for chinchilla fur and skin health.",
+    "price": "$5.99",
+    "kind_of_animal": "Chinchilla"
+  },
+  {
+    "title": "Fish Parasite Treatment",
+    "manufacturer": "AquaHeal",
+    "description": "Effective treatment for common fish parasites.",
+    "price": "$11.99",
+    "kind_of_animal": "Fish"
+  },
+  {
+    "title": "Canine Allergy Relief",
+    "manufacturer": "DoggySooth",
+    "description": "Natural remedy for dogs with seasonal allergies.",
+    "price": "$17.99",
+    "kind_of_animal": "Dog"
+  },
+  {
+    "title": "Lizard UVB Light Supplement",
+    "manufacturer": "SunBask",
+    "description": "UVB light bulb for optimal lizard health.",
+    "price": "$22.99",
+    "kind_of_animal": "Lizard"
+  },
+  {
+    "title": "Hedgehog Nail Clippers",
+    "manufacturer": "HedgyCare",
+    "description": "Specially designed nail clippers for hedgehogs.",
+    "price": "$4.99",
+    "kind_of_animal": "Hedgehog"
+  }
+]

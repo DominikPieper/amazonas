@@ -1,0 +1,122 @@
+[
+  {
+    "title": "ErgoChair Executive",
+    "manufacturer": "ComfortSeating",
+    "description": "Ergonomically designed executive chair with lumbar support and adjustable armrests.",
+    "price": "$249.99"
+  },
+  {
+    "title": "SpaceSaver Compact Desk",
+    "manufacturer": "SmartOffice",
+    "description": "Compact and modern desk ideal for small office spaces, with built-in storage.",
+    "price": "$199.00"
+  },
+  {
+    "title": "ModuShelf Adjustable Bookcase",
+    "manufacturer": "OrganizeIt",
+    "description": "Modular bookcase with adjustable shelves, suitable for office and home libraries.",
+    "price": "$150.50"
+  },
+  {
+    "title": "ConferencePro Round Table",
+    "manufacturer": "MeetSpace",
+    "description": "Round conference table for six, with elegant wood finish and sturdy design.",
+    "price": "$300.00"
+  },
+  {
+    "title": "FlexiWork Mobile Workstation",
+    "manufacturer": "ErgoDesk",
+    "description": "Height-adjustable mobile workstation with locking wheels and tiltable desktop.",
+    "price": "$180.00"
+  },
+  {
+    "title": "QuietSpace Office Partition",
+    "manufacturer": "PrivacyPanels",
+    "description": "Freestanding office partition for creating private workspaces in open offices.",
+    "price": "$99.99"
+  },
+  {
+    "title": "ComfyBreak Lounge Sofa",
+    "manufacturer": "RelaxSpace",
+    "description": "Contemporary lounge sofa for office break rooms or reception areas.",
+    "price": "$450.00"
+  },
+  {
+    "title": "ProFile Lateral File Cabinet",
+    "manufacturer": "SecureStorage",
+    "description": "Lateral file cabinet with lockable drawers and anti-tilt mechanism.",
+    "price": "$220.00"
+  },
+  {
+    "title": "StandTall Presentation Podium",
+    "manufacturer": "SpeakEasy",
+    "description": "Elegant wooden podium with adjustable height and integrated sound system.",
+    "price": "$200.00"
+  },
+  {
+    "title": "VisionBoard Glass Whiteboard",
+    "manufacturer": "ClearThoughts",
+    "description": "Frameless glass whiteboard, perfect for brainstorming and presentations.",
+    "price": "$120.00"
+  },
+  {
+    "title": "TaskMaster Ergonomic Stool",
+    "manufacturer": "SitWell",
+    "description": "Ergonomic stool with adjustable height and tilt, ideal for active sitting.",
+    "price": "$89.99"
+  },
+  {
+    "title": "PrintStation Printer Stand",
+    "manufacturer": "OfficeAid",
+    "description": "Mobile printer stand with storage shelves and cable management system.",
+    "price": "$75.00"
+  },
+  {
+    "title": "CollabHub Modular Sofa Set",
+    "manufacturer": "TeamSpace",
+    "description": "Modular sofa set for collaborative workspaces, configurable in multiple layouts.",
+    "price": "$950.00"
+  },
+  {
+    "title": "SkyView Large Window Blind",
+    "manufacturer": "LightControl",
+    "description": "Adjustable window blind for large office windows, UV protection and glare reduction.",
+    "price": "$130.00"
+  },
+  {
+    "title": "GreenSpace Indoor Planter",
+    "manufacturer": "EcoDecor",
+    "description": "Stylish indoor planter for office spaces, enhancing air quality and decor.",
+    "price": "$60.00"
+  },
+  {
+    "title": "CableConceal Management System",
+    "manufacturer": "TechTidy",
+    "description": "Cable management system to organize and conceal office wires and cords.",
+    "price": "$29.99"
+  },
+  {
+    "title": "FloatLight Pendant Lamp",
+    "manufacturer": "AmbiLight",
+    "description": "Modern pendant lamp for office lighting, creating a warm and inviting atmosphere.",
+    "price": "$110.00"
+  },
+  {
+    "title": "ExpandDesk Modular Desk System",
+    "manufacturer": "FlexiOffice",
+    "description": "Modular desk system, expandable and customizable for any office layout.",
+    "price": "$400.00"
+  },
+  {
+    "title": "Ultima Reception Counter",
+    "manufacturer": "WelcomeDesk",
+    "description": "Sleek reception counter with LED lighting and ample storage space.",
+    "price": "$800.00"
+  },
+  {
+    "title": "ZenGarden Miniature Landscape",
+    "manufacturer": "SerenityDecor",
+    "description": "Miniature landscape for office desks, promoting relaxation and focus.",
+    "price": "$45.00"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "title": "VelvetMatte Lipstick",
+    "manufacturer": "LipLux",
+    "description": "A long-lasting matte lipstick with a velvety finish.",
+    "price": 18.99,
+    "ingredients": "Beeswax, Vitamin E, Jojoba oil"
+  },
+  {
+    "title": "LushLash Mascara",
+    "manufacturer": "EyeEnvy",
+    "description": "Volumizing mascara for thick, dramatic lashes.",
+    "price": 20.5,
+    "ingredients": "Natural waxes, Rice protein, Panthenol"
+  },
+  {
+    "title": "SunKissed Bronzer",
+    "manufacturer": "GlowGoddess",
+    "description": "A natural-looking bronzer for a sun-kissed glow.",
+    "price": 22.99,
+    "ingredients": "Mica, Titanium dioxide, Iron oxides"
+  },
+  {
+    "title": "FlawlessFinish Foundation",
+    "manufacturer": "SkinMatch",
+    "description": "A lightweight foundation for a flawless, natural look.",
+    "price": 25.0,
+    "ingredients": "Dimethicone, Glycerin, SPF 15"
+  },
+  {
+    "title": "PopColor Eyeshadow Palette",
+    "manufacturer": "VividShades",
+    "description": "A vibrant eyeshadow palette for bold, expressive eyes.",
+    "price": 30.0,
+    "ingredients": "Talc, Mica, Zinc stearate"
+  },
+  {
+    "title": "DefineArt Eyeliner",
+    "manufacturer": "LinePro",
+    "description": "A waterproof, smudge-proof eyeliner for precise lines.",
+    "price": 16.0,
+    "ingredients": "Carbon black, Wax base, Silicone"
+  },
+  {
+    "title": "GlowHighlighter",
+    "manufacturer": "RadianceRise",
+    "description": "A luminous highlighter for a radiant complexion.",
+    "price": 23.0,
+    "ingredients": "Mica, Silica, Titanium dioxide"
+  },
+  {
+    "title": "PerfectBrows Gel",
+    "manufacturer": "BrowMaster",
+    "description": "A tinted brow gel for perfectly shaped eyebrows.",
+    "price": 19.0,
+    "ingredients": "Glycerin, Pigments, Panthenol"
+  },
+  {
+    "title": "BlushBloom Powder",
+    "manufacturer": "CheekCharm",
+    "description": "A silky blush powder for a natural, rosy glow.",
+    "price": 18.0,
+    "ingredients": "Talc, Mica, Red 30 Lake"
+  },
+  {
+    "title": "PoreRefine Primer",
+    "manufacturer": "SmoothCanvas",
+    "description": "A primer to refine pores and smooth skin texture.",
+    "price": 24.0,
+    "ingredients": "Dimethicone, Silica, Vitamin E"
+  },
+  {
+    "title": "LastingTouch Concealer",
+    "manufacturer": "CoverCraft",
+    "description": "A full-coverage concealer for a flawless finish.",
+    "price": 17.5,
+    "ingredients": "Cyclopentasiloxane, Titanium dioxide, Iron oxides"
+  },
+  {
+    "title": "MagicDust Setting Powder",
+    "manufacturer": "SetSational",
+    "description": "A translucent setting powder for long-lasting makeup.",
+    "price": 22.0,
+    "ingredients": "Silica, Corn starch, Mica"
+  },
+  {
+    "title": "ShimmerShade Liquid Eyeshadow",
+    "manufacturer": "GleamGaze",
+    "description": "A long-wear liquid eyeshadow with a shimmering finish.",
+    "price": 21.0,
+    "ingredients": "Water, Mica, Glycerin"
+  },
+  {
+    "title": "LipPlump Gloss",
+    "manufacturer": "PoutPerfection",
+    "description": "A plumping lip gloss for fuller-looking lips.",
+    "price": 18.0,
+    "ingredients": "Peppermint oil, Hyaluronic acid, Vitamin E"
+  },
+  {
+    "title": "AllDay Wear Lip Liner",
+    "manufacturer": "EdgeExpert",
+    "description": "A smooth, long-lasting lip liner for defined lips.",
+    "price": 15.0,
+    "ingredients": "Candelilla wax, Iron oxides, Vitamin C"
+  },
+  {
+    "title": "BlemishBalm BB Cream",
+    "manufacturer": "ComplexionCare",
+    "description": "A multi-tasking BB cream for even skin tone.",
+    "price": 27.0,
+    "ingredients": "Zinc oxide, Niacinamide, Aloe vera"
+  },
+  {
+    "title": "UltraGlow Illuminator",
+    "manufacturer": "ShineSculpt",
+    "description": "An illuminator for a dewy, radiant finish.",
+    "price": 26.0,
+    "ingredients": "Mica, Beeswax, Jojoba oil"
+  },
+  {
+    "title": "ProFinish Translucent Veil",
+    "manufacturer": "FinalTouch",
+    "description": "A lightweight veil for a polished makeup finish.",
+    "price": 23.5,
+    "ingredients": "Silica spheres, Talc, Vitamin E"
+  },
+  {
+    "title": "BoldImpact Liquid Lipstick",
+    "manufacturer": "LipStatement",
+    "description": "A high-impact liquid lipstick for bold color.",
+    "price": 19.99,
+    "ingredients": "Isododecane, Dyes, Vitamin E"
+  },
+  {
+    "title": "NaturalCharm Tinted Moisturizer",
+    "manufacturer": "DewySkin",
+    "description": "A hydrating tinted moisturizer for a natural look.",
+    "price": 24.0,
+    "ingredients": "Glycerin, Titanium dioxide, Chamomile extract"
+  }
+]

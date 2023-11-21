@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SmartScan Pro Document Scanner",
+    "manufacturer": "TechAdvance",
+    "description": "High-speed, duplex document scanner with Wi-Fi connectivity.",
+    "price": "$299.99"
+  },
+  {
+    "title": "PrintMaster LaserJet Printer",
+    "manufacturer": "OfficeTech",
+    "description": "High-definition color laser printer, ideal for office use.",
+    "price": "$459.00"
+  },
+  {
+    "title": "VoiceMax Conference Speakerphone",
+    "manufacturer": "ConnectEase",
+    "description": "Bluetooth-enabled speakerphone with advanced noise cancellation for conferences.",
+    "price": "$120.50"
+  },
+  {
+    "title": "EconoLam Laminator",
+    "manufacturer": "PaperGuard",
+    "description": "Compact and efficient laminator for professional-grade laminating.",
+    "price": "$85.99"
+  },
+  {
+    "title": "DigitDesk Adjustable Standing Desk",
+    "manufacturer": "ErgoWork",
+    "description": "Electric adjustable standing desk with memory presets.",
+    "price": "$350.00"
+  },
+  {
+    "title": "UltraBind Binding Machine",
+    "manufacturer": "BindPro",
+    "description": "High-capacity binding machine for reports and presentations.",
+    "price": "$199.99"
+  },
+  {
+    "title": "ClearTalk Wireless Headset",
+    "manufacturer": "AudioCom",
+    "description": "Wireless headset with noise-cancelling microphone for clear communication.",
+    "price": "$99.99"
+  },
+  {
+    "title": "ShredSafe Paper Shredder",
+    "manufacturer": "SecureDocs",
+    "description": "Cross-cut paper shredder with auto-shutoff for safety.",
+    "price": "$130.00"
+  },
+  {
+    "title": "ProjectPro 4K Projector",
+    "manufacturer": "VisioTech",
+    "description": "4K Ultra HD projector for presentations and videos.",
+    "price": "$500.00"
+  },
+  {
+    "title": "CountEasy Digital Coin Sorter",
+    "manufacturer": "CashFlow",
+    "description": "Fast and accurate digital coin sorter and counter.",
+    "price": "$75.00"
+  },
+  {
+    "title": "MemoVoice Digital Voice Recorder",
+    "manufacturer": "RecordIt",
+    "description": "Compact digital voice recorder with long battery life.",
+    "price": "$45.99"
+  },
+  {
+    "title": "SmartBoard Interactive Whiteboard",
+    "manufacturer": "EduTech",
+    "description": "Interactive whiteboard with touch and stylus input for collaborative work.",
+    "price": "$700.00"
+  },
+  {
+    "title": "PowerPlus Solar Calculator",
+    "manufacturer": "EcoCalc",
+    "description": "Solar-powered calculator with large display and durable keys.",
+    "price": "$20.00"
+  },
+  {
+    "title": "ChargeHub Universal Charging Station",
+    "manufacturer": "MultiCharge",
+    "description": "Multi-device charging station with six USB ports.",
+    "price": "$49.99"
+  },
+  {
+    "title": "FaxPro Digital Fax Machine",
+    "manufacturer": "CommuTech",
+    "description": "Digital fax machine with email integration and high-speed transmission.",
+    "price": "$250.00"
+  },
+  {
+    "title": "TimeTrack Employee Time Clock",
+    "manufacturer": "EfficiencyPro",
+    "description": "Biometric time clock for employee time tracking with cloud-based reporting.",
+    "price": "$199.00"
+  },
+  {
+    "title": "HeatPress T-shirt Printing Machine",
+    "manufacturer": "PrintCraft",
+    "description": "High-quality T-shirt printing machine for custom designs.",
+    "price": "$300.00"
+  },
+  {
+    "title": "LabelPro Thermal Label Printer",
+    "manufacturer": "PrintEase",
+    "description": "Thermal label printer for shipping labels and barcode printing.",
+    "price": "$150.00"
+  },
+  {
+    "title": "ZoomCam HD Webcam",
+    "manufacturer": "VisionTech",
+    "description": "HD webcam with autofocus and built-in microphone for video conferencing.",
+    "price": "$100.00"
+  },
+  {
+    "title": "AirPure Office Air Purifier",
+    "manufacturer": "HealthBreeze",
+    "description": "Compact air purifier with HEPA filter for office spaces.",
+    "price": "$120.00"
+  }
+]

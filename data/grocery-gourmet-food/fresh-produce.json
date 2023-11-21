@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Sunshine Sweet Strawberries",
+    "manufacturer": "Berry Bliss Farms",
+    "description": "Juicy, ripe strawberries, hand-picked for peak sweetness.",
+    "price": "$4.99 per lb",
+    "dietary_preferences": "Organic, Vegan"
+  },
+  {
+    "title": "Crisp Gala Apples",
+    "manufacturer": "Orchard Fresh",
+    "description": "Fresh, crisp gala apples, perfect for snacking or baking.",
+    "price": "$2.99 per lb",
+    "dietary_preferences": "Vegan, Gluten-Free"
+  },
+  {
+    "title": "Baby Spinach Leaves",
+    "manufacturer": "Green Valley",
+    "description": "Tender and fresh baby spinach, washed and ready to eat.",
+    "price": "$3.50 per bag",
+    "dietary_preferences": "Organic, Vegan"
+  },
+  {
+    "title": "Heirloom Tomatoes",
+    "manufacturer": "Heritage Farms",
+    "description": "Colorful and flavorful heirloom tomatoes, grown using traditional methods.",
+    "price": "$5.99 per lb",
+    "dietary_preferences": "Organic, Vegan"
+  },
+  {
+    "title": "Rainbow Bell Peppers",
+    "manufacturer": "Colorful Harvest",
+    "description": "A mix of red, yellow, and green bell peppers, vibrant and sweet.",
+    "price": "$4.49 per lb",
+    "dietary_preferences": "Vegan, Gluten-Free"
+  },
+  {
+    "title": "Zesty Lemons",
+    "manufacturer": "Citrus Sun",
+    "description": "Bright and zesty lemons, full of juice and flavor.",
+    "price": "$0.99 each",
+    "dietary_preferences": "Vegan, Gluten-Free"
+  },
+  {
+    "title": "Sweet Corn Ears",
+    "manufacturer": "Cornucopia Fields",
+    "description": "Plump ears of sweet corn, perfect for grilling or boiling.",
+    "price": "$0.75 per ear",
+    "dietary_preferences": "Vegan, Gluten-Free"
+  },
+  {
+    "title": "Organic Kale Bunches",
+    "manufacturer": "Leafy Greens",
+    "description": "Nutrient-rich kale, organically grown and harvested.",
+    "price": "$2.99 per bunch",
+    "dietary_preferences": "Organic, Vegan"
+  },
+  {
+    "title": "Fresh Blueberries",
+    "manufacturer": "Berry Patch",
+    "description": "Sweet and plump blueberries, great for baking or snacking.",
+    "price": "$3.99 per pint",
+    "dietary_preferences": "Vegan, Gluten-Free"
+  },
+  {
+    "title": "Crunchy Carrots",
+    "manufacturer": "Roots & Shoots",
+    "description": "Crunchy and sweet carrots, perfect for salads or snacking.",
+    "price": "$1.99 per lb",
+    "dietary_preferences": "Vegan, Gluten-Free"
+  },
+  {
+    "title": "Ripe Avocados",
+    "manufacturer": "Avocado Grove",
+    "description": "Creamy and ripe avocados, ideal for guacamole or sandwiches.",
+    "price": "$1.50 each",
+    "dietary_preferences": "Vegan, Gluten-Free"
+  },
+  {
+    "title": "Organic Red Onions",
+    "manufacturer": "Allium Organics",
+    "description": "Flavorful organic red onions, perfect for cooking or salads.",
+    "price": "$1.99 per lb",
+    "dietary_preferences": "Organic, Vegan"
+  },
+  {
+    "title": "Exotic Mushroom Mix",
+    "manufacturer": "Fungi Delights",
+    "description": "A mix of exotic mushrooms including shiitake, oyster, and cremini.",
+    "price": "$6.99 per lb",
+    "dietary_preferences": "Vegan, Gluten-Free"
+  },
+  {
+    "title": "Organic Ginger Root",
+    "manufacturer": "Spice World",
+    "description": "Fresh and aromatic organic ginger root, great for cooking or teas.",
+    "price": "$4.99 per lb",
+    "dietary_preferences": "Organic, Vegan"
+  },
+  {
+    "title": "Sweet Pineapples",
+    "manufacturer": "Tropical Treats",
+    "description": "Juicy and sweet pineapples, freshly harvested and ready to eat.",
+    "price": "$3.99 each",
+    "dietary_preferences": "Vegan, Gluten-Free"
+  },
+  {
+    "title": "Organic Beets",
+    "manufacturer": "Earth Roots",
+    "description": "Earthy and sweet organic beets, perfect for roasting or juicing.",
+    "price": "$2.50 per lb",
+    "dietary_preferences": "Organic, Vegan"
+  },
+  {
+    "title": "Cucumber Crunch",
+    "manufacturer": "Fresh Fields",
+    "description": "Crisp and refreshing cucumbers, great for salads or snacking.",
+    "price": "$1.20 per lb",
+    "dietary_preferences": "Vegan, Gluten-Free"
+  },
+  {
+    "title": "Organic Medjool Dates",
+    "manufacturer": "Date Delights",
+    "description": "Sweet and chewy organic Medjool dates, a natural sweetener.",
+    "price": "$8.99 per lb",
+    "dietary_preferences": "Organic, Vegan"
+  },
+  {
+    "title": "Juicy Pomegranates",
+    "manufacturer": "Pomegranate Paradise",
+    "description": "Fresh and juicy pomegranates, bursting with flavor.",
+    "price": "$2.99 each",
+    "dietary_preferences": "Vegan, Gluten-Free"
+  },
+  {
+    "title": "Sliced Watermelon",
+    "manufacturer": "Summer Fruits",
+    "description": "Freshly sliced watermelon, sweet and hydrating.",
+    "price": "$1.99 per lb",
+    "dietary_preferences": "Vegan, Gluten-Free"
+  }
+]

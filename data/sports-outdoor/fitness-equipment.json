@@ -1,0 +1,162 @@
+[
+  {
+    "title": "UltraFlex Resistance Bands",
+    "manufacturer": "FlexGear",
+    "description": "A set of 5 color-coded resistance bands for versatile workouts.",
+    "price": 29.99,
+    "material": "Natural latex",
+    "weight": "1.2 lbs"
+  },
+  {
+    "title": "ProBalance Exercise Ball",
+    "manufacturer": "GymSphere",
+    "description": "A high-quality exercise ball for stability and core training.",
+    "price": 35.0,
+    "material": "Anti-burst PVC",
+    "weight": "2.5 lbs"
+  },
+  {
+    "title": "IronGrip Dumbbell Set",
+    "manufacturer": "StrongLift",
+    "description": "A set of adjustable dumbbells ranging from 5 to 50 lbs.",
+    "price": 199.99,
+    "material": "Steel",
+    "weight": "104 lbs (total)"
+  },
+  {
+    "title": "SpeedMaster Jump Rope",
+    "manufacturer": "CardioKing",
+    "description": "A lightweight, high-speed jump rope for cardio workouts.",
+    "price": 14.95,
+    "material": "Polyvinyl cord, Aluminum handles",
+    "weight": "0.4 lbs"
+  },
+  {
+    "title": "MountainRider Exercise Bike",
+    "manufacturer": "CyclePeak",
+    "description": "A stationary exercise bike with virtual mountain riding programs.",
+    "price": 500.0,
+    "material": "Steel frame, Plastic",
+    "weight": "85 lbs"
+  },
+  {
+    "title": "YogaPro Eco Mat",
+    "manufacturer": "ZenLife",
+    "description": "An eco-friendly yoga mat with superior grip and cushioning.",
+    "price": 50.0,
+    "material": "Natural rubber",
+    "weight": "5.5 lbs"
+  },
+  {
+    "title": "PowerRow Rowing Machine",
+    "manufacturer": "AquaFit",
+    "description": "A high-intensity rowing machine with water resistance technology.",
+    "price": 850.0,
+    "material": "Aluminum, Polycarbonate tank",
+    "weight": "75 lbs"
+  },
+  {
+    "title": "CrossTrain Home Gym",
+    "manufacturer": "WorkoutWizard",
+    "description": "A compact home gym equipment for a full-body workout.",
+    "price": 300.0,
+    "material": "Steel, Foam padding",
+    "weight": "130 lbs"
+  },
+  {
+    "title": "TrekMaster Treadmill",
+    "manufacturer": "RunFast",
+    "description": "A foldable treadmill with customizable running programs.",
+    "price": 600.0,
+    "material": "Steel, Rubber",
+    "weight": "180 lbs"
+  },
+  {
+    "title": "Ultimate Kettlebell",
+    "manufacturer": "KettleKing",
+    "description": "A versatile kettlebell with adjustable weight settings.",
+    "price": 45.99,
+    "material": "Cast iron",
+    "weight": "10-40 lbs (adjustable)"
+  },
+  {
+    "title": "FlexiFit Pilates Reformer",
+    "manufacturer": "BodySculpt",
+    "description": "A Pilates reformer for enhancing flexibility and strength.",
+    "price": 750.0,
+    "material": "Wood, Metal, Vinyl",
+    "weight": "100 lbs"
+  },
+  {
+    "title": "MaxPunch Boxing Bag",
+    "manufacturer": "StrikeForce",
+    "description": "A heavy-duty boxing bag for kickboxing and martial arts.",
+    "price": 120.0,
+    "material": "Leather, Foam",
+    "weight": "70 lbs"
+  },
+  {
+    "title": "Agility Ladder Set",
+    "manufacturer": "SpeedyFit",
+    "description": "A training set for improving speed, agility, and coordination.",
+    "price": 25.0,
+    "material": "Plastic, Nylon",
+    "weight": "1.5 lbs"
+  },
+  {
+    "title": "SpinMaster Table Tennis Table",
+    "manufacturer": "PingPongPro",
+    "description": "A foldable and portable table tennis table for indoor/outdoor use.",
+    "price": 400.0,
+    "material": "Aluminum, MDF",
+    "weight": "90 lbs"
+  },
+  {
+    "title": "GripMaster Hand Exerciser",
+    "manufacturer": "StrengthPlus",
+    "description": "A compact hand exerciser for improving grip strength.",
+    "price": 12.0,
+    "material": "Silicone",
+    "weight": "0.3 lbs"
+  },
+  {
+    "title": "PeakPerformance Fitness Trampoline",
+    "manufacturer": "JumpJoy",
+    "description": "A fitness trampoline with adjustable handlebar for cardio workouts.",
+    "price": 150.0,
+    "material": "Steel, Nylon",
+    "weight": "20 lbs"
+  },
+  {
+    "title": "ClimbHigh Vertical Climber",
+    "manufacturer": "AscentFit",
+    "description": "A vertical climber machine for a full-body workout.",
+    "price": 300.0,
+    "material": "Steel, Plastic",
+    "weight": "45 lbs"
+  },
+  {
+    "title": "AeroYoga Swing",
+    "manufacturer": "SkyStretch",
+    "description": "An aerial yoga swing for yoga and pilates exercises.",
+    "price": 80.0,
+    "material": "Parachute fabric, Steel",
+    "weight": "4 lbs"
+  },
+  {
+    "title": "PowerBand Suspension Trainer",
+    "manufacturer": "BodyLever",
+    "description": "A suspension trainer for bodyweight exercises.",
+    "price": 100.0,
+    "material": "Nylon, Rubber grips",
+    "weight": "2 lbs"
+  },
+  {
+    "title": "EnduroFoam Roller",
+    "manufacturer": "RollFit",
+    "description": "A high-density foam roller for muscle recovery and flexibility.",
+    "price": 20.0,
+    "material": "EPP foam",
+    "weight": "0.8 lbs"
+  }
+]

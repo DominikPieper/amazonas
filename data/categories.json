@@ -1,0 +1,312 @@
+{
+  "categories": [
+    {
+      "id": "uuid-1",
+      "name": "Books",
+      "subcategories": [
+        {
+          "id": "uuid-1-1",
+          "name": "Fiction"
+        },
+        {
+          "id": "uuid-1-2",
+          "name": "Non-fiction"
+        },
+        {
+          "id": "uuid-1-3",
+          "name": "Educational"
+        },
+        {
+          "id": "uuid-1-4",
+          "name": "E-books"
+        }
+      ]
+    },
+    {
+      "id": "uuid-2",
+      "name": "Electronics",
+      "subcategories": [
+        {
+          "id": "uuid-2-1",
+          "name": "Smartphones & Accessories"
+        },
+        {
+          "id": "uuid-2-2",
+          "name": "Computers & Peripherals"
+        },
+        {
+          "id": "uuid-2-3",
+          "name": "Televisions & Home Theater"
+        },
+        {
+          "id": "uuid-2-4",
+          "name": "Cameras & Photography"
+        }
+      ]
+    },
+    {
+      "id": "uuid-3",
+      "name": "Fashion",
+      "subcategories": [
+        {
+          "id": "uuid-3-1",
+          "name": "Women's Clothing"
+        },
+        {
+          "id": "uuid-3-2",
+          "name": "Men's Clothing"
+        },
+        {
+          "id": "uuid-3-3",
+          "name": "Kids' & Baby Clothing"
+        },
+        {
+          "id": "uuid-3-4",
+          "name": "Shoes & Accessories"
+        }
+      ]
+    },
+    {
+      "id": "uuid-4",
+      "name": "Home & Kitchen",
+      "subcategories": [
+        {
+          "id": "uuid-4-1",
+          "name": "Furniture"
+        },
+        {
+          "id": "uuid-4-2",
+          "name": "Home Décor"
+        },
+        {
+          "id": "uuid-4-3",
+          "name": "Kitchen Appliances"
+        },
+        {
+          "id": "uuid-4-4",
+          "name": "Bedding & Linens"
+        }
+      ]
+    },
+    {
+      "id": "uuid-5",
+      "name": "Beauty & Personal Care",
+      "subcategories": [
+        {
+          "id": "uuid-5-1",
+          "name": "Skincare"
+        },
+        {
+          "id": "uuid-5-2",
+          "name": "Haircare"
+        },
+        {
+          "id": "uuid-5-3",
+          "name": "Makeup"
+        },
+        {
+          "id": "uuid-5-4",
+          "name": "Men's Grooming"
+        }
+      ]
+    },
+    {
+      "id": "uuid-6",
+      "name": "Sports & Outdoors",
+      "subcategories": [
+        {
+          "id": "uuid-6-1",
+          "name": "Fitness Equipment"
+        },
+        {
+          "id": "uuid-6-2",
+          "name": "Outdoor Recreation"
+        },
+        {
+          "id": "uuid-6-3",
+          "name": "Team Sports Gear"
+        },
+        {
+          "id": "uuid-6-4",
+          "name": "Camping & Hiking"
+        }
+      ]
+    },
+    {
+      "id": "uuid-7",
+      "name": "Toys & Games",
+      "subcategories": [
+        {
+          "id": "uuid-7-1",
+          "name": "Educational Toys"
+        },
+        {
+          "id": "uuid-7-2",
+          "name": "Board Games"
+        },
+        {
+          "id": "uuid-7-3",
+          "name": "Action Figures"
+        },
+        {
+          "id": "uuid-7-4",
+          "name": "Crafts for Kids"
+        }
+      ]
+    },
+    {
+      "id": "uuid-8",
+      "name": "Automotive",
+      "subcategories": [
+        {
+          "id": "uuid-8-1",
+          "name": "Car Accessories"
+        },
+        {
+          "id": "uuid-8-2",
+          "name": "Motorcycle Parts"
+        },
+        {
+          "id": "uuid-8-3",
+          "name": "Tools & Equipment"
+        },
+        {
+          "id": "uuid-8-4",
+          "name": "GPS & Navigation"
+        }
+      ]
+    },
+    {
+      "id": "uuid-9",
+      "name": "Grocery & Gourmet Food",
+      "subcategories": [
+        {
+          "id": "uuid-9-1",
+          "name": "Packaged Foods"
+        },
+        {
+          "id": "uuid-9-2",
+          "name": "Fresh Produce"
+        },
+        {
+          "id": "uuid-9-3",
+          "name": "Beverages"
+        },
+        {
+          "id": "uuid-9-4",
+          "name": "Specialty Diets"
+        }
+      ]
+    },
+    {
+      "id": "uuid-10",
+      "name": "Health & Household",
+      "subcategories": [
+        {
+          "id": "uuid-10-1",
+          "name": "Over-the-Counter Medications"
+        },
+        {
+          "id": "uuid-10-2",
+          "name": "Household Supplies"
+        },
+        {
+          "id": "uuid-10-3",
+          "name": "Vitamins & Dietary Supplements"
+        },
+        {
+          "id": "uuid-10-4",
+          "name": "Baby Care Products"
+        }
+      ]
+    },
+    {
+      "id": "uuid-11",
+      "name": "Pet Supplies",
+      "subcategories": [
+        {
+          "id": "uuid-11-1",
+          "name": "Pet Food"
+        },
+        {
+          "id": "uuid-11-2",
+          "name": "Pet Toys"
+        },
+        {
+          "id": "uuid-11-3",
+          "name": "Grooming Supplies"
+        },
+        {
+          "id": "uuid-11-4",
+          "name": "Pet Health Care"
+        }
+      ]
+    },
+    {
+      "id": "uuid-12",
+      "name": "Office Products",
+      "subcategories": [
+        {
+          "id": "uuid-12-1",
+          "name": "Office Electronics"
+        },
+        {
+          "id": "uuid-12-2",
+          "name": "Office Furniture"
+        },
+        {
+          "id": "uuid-12-3",
+          "name": "School Supplies"
+        },
+        {
+          "id": "uuid-12-4",
+          "name": "Stationery"
+        }
+      ]
+    },
+    {
+      "id": "uuid-13",
+      "name": "Music, Movies, & TV Shows",
+      "subcategories": [
+        {
+          "id": "uuid-13-1",
+          "name": "CDs & Vinyl Records"
+        },
+        {
+          "id": "uuid-13-2",
+          "name": "DVDs & Blu-ray"
+        },
+        {
+          "id": "uuid-13-3",
+          "name": "Streaming Services"
+        },
+        {
+          "id": "uuid-13-4",
+          "name": "Musical Instruments"
+        }
+      ]
+    },
+    {
+      "id": "uuid-14",
+      "name": "Garden & Outdoor",
+      "subcategories": [
+        {
+          "id": "uuid-14-1",
+          "name": "Plants & Gardening Tools"
+        },
+        {
+          "id": "uuid-14-2",
+          "name": "Outdoor Furniture"
+        },
+        {
+          "id": "uuid-14-3",
+          "name": "Grills & Outdoor Cooking"
+        },
+        {
+          "id": "uuid-14-4",
+          "name": "Lawn & Garden Decor"
+        }
+      ]
+    }
+  ]
+}

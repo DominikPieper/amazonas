@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Gentle Paws Nail Trimmer",
+    "manufacturer": "PetCarePro",
+    "description": "Quiet, safe nail trimmer for stress-free grooming.",
+    "price": "$14.99",
+    "kind_of_animal": "Dog"
+  },
+  {
+    "title": "Silky Whiskers Cat Shampoo",
+    "manufacturer": "FelineFresh",
+    "description": "Hypoallergenic cat shampoo for a shiny, healthy coat.",
+    "price": "$9.99",
+    "kind_of_animal": "Cat"
+  },
+  {
+    "title": "FeatherPreen Bird Spray",
+    "manufacturer": "AviaryEssentials",
+    "description": "Natural feather conditioning spray for all birds.",
+    "price": "$7.99",
+    "kind_of_animal": "Bird"
+  },
+  {
+    "title": "Rabbit Fur Detangler",
+    "manufacturer": "BunnyGroom",
+    "description": "Gentle spray to prevent fur matting in rabbits.",
+    "price": "$8.99",
+    "kind_of_animal": "Rabbit"
+  },
+  {
+    "title": "ReptiClean Habitat Wipes",
+    "manufacturer": "TerraSafe",
+    "description": "Safe and effective cleaning wipes for reptile habitats.",
+    "price": "$5.99",
+    "kind_of_animal": "Reptile"
+  },
+  {
+    "title": "Hamster Bath Sand",
+    "manufacturer": "SandyPaws",
+    "description": "Natural bathing sand for hamsters and gerbils.",
+    "price": "$3.99",
+    "kind_of_animal": "Rodent"
+  },
+  {
+    "title": "Aquatic Algae Pad",
+    "manufacturer": "ClearWaters",
+    "description": "Non-toxic cleaning pad for aquarium glass.",
+    "price": "$4.99",
+    "kind_of_animal": "Fish"
+  },
+  {
+    "title": "Puppy Gentle Grooming Kit",
+    "manufacturer": "PuppyLove",
+    "description": "Complete grooming kit for puppies, including brushes and combs.",
+    "price": "$19.99",
+    "kind_of_animal": "Dog"
+  },
+  {
+    "title": "Kitten Soft Brush",
+    "manufacturer": "WhiskerCare",
+    "description": "Ultra-soft brush for grooming kittens and sensitive cats.",
+    "price": "$6.99",
+    "kind_of_animal": "Cat"
+  },
+  {
+    "title": "Ferret Shine Coat Spray",
+    "manufacturer": "FuzzyGlow",
+    "description": "Coat enhancing spray for a shiny, healthy ferret coat.",
+    "price": "$10.99",
+    "kind_of_animal": "Ferret"
+  },
+  {
+    "title": "Chinchilla Dust Bath",
+    "manufacturer": "DustyDelight",
+    "description": "Premium dust bath for chinchillas to clean their fur.",
+    "price": "$8.99",
+    "kind_of_animal": "Chinchilla"
+  },
+  {
+    "title": "Turtle Shell Polish",
+    "manufacturer": "ShellShine",
+    "description": "Safe polish to keep turtle shells healthy and shiny.",
+    "price": "$11.99",
+    "kind_of_animal": "Turtle"
+  },
+  {
+    "title": "Guinea Pig Slicker Brush",
+    "manufacturer": "CavyComb",
+    "description": "Gentle slicker brush designed for guinea pig fur.",
+    "price": "$5.99",
+    "kind_of_animal": "Guinea Pig"
+  },
+  {
+    "title": "Parrot Beak Conditioner",
+    "manufacturer": "BeakPerfection",
+    "description": "Natural conditioner for maintaining healthy parrot beaks.",
+    "price": "$6.99",
+    "kind_of_animal": "Bird"
+  },
+  {
+    "title": "Lizard Shedding Aid",
+    "manufacturer": "ReptiShed",
+    "description": "Spray to help reptiles shed their skin easily and safely.",
+    "price": "$7.99",
+    "kind_of_animal": "Reptile"
+  },
+  {
+    "title": "Senior Dog Grooming Wipes",
+    "manufacturer": "OldPaws",
+    "description": "Extra gentle cleaning wipes for senior dogs.",
+    "price": "$9.99",
+    "kind_of_animal": "Dog"
+  },
+  {
+    "title": "Hypoallergenic Horse Shampoo",
+    "manufacturer": "EquineEssence",
+    "description": "Gentle, hypoallergenic shampoo for horses.",
+    "price": "$15.99",
+    "kind_of_animal": "Horse"
+  },
+  {
+    "title": "Microfiber Pet Towel",
+    "manufacturer": "UltraDry",
+    "description": "Super absorbent towel for quick drying after baths.",
+    "price": "$12.99",
+    "kind_of_animal": "All"
+  },
+  {
+    "title": "Fish Tank Siphon and Vacuum",
+    "manufacturer": "AquaClean",
+    "description": "Easy-to-use siphon and vacuum for aquarium maintenance.",
+    "price": "$20.99",
+    "kind_of_animal": "Fish"
+  },
+  {
+    "title": "Natural Bird Feather Duster",
+    "manufacturer": "AviaryAccents",
+    "description": "Safe duster for cleaning bird cages and accessories.",
+    "price": "$5.99",
+    "kind_of_animal": "Bird"
+  }
+]

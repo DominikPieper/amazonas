@@ -1,0 +1,142 @@
+[
+  {
+    "title": "SkyRoute HD GPS Navigator",
+    "manufacturer": "NavTech",
+    "description": "High-definition GPS navigation system with live traffic updates and lane assist.",
+    "price": "$299.99",
+    "suitable_for_vehicle_types": "Cars, SUVs"
+  },
+  {
+    "title": "TrailMaster 4x4 GPS",
+    "manufacturer": "OffRoad Innovations",
+    "description": "Rugged, waterproof GPS designed for off-road adventures, featuring topographical maps.",
+    "price": "$349.00",
+    "suitable_for_vehicle_types": "4x4s, ATVs"
+  },
+  {
+    "title": "EcoNav Green System",
+    "manufacturer": "EcoDrive",
+    "description": "Energy-efficient GPS system with eco-routing to minimize fuel consumption.",
+    "price": "$199.00",
+    "suitable_for_vehicle_types": "All vehicles"
+  },
+  {
+    "title": "CompactPath Finder",
+    "manufacturer": "UrbanTech",
+    "description": "Slim and compact GPS navigator, perfect for urban driving and small cars.",
+    "price": "$149.99",
+    "suitable_for_vehicle_types": "Compact Cars"
+  },
+  {
+    "title": "MotorBike GPS Pro",
+    "manufacturer": "BikeWay",
+    "description": "Motorcycle-specific GPS with rugged, weather-resistant design and glove-friendly interface.",
+    "price": "$259.00",
+    "suitable_for_vehicle_types": "Motorcycles"
+  },
+  {
+    "title": "Voyage Elite Navigator",
+    "manufacturer": "LuxNav",
+    "description": "Premium GPS system with large display, voice control, and luxury vehicle integration.",
+    "price": "$399.99",
+    "suitable_for_vehicle_types": "Luxury Cars, SUVs"
+  },
+  {
+    "title": "Global Explorer GPS",
+    "manufacturer": "WorldTrack",
+    "description": "Worldwide GPS navigator with multi-language support and international map coverage.",
+    "price": "$289.00",
+    "suitable_for_vehicle_types": "All vehicles"
+  },
+  {
+    "title": "RetroRoute Classic GPS",
+    "manufacturer": "VintageNav",
+    "description": "Classic style GPS with modern features, tailored for vintage and classic cars.",
+    "price": "$250.00",
+    "suitable_for_vehicle_types": "Classic Cars"
+  },
+  {
+    "title": "FamilyRoad Trip Navigator",
+    "manufacturer": "TravelMate",
+    "description": "Family-friendly GPS with entertainment features and multi-stop route planning.",
+    "price": "$229.00",
+    "suitable_for_vehicle_types": "Family Cars, SUVs"
+  },
+  {
+    "title": "SpeedTrack Racing GPS",
+    "manufacturer": "RacerTech",
+    "description": "High-performance GPS designed for racing, with track layouts and performance metrics.",
+    "price": "$500.00",
+    "suitable_for_vehicle_types": "Sports Cars, Racing Vehicles"
+  },
+  {
+    "title": "HandyNav Portable System",
+    "manufacturer": "GoAnywhere",
+    "description": "Portable, rechargeable GPS system, ideal for rental cars and travel use.",
+    "price": "$169.99",
+    "suitable_for_vehicle_types": "All vehicles"
+  },
+  {
+    "title": "NightVision HUD GPS",
+    "manufacturer": "FuturNav",
+    "description": "Heads-up display (HUD) GPS with night vision mode for safer nighttime driving.",
+    "price": "$320.00",
+    "suitable_for_vehicle_types": "Cars, Trucks"
+  },
+  {
+    "title": "CrossCountry RV Navigator",
+    "manufacturer": "RoadHome",
+    "description": "Specialized GPS for RVs with large vehicle routing and campsite information.",
+    "price": "$375.00",
+    "suitable_for_vehicle_types": "RVs, Campers"
+  },
+  {
+    "title": "AquaMarine Boat GPS",
+    "manufacturer": "SeaPath",
+    "description": "Marine GPS system for boats, featuring coastal charts and marine navigation aids.",
+    "price": "$450.00",
+    "suitable_for_vehicle_types": "Boats"
+  },
+  {
+    "title": "CityScape Urban GPS",
+    "manufacturer": "MetroNav",
+    "description": "Urban-focused GPS with enhanced city maps, public transit options, and pedestrian routes.",
+    "price": "$210.00",
+    "suitable_for_vehicle_types": "Cars, Bicycles"
+  },
+  {
+    "title": "TerraTrek Hiking GPS",
+    "manufacturer": "OutdoorTech",
+    "description": "Dual-purpose GPS for vehicles and hiking, with trail maps and outdoor features.",
+    "price": "$310.00",
+    "suitable_for_vehicle_types": "SUVs, Off-road vehicles"
+  },
+  {
+    "title": "CargoRoute Fleet GPS",
+    "manufacturer": "LogisticsPro",
+    "description": "GPS system designed for commercial fleets, with route optimization and tracking.",
+    "price": "$399.00",
+    "suitable_for_vehicle_types": "Trucks, Commercial Vehicles"
+  },
+  {
+    "title": "SolarNav Eco GPS",
+    "manufacturer": "SunnyWay",
+    "description": "Solar-powered GPS navigator with sustainable design and low power consumption.",
+    "price": "$260.00",
+    "suitable_for_vehicle_types": "All vehicles"
+  },
+  {
+    "title": "Vintage Voyager GPS",
+    "manufacturer": "RetroRoad",
+    "description": "Nostalgic GPS system with a retro interface, suitable for classic car enthusiasts.",
+    "price": "$225.00",
+    "suitable_for_vehicle_types": "Classic Cars"
+  },
+  {
+    "title": "MaxRange Long-Haul GPS",
+    "manufacturer": "DistanceNav",
+    "description": "Long-range GPS system with extended battery life for long hauls and road trips.",
+    "price": "$275.00",
+    "suitable_for_vehicle_types": "Trucks, RVs"
+  }
+]

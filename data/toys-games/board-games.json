@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Galaxy Conquest",
+    "manufacturer": "StarGames",
+    "description": "A strategic board game where players explore and conquer planets in a distant galaxy.",
+    "price": "$29.99",
+    "minimum_age": 10
+  },
+  {
+    "title": "Mystery Mansion",
+    "manufacturer": "ClueFinders",
+    "description": "A detective-themed game where players solve a mystery in a haunted mansion.",
+    "price": "$34.99",
+    "minimum_age": 8
+  },
+  {
+    "title": "Island Survival",
+    "manufacturer": "AdventureQuest",
+    "description": "Players must survive and escape from a deserted island using resource management and strategy.",
+    "price": "$39.99",
+    "minimum_age": 12
+  },
+  {
+    "title": "Wizard's Duel",
+    "manufacturer": "MagicCraft",
+    "description": "A fantasy card game where players cast spells and summon creatures to duel their opponents.",
+    "price": "$24.99",
+    "minimum_age": 9
+  },
+  {
+    "title": "Pirate's Treasure Hunt",
+    "manufacturer": "SeaRovers",
+    "description": "A treasure-hunting adventure game set in the golden age of piracy.",
+    "price": "$32.00",
+    "minimum_age": 7
+  },
+  {
+    "title": "Time Travelers",
+    "manufacturer": "EpochGames",
+    "description": "A game where players travel through different historical periods, collecting artifacts.",
+    "price": "$35.00",
+    "minimum_age": 10
+  },
+  {
+    "title": "Underwater City",
+    "manufacturer": "AquaBuilders",
+    "description": "Build and manage an underwater city in this strategic board game.",
+    "price": "$40.00",
+    "minimum_age": 11
+  },
+  {
+    "title": "Robot Factory",
+    "manufacturer": "TechTycoons",
+    "description": "A game where players design and build robots to complete challenges.",
+    "price": "$28.00",
+    "minimum_age": 8
+  },
+  {
+    "title": "Castle Siege",
+    "manufacturer": "MedievalMinds",
+    "description": "Players build and defend castles in medieval times in this strategy game.",
+    "price": "$37.00",
+    "minimum_age": 10
+  },
+  {
+    "title": "Jungle Expedition",
+    "manufacturer": "ExplorerElite",
+    "description": "An adventure game exploring a mysterious jungle in search of ancient ruins.",
+    "price": "$30.00",
+    "minimum_age": 6
+  },
+  {
+    "title": "Future Cities",
+    "manufacturer": "UrbanPlanners",
+    "description": "Design and build a city of the future, balancing resources and technology.",
+    "price": "$45.00",
+    "minimum_age": 12
+  },
+  {
+    "title": "Space Race",
+    "manufacturer": "CosmoQuest",
+    "description": "A competitive game where players race to build and launch their own space missions.",
+    "price": "$33.00",
+    "minimum_age": 9
+  },
+  {
+    "title": "Monster Mashup",
+    "manufacturer": "CreatureChaos",
+    "description": "Create and battle monsters in this fun and imaginative card game.",
+    "price": "$22.00",
+    "minimum_age": 7
+  },
+  {
+    "title": "Eco Challenge",
+    "manufacturer": "GreenPlanet",
+    "description": "A game focused on environmental challenges, teaching sustainability and ecology.",
+    "price": "$36.00",
+    "minimum_age": 8
+  },
+  {
+    "title": "Ancient Empires",
+    "manufacturer": "HistoryHive",
+    "description": "Players lead ancient civilizations to glory in this historical strategy game.",
+    "price": "$42.00",
+    "minimum_age": 10
+  },
+  {
+    "title": "Cyber Hack",
+    "manufacturer": "DigitalDuel",
+    "description": "A cybersecurity themed game where players defend against and launch virtual cyber attacks.",
+    "price": "$31.00",
+    "minimum_age": 11
+  },
+  {
+    "title": "Railroad Tycoon",
+    "manufacturer": "TrainTrails",
+    "description": "Build and manage a railroad empire in the era of steam trains.",
+    "price": "$48.00",
+    "minimum_age": 12
+  },
+  {
+    "title": "Cave Explorers",
+    "manufacturer": "SubterraAdventures",
+    "description": "Explore mysterious caves and discover hidden treasures in this exciting game.",
+    "price": "$29.00",
+    "minimum_age": 8
+  },
+  {
+    "title": "Sky Cities",
+    "manufacturer": "CloudCrafters",
+    "description": "Players build and manage floating cities in the sky in this strategic board game.",
+    "price": "$44.00",
+    "minimum_age": 10
+  },
+  {
+    "title": "Wild West Adventure",
+    "manufacturer": "FrontierFun",
+    "description": "A game set in the American frontier, where players embark on exciting adventures.",
+    "price": "$27.00",
+    "minimum_age": 7
+  }
+]

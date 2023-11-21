@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Solar-Powered Dashboard Dancer",
+    "manufacturer": "SunDance",
+    "description": "A fun, eco-friendly solar-powered dancer to brighten up your dashboard.",
+    "price": "$9.99",
+    "suitable_for_vehicle_types": "All"
+  },
+  {
+    "title": "Universal Smartphone Holder",
+    "manufacturer": "GripTech",
+    "description": "Adjustable and sturdy smartphone holder for hands-free navigation.",
+    "price": "$15.99",
+    "suitable_for_vehicle_types": "All"
+  },
+  {
+    "title": "LED Wheel Light Kit",
+    "manufacturer": "GlowRide",
+    "description": "Colorful LED lights to add a custom glow to your car's wheels.",
+    "price": "$29.99",
+    "suitable_for_vehicle_types": "Cars, Motorcycles"
+  },
+  {
+    "title": "Portable Car Vacuum Cleaner",
+    "manufacturer": "CleanDrive",
+    "description": "Compact and powerful vacuum cleaner for keeping your car interior spotless.",
+    "price": "$24.99",
+    "suitable_for_vehicle_types": "All"
+  },
+  {
+    "title": "Heated Steering Wheel Cover",
+    "manufacturer": "WarmGrip",
+    "description": "Comfortable, heated steering wheel cover for cold weather driving.",
+    "price": "$19.99",
+    "suitable_for_vehicle_types": "Most Cars"
+  },
+  {
+    "title": "Wireless Car Charger Pad",
+    "manufacturer": "ChargeRoad",
+    "description": "Convenient wireless charging pad for your car's center console.",
+    "price": "$21.99",
+    "suitable_for_vehicle_types": "All"
+  },
+  {
+    "title": "Car Seat Organizer",
+    "manufacturer": "SpaceMax",
+    "description": "Multi-pocket organizer to keep your car tidy and items accessible.",
+    "price": "$18.00",
+    "suitable_for_vehicle_types": "All"
+  },
+  {
+    "title": "Rearview Mirror Dash Cam",
+    "manufacturer": "SafeSight",
+    "description": "High-definition dash cam that attaches to your rearview mirror for added safety.",
+    "price": "$49.99",
+    "suitable_for_vehicle_types": "All"
+  },
+  {
+    "title": "Bluetooth FM Transmitter",
+    "manufacturer": "TuneLink",
+    "description": "Stream music and take hands-free calls with this Bluetooth FM transmitter.",
+    "price": "$17.99",
+    "suitable_for_vehicle_types": "All"
+  },
+  {
+    "title": "Magnetic Car Mount for Tablets",
+    "manufacturer": "TabHold",
+    "description": "Strong magnetic mount for securely holding tablets on the dashboard.",
+    "price": "$20.99",
+    "suitable_for_vehicle_types": "All"
+  },
+  {
+    "title": "Foldable Car Trunk Organizer",
+    "manufacturer": "TrunkPro",
+    "description": "Spacious and foldable organizer for your car trunk to keep items in order.",
+    "price": "$25.99",
+    "suitable_for_vehicle_types": "All"
+  },
+  {
+    "title": "Car Aromatherapy Diffuser",
+    "manufacturer": "ZenDrive",
+    "description": "A sleek aromatherapy diffuser to keep your car smelling fresh and relaxing.",
+    "price": "$14.99",
+    "suitable_for_vehicle_types": "All"
+  },
+  {
+    "title": "Auto Umbrella Holder",
+    "manufacturer": "DryKeep",
+    "description": "Convenient holder for storing umbrellas and keeping your car dry.",
+    "price": "$11.99",
+    "suitable_for_vehicle_types": "All"
+  },
+  {
+    "title": "Car Door Protector Strips",
+    "manufacturer": "GuardEdge",
+    "description": "Durable strips to protect your car doors from scratches and dings.",
+    "price": "$12.99",
+    "suitable_for_vehicle_types": "All"
+  },
+  {
+    "title": "Retractable Car Sunshade",
+    "manufacturer": "ShadePro",
+    "description": "Easy-to-use retractable sunshade for protecting your car's interior from sunlight.",
+    "price": "$22.99",
+    "suitable_for_vehicle_types": "All"
+  },
+  {
+    "title": "Waterproof Car Trash Can",
+    "manufacturer": "LitterBeGone",
+    "description": "Compact and waterproof trash can to keep your car clean and tidy.",
+    "price": "$13.99",
+    "suitable_for_vehicle_types": "All"
+  },
+  {
+    "title": "Tire Pressure Monitoring System",
+    "manufacturer": "SafeTire",
+    "description": "Advanced system to monitor and report your car's tire pressure in real-time.",
+    "price": "$55.00",
+    "suitable_for_vehicle_types": "All"
+  },
+  {
+    "title": "Multi-functional Car Tool",
+    "manufacturer": "AutoAid",
+    "description": "A versatile tool for car emergencies, including a seatbelt cutter and window breaker.",
+    "price": "$19.99",
+    "suitable_for_vehicle_types": "All"
+  },
+  {
+    "title": "Car Seat Gap Filler",
+    "manufacturer": "GapGuard",
+    "description": "Prevent items from falling between your car seats with this gap filler.",
+    "price": "$10.99",
+    "suitable_for_vehicle_types": "All"
+  },
+  {
+    "title": "Adjustable Car Cup Holder",
+    "manufacturer": "CupFit",
+    "description": "Easily adjustable cup holder to fit various sizes of drinks and containers.",
+    "price": "$14.99",
+    "suitable_for_vehicle_types": "All"
+  }
+]

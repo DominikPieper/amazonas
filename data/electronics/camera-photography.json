@@ -1,0 +1,122 @@
+[
+  {
+    "title": "ProShot DSLR X20",
+    "manufacturer": "LensCraft",
+    "description": "High-resolution DSLR camera with 24.2MP sensor and 4K video recording.",
+    "price": "1200.00"
+  },
+  {
+    "title": "ZoomMaster 300mm Lens",
+    "manufacturer": "FocusPoint",
+    "description": "Telephoto lens with f/4 aperture and image stabilization for wildlife photography.",
+    "price": "900.00"
+  },
+  {
+    "title": "SnapJoy Mirrorless M5",
+    "manufacturer": "Picturize",
+    "description": "Compact mirrorless camera with interchangeable lenses and 20MP sensor.",
+    "price": "750.00"
+  },
+  {
+    "title": "TravelTripod Pro",
+    "manufacturer": "SteadyClick",
+    "description": "Lightweight and durable tripod, ideal for travel and outdoor photography.",
+    "price": "120.00"
+  },
+  {
+    "title": "FlashBright 600 Speedlight",
+    "manufacturer": "Illumino",
+    "description": "Powerful camera flash with tilt and swivel head for creative lighting.",
+    "price": "250.00"
+  },
+  {
+    "title": "PhotoPak Camera Backpack",
+    "manufacturer": "GearSafe",
+    "description": "Water-resistant backpack with padded compartments for camera and lenses.",
+    "price": "99.99"
+  },
+  {
+    "title": "ClearView 4K Action Cam",
+    "manufacturer": "AdrenalineTech",
+    "description": "Rugged 4K action camera with waterproof casing and stabilization.",
+    "price": "299.99"
+  },
+  {
+    "title": "SkyCapture Drone",
+    "manufacturer": "AeroView",
+    "description": "Quadcopter drone with 12MP camera, GPS, and 30-minute flight time.",
+    "price": "500.00"
+  },
+  {
+    "title": "MacroMagic Lens Kit",
+    "manufacturer": "CloseUp Pro",
+    "description": "Macro lens kit for detailed close-up photography, fits most DSLR cameras.",
+    "price": "150.00"
+  },
+  {
+    "title": "StudioSoftbox Lighting Set",
+    "manufacturer": "BrightScene",
+    "description": "Professional studio lighting kit with softboxes for portrait photography.",
+    "price": "300.00"
+  },
+  {
+    "title": "PolarPro Filter Set",
+    "manufacturer": "CrystalClear",
+    "description": "Set of polarizing and ND filters for landscape and outdoor photography.",
+    "price": "130.00"
+  },
+  {
+    "title": "Wireless Shutter Remote",
+    "manufacturer": "ClickAway",
+    "description": "Wireless remote control for DSLR cameras, perfect for long exposure shots.",
+    "price": "25.99"
+  },
+  {
+    "title": "Panoramic Head Tripod",
+    "manufacturer": "Horizon360",
+    "description": "Tripod with panoramic head for smooth panning and landscape shots.",
+    "price": "200.00"
+  },
+  {
+    "title": "HD Binoculars with Camera",
+    "manufacturer": "EagleView",
+    "description": "High-definition binoculars with built-in digital camera for nature observation.",
+    "price": "220.00"
+  },
+  {
+    "title": "Underwater Photography Kit",
+    "manufacturer": "AquaShoot",
+    "description": "Waterproof housing and accessories for underwater photography.",
+    "price": "350.00"
+  },
+  {
+    "title": "Digital Photo Frame",
+    "manufacturer": "MemoryDisplay",
+    "description": "10-inch digital photo frame with Wi-Fi connectivity and cloud storage.",
+    "price": "89.99"
+  },
+  {
+    "title": "VintageFilm 35mm Camera",
+    "manufacturer": "RetroSnap",
+    "description": "Classic 35mm film camera with manual controls for film photography enthusiasts.",
+    "price": "80.00"
+  },
+  {
+    "title": "Lens Cleaning Kit",
+    "manufacturer": "SpotlessOptics",
+    "description": "Comprehensive lens cleaning kit for maintaining camera lenses.",
+    "price": "19.99"
+  },
+  {
+    "title": "VlogMaster Mini Tripod",
+    "manufacturer": "VidPro",
+    "description": "Compact tripod with adjustable legs, ideal for vlogging and mobile photography.",
+    "price": "30.00"
+  },
+  {
+    "title": "CinemaPro Video Camera",
+    "manufacturer": "SilverScreen Tech",
+    "description": "Professional-grade video camera with 4K recording and advanced features for filmmakers.",
+    "price": "2500.00"
+  }
+]

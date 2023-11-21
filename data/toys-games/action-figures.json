@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Galactic Warrior",
+    "manufacturer": "SpaceHeroes",
+    "description": "An action figure of a futuristic warrior equipped with laser weapons and armor.",
+    "price": "$14.99",
+    "minimum_age": 6
+  },
+  {
+    "title": "Deep Sea Diver",
+    "manufacturer": "OceanAdventures",
+    "description": "An action figure representing a deep-sea diver with realistic diving gear and accessories.",
+    "price": "$12.99",
+    "minimum_age": 5
+  },
+  {
+    "title": "Jungle Explorer",
+    "manufacturer": "WildQuest",
+    "description": "An adventurous explorer action figure with jungle survival gear and a miniature jeep.",
+    "price": "$15.99",
+    "minimum_age": 6
+  },
+  {
+    "title": "Mountain Climber",
+    "manufacturer": "PeakPerformers",
+    "description": "This action figure showcases a mountain climber with detailed climbing equipment.",
+    "price": "$13.50",
+    "minimum_age": 5
+  },
+  {
+    "title": "Super Robot",
+    "manufacturer": "MechaMasters",
+    "description": "A futuristic robot action figure with movable joints and light-up features.",
+    "price": "$18.00",
+    "minimum_age": 4
+  },
+  {
+    "title": "Alien Creature",
+    "manufacturer": "GalaxyBeings",
+    "description": "An alien action figure with multiple arms and glow-in-the-dark features.",
+    "price": "$16.99",
+    "minimum_age": 6
+  },
+  {
+    "title": "Firefighter Hero",
+    "manufacturer": "BraveFigures",
+    "description": "A firefighter action figure complete with a fire truck and rescue tools.",
+    "price": "$19.99",
+    "minimum_age": 5
+  },
+  {
+    "title": "Dinosaur Hunter",
+    "manufacturer": "PrehistoricAdventures",
+    "description": "An action figure equipped for hunting dinosaurs, including a jeep and net launcher.",
+    "price": "$17.00",
+    "minimum_age": 7
+  },
+  {
+    "title": "Pirate Captain",
+    "manufacturer": "SeaRaiders",
+    "description": "A swashbuckling pirate action figure with a ship and treasure chest.",
+    "price": "$20.00",
+    "minimum_age": 5
+  },
+  {
+    "title": "Knight of the Realm",
+    "manufacturer": "MedievalLegends",
+    "description": "A knight action figure in full armor with a horse and jousting lance.",
+    "price": "$22.99",
+    "minimum_age": 6
+  },
+  {
+    "title": "Space Astronaut",
+    "manufacturer": "StarVoyagers",
+    "description": "An astronaut action figure with a space shuttle and satellite accessories.",
+    "price": "$15.50",
+    "minimum_age": 4
+  },
+  {
+    "title": "Ninja Warrior",
+    "manufacturer": "ShadowFighters",
+    "description": "A ninja action figure with stealth gear and a variety of weapons.",
+    "price": "$14.00",
+    "minimum_age": 5
+  },
+  {
+    "title": "Racing Driver",
+    "manufacturer": "SpeedChampions",
+    "description": "A race car driver action figure with a racing car and pit stop tools.",
+    "price": "$21.00",
+    "minimum_age": 5
+  },
+  {
+    "title": "Cyber Soldier",
+    "manufacturer": "FutureWarriors",
+    "description": "A soldier action figure with futuristic armor and weapons.",
+    "price": "$16.50",
+    "minimum_age": 6
+  },
+  {
+    "title": "Wild West Sheriff",
+    "manufacturer": "FrontierHeroes",
+    "description": "A sheriff action figure from the Wild West with a horse and revolver.",
+    "price": "$18.99",
+    "minimum_age": 5
+  },
+  {
+    "title": "Viking Explorer",
+    "manufacturer": "NordicAdventures",
+    "description": "A Viking warrior action figure with a longship and battle gear.",
+    "price": "$19.50",
+    "minimum_age": 6
+  },
+  {
+    "title": "Fantasy Wizard",
+    "manufacturer": "MagicRealms",
+    "description": "A wizard action figure with a magical staff and spell book.",
+    "price": "$17.99",
+    "minimum_age": 7
+  },
+  {
+    "title": "Arctic Explorer",
+    "manufacturer": "PolarQuest",
+    "description": "An explorer action figure equipped for Arctic adventures with sled dogs and gear.",
+    "price": "$16.00",
+    "minimum_age": 5
+  },
+  {
+    "title": "Dragon Slayer",
+    "manufacturer": "MythicWarriors",
+    "description": "A heroic action figure with a dragon, armor, and a mythical sword.",
+    "price": "$22.00",
+    "minimum_age": 7
+  },
+  {
+    "title": "Underwater Explorer",
+    "manufacturer": "AquaAdventures",
+    "description": "An action figure equipped for underwater exploration with a mini submarine.",
+    "price": "$20.99",
+    "minimum_age": 6
+  }
+]

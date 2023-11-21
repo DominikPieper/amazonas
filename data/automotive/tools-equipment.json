@@ -1,0 +1,135 @@
+[
+  {
+    "title": "Heavy-Duty Car Jack",
+    "manufacturer": "AutoMaster",
+    "description": "A robust car jack suitable for lifting large vehicles. Made with high-quality steel for durability.",
+    "price": "$89.99",
+    "suitable_for_vehicle_types": ["Sedans", "SUVs", "Trucks"]
+  },
+  {
+    "title": "Toolbox Set with 150 Pieces",
+    "manufacturer": "ProGear",
+    "description": "A comprehensive set of tools including wrenches, pliers, and screwdrivers. Ideal for DIY car repairs.",
+    "price": "$149.99",
+    "suitable_for_vehicle_types": ["All Vehicle Types"]
+  },
+  {
+    "title": "Oil Filter Wrench Set",
+    "manufacturer": "Mechanic's Choice",
+    "description": "A set of oil filter wrenches in various sizes for easy removal and replacement of oil filters.",
+    "price": "$19.99",
+    "suitable_for_vehicle_types": ["All Vehicle Types"]
+  },
+  {
+    "title": "Portable Air Compressor",
+    "manufacturer": "AirMax",
+    "description": "A compact and powerful air compressor for inflating tires and operating pneumatic tools.",
+    "price": "$79.99",
+    "suitable_for_vehicle_types": ["All Vehicle Types"]
+  },
+  {
+    "title": "Digital Tire Pressure Gauge",
+    "manufacturer": "TechTire",
+    "description": "A digital gauge to accurately measure tire pressure and maintain optimal inflation.",
+    "price": "$12.99",
+    "suitable_for_vehicle_types": ["All Vehicle Types"]
+  },
+  {
+    "title": "Car Diagnostic Scanner",
+    "manufacturer": "ScanMaster",
+    "description": "A handheld scanner to diagnose engine issues and read error codes in vehicles.",
+    "price": "$69.99",
+    "suitable_for_vehicle_types": ["All Vehicle Types"]
+  },
+  {
+    "title": "Hydraulic Floor Jack",
+    "manufacturer": "HydraLift",
+    "description": "A hydraulic floor jack capable of lifting heavy vehicles with ease. Sturdy and reliable.",
+    "price": "$129.99",
+    "suitable_for_vehicle_types": ["Sedans", "SUVs", "Trucks"]
+  },
+  {
+    "title": "Car Battery Charger",
+    "manufacturer": "PowerCharge",
+    "description": "A charger and maintainer for car batteries. Keeps your battery in top condition.",
+    "price": "$39.99",
+    "suitable_for_vehicle_types": ["All Vehicle Types"]
+  },
+  {
+    "title": "Socket and Ratchet Set",
+    "manufacturer": "GearCraft",
+    "description": "A set of high-quality sockets and ratchets for various automotive applications.",
+    "price": "$49.99",
+    "suitable_for_vehicle_types": ["All Vehicle Types"]
+  },
+  {
+    "title": "Brake Bleeder Kit",
+    "manufacturer": "BrakeMaster",
+    "description": "A kit for bleeding and flushing brake systems, ensuring safe and efficient braking.",
+    "price": "$29.99",
+    "suitable_for_vehicle_types": ["All Vehicle Types"]
+  },
+  {
+    "title": "Car Dent Repair Kit",
+    "manufacturer": "DentAway",
+    "description": "A kit containing tools for repairing minor dents and dings on your vehicle's body.",
+    "price": "$19.99",
+    "suitable_for_vehicle_types": ["All Vehicle Types"]
+  },
+  {
+    "title": "Oil Drain Pan",
+    "manufacturer": "OilMaster",
+    "description": "A durable oil drain pan with a large capacity for easy and clean oil changes.",
+    "price": "$14.99",
+    "suitable_for_vehicle_types": ["All Vehicle Types"]
+  },
+  {
+    "title": "Car Polisher and Buffer",
+    "manufacturer": "ShinePro",
+    "description": "A high-performance car polisher and buffer for achieving a showroom finish.",
+    "price": "$79.99",
+    "suitable_for_vehicle_types": ["All Vehicle Types"]
+  },
+  {
+    "title": "Torque Wrench Set",
+    "manufacturer": "TorqueMax",
+    "description": "A set of torque wrenches with various torque ranges for precise tightening of bolts and nuts.",
+    "price": "$59.99",
+    "suitable_for_vehicle_types": ["All Vehicle Types"]
+  },
+  {
+    "title": "Car Wheel Chocks",
+    "manufacturer": "WheelGuard",
+    "description": "A pair of wheel chocks to secure your vehicle in place during maintenance or storage.",
+    "price": "$9.99",
+    "suitable_for_vehicle_types": ["All Vehicle Types"]
+  },
+  {
+    "title": "Car Engine Oil",
+    "manufacturer": "OilPro",
+    "description": "High-quality engine oil for optimal lubrication and performance. Available in various viscosities.",
+    "price": "$24.99",
+    "suitable_for_vehicle_types": ["All Vehicle Types"]
+  },
+  {
+    "title": "Car Wash Kit",
+    "manufacturer": "CleanTech",
+    "description": "A complete car wash kit with shampoo, wax, microfiber towels, and wash mitt for a sparkling clean car.",
+    "price": "$34.99",
+    "suitable_for_vehicle_types": ["All Vehicle Types"]
+  },
+  {
+    "title": "Car Floor Mats",
+    "manufacturer": "MatsMaster",
+    "description": "Durable and easy-to-clean car floor mats to protect your vehicle's interior from dirt and spills.",
+    "price": "$29.99",
+    "suitable_for_vehicle_types": ["All Vehicle Types"]
+  },
+  {
+    "title": "Car Tire Repair Kit",
+    "manufacturer": "TireFix",
+    "description": "A kit for repairing punctured tires quickly and effectively. Get back on the road with confidence.",
+    "price": "$12.99",
+    "suitable_for_vehicle_types": ["All Vehicle Types"]
+  }
+]

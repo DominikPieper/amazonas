@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Whispers of Andromeda",
+    "author": "Elena M. Hartwell",
+    "description": "A gripping space opera set in a distant galaxy where a young hero must save her planet from an ancient threat.",
+    "genre": "Science Fiction",
+    "price": 15.99
+  },
+  {
+    "title": "The Last Garden",
+    "author": "Marcus T. Blackwood",
+    "description": "In a world where nature has been obliterated, one hidden garden holds the key to humanity's survival.",
+    "genre": "Dystopian",
+    "price": 12.5
+  },
+  {
+    "title": "Echoes of Avalon",
+    "author": "Fiona Appleby",
+    "description": "A modern twist on Arthurian legends, where a young woman discovers her connection to the mythic Isle of Avalon.",
+    "genre": "Fantasy",
+    "price": 18.0
+  },
+  {
+    "title": "The Midnight Library",
+    "author": "Oliver P. Thomson",
+    "description": "A magical library opens at midnight, leading a lonely librarian on a journey through books that come to life.",
+    "genre": "Magical Realism",
+    "price": 16.75
+  },
+  {
+    "title": "Shadows Over Brooklyn",
+    "author": "Sophia L. Reynard",
+    "description": "A suspenseful tale of a private investigator uncovering supernatural secrets in modern-day Brooklyn.",
+    "genre": "Urban Fantasy",
+    "price": 14.99
+  },
+  {
+    "title": "The Celestial Code",
+    "author": "Ian H. Carter",
+    "description": "An exhilarating thriller about a codebreaker who unravels a mystery that could change the course of history.",
+    "genre": "Thriller",
+    "price": 17.99
+  },
+  {
+    "title": "The Painter's Apprentice",
+    "author": "Lily J. Monroe",
+    "description": "Set in Renaissance Italy, a young apprentice finds love and intrigue in the world of art.",
+    "genre": "Historical Fiction",
+    "price": 19.95
+  },
+  {
+    "title": "The Silver Compass",
+    "author": "Raymond K. Briggs",
+    "description": "An epic journey of a young hero who must navigate a fantastical world with a mystical compass.",
+    "genre": "Adventure",
+    "price": 13.5
+  },
+  {
+    "title": "The Clockwork Heart",
+    "author": "Natalie F. Pierce",
+    "description": "In a steampunk Victorian London, a clockmaker creates a mechanical heart that holds a dangerous secret.",
+    "genre": "Steampunk",
+    "price": 15.0
+  },
+  {
+    "title": "Labyrinth of Blue",
+    "author": "Connor M. Walsh",
+    "description": "A dreamy, poetic journey through a labyrinth where each turn reveals new mystical challenges.",
+    "genre": "Surrealist",
+    "price": 11.99
+  },
+  {
+    "title": "The Forgotten Map",
+    "author": "Helen S. Wright",
+    "description": "A young adventurer finds an ancient map leading to a world she never imagined.",
+    "genre": "Fantasy Adventure",
+    "price": 14.2
+  },
+  {
+    "title": "Whispering Pines",
+    "author": "George R. Martinson",
+    "description": "A chilling mystery set in a remote town where nothing is as it seems.",
+    "genre": "Mystery",
+    "price": 16.99
+  },
+  {
+    "title": "Quantum Paradox",
+    "author": "Alexa R. Thompson",
+    "description": "A riveting sci-fi thriller about a scientist who discovers a portal to alternate realities.",
+    "genre": "Science Fiction",
+    "price": 18.45
+  },
+  {
+    "title": "The Vanishing",
+    "author": "Richard L. Greene",
+    "description": "A page-turning horror story about a town where people are mysteriously disappearing.",
+    "genre": "Horror",
+    "price": 13.99
+  },
+  {
+    "title": "The Phoenix Prophecy",
+    "author": "Diana W. Black",
+    "description": "In a world of chaos, a prophecy speaks of a phoenix that will bring balance, but at what cost?",
+    "genre": "Fantasy",
+    "price": 17.5
+  },
+  {
+    "title": "The Paper Alchemist",
+    "author": "Claire V. Johnson",
+    "description": "An enchanting tale of an alchemist who can turn paper into fantastical creatures.",
+    "genre": "Fantasy",
+    "price": 12.99
+  },
+  {
+    "title": "The Starless Sea",
+    "author": "Benjamin K. Foster",
+    "description": "An adventure to a secret underground world, where stories come to life and dangers lurk in the shadows.",
+    "genre": "Fantasy Adventure",
+    "price": 15.3
+  },
+  {
+    "title": "The Ghost of Giverny",
+    "author": "Meredith L. Dupont",
+    "description": "A haunting tale of an artist who encounters the ghost of Monet in the gardens of Giverny.",
+    "genre": "Paranormal",
+    "price": 14.75
+  },
+  {
+    "title": "The Cipher",
+    "author": "Vincent O. Lane",
+    "description": "A gripping tale of a cryptographer who gets tangled in a web of espionage and ancient secrets.",
+    "genre": "Thriller",
+    "price": 16.5
+  },
+  {
+    "title": "Embers of Time",
+    "author": "Rachel E. Goldsmith",
+    "description": "A time-travel romance where a modern-day woman finds herself in the heart of the 18th century.",
+    "genre": "Romance",
+    "price": 19.99
+  }
+]

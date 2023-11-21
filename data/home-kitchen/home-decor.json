@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Aurora Glass Vase",
+    "manufacturer": "CrystalWaves",
+    "description": "An elegant glass vase with a shimmering, iridescent finish, perfect for modern homes.",
+    "price": 49.99,
+    "material": "Hand-blown glass",
+    "dimensions": "8 x 8 x 12 inches"
+  },
+  {
+    "title": "Sunset Canvas Print",
+    "manufacturer": "ArtisticHorizons",
+    "description": "A captivating canvas print featuring a serene sunset landscape, adding warmth to any room.",
+    "price": 85.0,
+    "material": "High-quality canvas",
+    "dimensions": "24 x 18 inches"
+  },
+  {
+    "title": "Geometric Wall Mirror",
+    "manufacturer": "ReflectionsDecor",
+    "description": "A stylish wall mirror with a unique geometric frame, ideal for contemporary spaces.",
+    "price": 120.0,
+    "material": "Mirror, metal frame",
+    "dimensions": "20 x 30 inches"
+  },
+  {
+    "title": "Bohemian Macramé Wall Hanging",
+    "manufacturer": "BohoCrafts",
+    "description": "A handcrafted macramé wall hanging, adding a touch of bohemian charm to any room.",
+    "price": 40.0,
+    "material": "100% cotton rope",
+    "dimensions": "15 x 35 inches"
+  },
+  {
+    "title": "Minimalist Table Lamp",
+    "manufacturer": "SleekLighting",
+    "description": "A minimalist table lamp with a sleek design, providing soft and ambient lighting.",
+    "price": 55.0,
+    "material": "Metal, fabric shade",
+    "dimensions": "6 x 6 x 17 inches"
+  },
+  {
+    "title": "Rustic Wooden Clock",
+    "manufacturer": "TimelessPieces",
+    "description": "A rustic wooden wall clock with large, easy-to-read numbers, perfect for a country-style home.",
+    "price": 65.0,
+    "material": "Distressed wood",
+    "dimensions": "18 x 18 inches"
+  },
+  {
+    "title": "Ceramic Planter Set",
+    "manufacturer": "GreenThumb Creations",
+    "description": "A set of three ceramic planters in varying sizes, ideal for indoor plants and succulents.",
+    "price": 70.0,
+    "material": "Glazed ceramic",
+    "dimensions": "Small: 4 x 4 inches, Medium: 6 x 6 inches, Large: 8 x 8 inches"
+  },
+  {
+    "title": "Vintage Metal Sign",
+    "manufacturer": "RetroVibes",
+    "description": "A vintage-inspired metal sign, perfect for adding a nostalgic touch to your décor.",
+    "price": 35.0,
+    "material": "Tin",
+    "dimensions": "12 x 8 inches"
+  },
+  {
+    "title": "Ornate Picture Frame",
+    "manufacturer": "MemoriesGallery",
+    "description": "An ornate picture frame with an antique finish, ideal for showcasing cherished photos.",
+    "price": 25.0,
+    "material": "Polyresin",
+    "dimensions": "5 x 7 inches"
+  },
+  {
+    "title": "Abstract Sculpture",
+    "manufacturer": "ModernArtifacts",
+    "description": "A striking abstract sculpture, adding an artistic flair to any modern space.",
+    "price": 150.0,
+    "material": "Bronze",
+    "dimensions": "10 x 10 x 15 inches"
+  },
+  {
+    "title": "Floral Accent Rug",
+    "manufacturer": "CozyHome Textiles",
+    "description": "A soft accent rug with a vibrant floral design, perfect for brightening up any room.",
+    "price": 99.99,
+    "material": "Wool",
+    "dimensions": "4 x 6 feet"
+  },
+  {
+    "title": "Moroccan Lantern",
+    "manufacturer": "GlobalLights",
+    "description": "A Moroccan-style lantern with intricate metalwork, casting beautiful shadows when lit.",
+    "price": 45.0,
+    "material": "Metal, glass",
+    "dimensions": "6 x 6 x 14 inches"
+  },
+  {
+    "title": "Bamboo Room Divider",
+    "manufacturer": "ZenSpace",
+    "description": "A natural bamboo room divider, perfect for creating private spaces or as a decorative element.",
+    "price": 120.0,
+    "material": "Bamboo",
+    "dimensions": "60 x 72 inches"
+  },
+  {
+    "title": "Digital Wall Art",
+    "manufacturer": "FuturisticDesigns",
+    "description": "A piece of digital wall art with dynamic, changing patterns, suited for a modern home.",
+    "price": 200.0,
+    "material": "LED screen",
+    "dimensions": "24 x 36 inches"
+  },
+  {
+    "title": "Handmade Pottery Vase",
+    "manufacturer": "EarthwareStudio",
+    "description": "A unique, handmade pottery vase with an earthy texture, great for rustic decors.",
+    "price": 60.0,
+    "material": "Clay",
+    "dimensions": "7 x 7 x 12 inches"
+  },
+  {
+    "title": "Oriental Silk Throw Pillow",
+    "manufacturer": "SilkRoad Textiles",
+    "description": "A luxurious silk throw pillow with an oriental design, adding elegance to any sofa or bed.",
+    "price": 50.0,
+    "material": "Silk",
+    "dimensions": "18 x 18 inches"
+  },
+  {
+    "title": "Industrial Pipe Shelf",
+    "manufacturer": "UrbanEdge",
+    "description": "An industrial-style pipe shelf, perfect for a trendy urban loft or modern living space.",
+    "price": 110.0,
+    "material": "Metal pipes, wood",
+    "dimensions": "36 x 8 x 12 inches"
+  },
+  {
+    "title": "Crystal Candle Holder",
+    "manufacturer": "EleganceHome",
+    "description": "A crystal candle holder, beautifully designed to reflect light and add sophistication.",
+    "price": 40.0,
+    "material": "Crystal",
+    "dimensions": "4 x 4 x 8 inches"
+  },
+  {
+    "title": "Sea Glass Wind Chime",
+    "manufacturer": "OceanBreeze",
+    "description": "A charming wind chime made of sea glass, perfect for adding a coastal vibe to your space.",
+    "price": 35.0,
+    "material": "Sea glass, metal",
+    "dimensions": "10 x 24 inches"
+  },
+  {
+    "title": "Mosaic Tile Coasters",
+    "manufacturer": "ArtisanTiles",
+    "description": "A set of four handcrafted mosaic tile coasters, each with a unique design.",
+    "price": 30.0,
+    "material": "Ceramic tiles",
+    "dimensions": "4 x 4 inches each"
+  }
+]

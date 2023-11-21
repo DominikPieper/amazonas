@@ -1,0 +1,122 @@
+[
+  {
+    "title": "BloomBuddy Home Greenhouse",
+    "manufacturer": "GreenGrow",
+    "description": "A compact, easy-to-assemble greenhouse perfect for small spaces.",
+    "price": "$199.99"
+  },
+  {
+    "title": "EcoGarden Smart Watering System",
+    "manufacturer": "AquaTech",
+    "description": "An automated watering system with smart controls for efficient plant care.",
+    "price": "$129.99"
+  },
+  {
+    "title": "Butterfly Attracting Flower Mix",
+    "manufacturer": "NatureSeeds",
+    "description": "A seed mix specially designed to attract butterflies and enhance biodiversity.",
+    "price": "$15.99"
+  },
+  {
+    "title": "Solar-Powered Garden Lights",
+    "manufacturer": "SunGlow",
+    "description": "Energy-efficient, solar-powered lights to illuminate your garden paths.",
+    "price": "$49.99"
+  },
+  {
+    "title": "RoboMow Lawnmower",
+    "manufacturer": "LawnTech",
+    "description": "An automatic robotic lawnmower that keeps your grass perfect without effort.",
+    "price": "$499.99"
+  },
+  {
+    "title": "Herb Haven Indoor Garden Kit",
+    "manufacturer": "UrbanGrow",
+    "description": "A complete indoor herb garden kit with seeds, pots, and soil.",
+    "price": "$34.99"
+  },
+  {
+    "title": "Compost Wizard Jr.",
+    "manufacturer": "EcoCycle",
+    "description": "A compact, easy-to-use compost bin for converting kitchen waste to garden gold.",
+    "price": "$99.99"
+  },
+  {
+    "title": "Garden Guru Tool Set",
+    "manufacturer": "GardenPro",
+    "description": "A high-quality, durable set of essential gardening tools.",
+    "price": "$79.99"
+  },
+  {
+    "title": "Bee-Friendly Wildflower Seeds",
+    "manufacturer": "BloomBuzz",
+    "description": "A mix of wildflower seeds to create a bee-friendly garden.",
+    "price": "$12.99"
+  },
+  {
+    "title": "Adjustable Plant Stand",
+    "manufacturer": "PlantPals",
+    "description": "A stylish and adjustable stand to showcase your indoor plants.",
+    "price": "$29.99"
+  },
+  {
+    "title": "GardenSense Soil Tester",
+    "manufacturer": "EarthCheck",
+    "description": "A soil tester to measure moisture, pH, and light, for optimal plant growth.",
+    "price": "$19.99"
+  },
+  {
+    "title": "RainCatcher Barrel",
+    "manufacturer": "WaterWise",
+    "description": "A rain barrel for collecting and storing rainwater for garden use.",
+    "price": "$139.99"
+  },
+  {
+    "title": "Retractable Garden Hose Reel",
+    "manufacturer": "AquaFlow",
+    "description": "A retractable garden hose reel with a 50ft hose for easy watering.",
+    "price": "$89.99"
+  },
+  {
+    "title": "The Garden Planner",
+    "manufacturer": "GrowSmart",
+    "description": "A comprehensive planner for organizing and tracking your gardening activities.",
+    "price": "$24.99"
+  },
+  {
+    "title": "Fruit Tree Fertilizer",
+    "manufacturer": "GrowBoost",
+    "description": "Specially formulated fertilizer for boosting the health and yield of fruit trees.",
+    "price": "$22.99"
+  },
+  {
+    "title": "Vertical Wall Garden Kit",
+    "manufacturer": "GreenWall",
+    "description": "An innovative kit for creating a vertical garden on any wall space.",
+    "price": "$159.99"
+  },
+  {
+    "title": "Patio Veggie Planter Box",
+    "manufacturer": "UrbanHarvest",
+    "description": "A stylish planter box for growing vegetables on patios or balconies.",
+    "price": "$69.99"
+  },
+  {
+    "title": "Butterfly Garden Sculpture",
+    "manufacturer": "ArtfulGarden",
+    "description": "A beautifully crafted metal sculpture to add charm to your garden.",
+    "price": "$45.99"
+  },
+  {
+    "title": "Deluxe Bird Feeding Station",
+    "manufacturer": "BirdHaven",
+    "description": "A multi-feeder station to attract a variety of birds to your garden.",
+    "price": "$59.99"
+  },
+  {
+    "title": "Automatic Plant Mister",
+    "manufacturer": "MistWell",
+    "description": "A battery-operated plant mister to keep your plants hydrated.",
+    "price": "$39.99"
+  }
+]

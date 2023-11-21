@@ -1,0 +1,122 @@
+[
+  {
+    "title": "SmoothWrite Premium Pens",
+    "manufacturer": "InkFlow",
+    "description": "Elegant ballpoint pens with smooth ink flow, ideal for professional writing.",
+    "price": "$14.99"
+  },
+  {
+    "title": "EcoFriendly Paper Set",
+    "manufacturer": "GreenLeaf",
+    "description": "100% recycled paper, A4 size, perfect for eco-conscious printing and writing.",
+    "price": "$9.50"
+  },
+  {
+    "title": "Rainbow Highlighters",
+    "manufacturer": "ColorSplash",
+    "description": "Set of 6 vibrant, non-toxic highlighters, perfect for organizing and color-coding notes.",
+    "price": "$7.99"
+  },
+  {
+    "title": "StickyNote Pro Pack",
+    "manufacturer": "StickIt",
+    "description": "Assorted sizes of sticky notes in bright colors for reminders and note-taking.",
+    "price": "$5.00"
+  },
+  {
+    "title": "Executive Leather Planner",
+    "manufacturer": "TimeMaster",
+    "description": "Luxury leather-bound planner with monthly, weekly, and daily sections.",
+    "price": "$29.99"
+  },
+  {
+    "title": "UltraFine Gel Pens",
+    "manufacturer": "PrecisionWrite",
+    "description": "Pack of 12 ultra-fine gel pens for detailed writing and drawing.",
+    "price": "$12.00"
+  },
+  {
+    "title": "Classic Envelope Set",
+    "manufacturer": "MailCraft",
+    "description": "High-quality white envelopes, suitable for professional and personal correspondence.",
+    "price": "$6.50"
+  },
+  {
+    "title": "Archival Quality Folders",
+    "manufacturer": "DocuSafe",
+    "description": "Durable folders for safe document storage, acid-free and tear-resistant.",
+    "price": "$15.00"
+  },
+  {
+    "title": "MultiPurpose Printer Paper",
+    "manufacturer": "PrintMax",
+    "description": "High-grade multipurpose paper, ideal for all types of printers and copiers.",
+    "price": "$20.00"
+  },
+  {
+    "title": "Classic Linen Notepads",
+    "manufacturer": "WriteElegance",
+    "description": "Elegant linen-finished notepads, perfect for business meetings and notes.",
+    "price": "$10.99"
+  },
+  {
+    "title": "Sleek Desktop Organizer",
+    "manufacturer": "SpaceSaver",
+    "description": "Modern design desktop organizer with compartments for stationery and accessories.",
+    "price": "$18.00"
+  },
+  {
+    "title": "Deluxe Calligraphy Set",
+    "manufacturer": "ArtisanScript",
+    "description": "Complete calligraphy set with pens, nibs, and ink for artistic writing.",
+    "price": "$22.00"
+  },
+  {
+    "title": "Magnetic Whiteboard",
+    "manufacturer": "ClearView",
+    "description": "Easy-to-clean magnetic whiteboard, perfect for office presentations and brainstorming.",
+    "price": "$35.00"
+  },
+  {
+    "title": "Colorful Binder Clips",
+    "manufacturer": "ClipTight",
+    "description": "Assorted sizes of colorful binder clips for securing documents.",
+    "price": "$4.99"
+  },
+  {
+    "title": "Ergonomic Desk Stapler",
+    "manufacturer": "StapleEase",
+    "description": "Comfortable, easy-to-use desk stapler with a sleek design.",
+    "price": "$8.00"
+  },
+  {
+    "title": "Laser Presentation Pointer",
+    "manufacturer": "PointPro",
+    "description": "High-precision laser pointer, ideal for conferences and presentations.",
+    "price": "$20.00"
+  },
+  {
+    "title": "Document Laminating Machine",
+    "manufacturer": "SealProtect",
+    "description": "Efficient laminating machine for preserving and protecting documents.",
+    "price": "$45.00"
+  },
+  {
+    "title": "Professional Scissors Set",
+    "manufacturer": "CutAbove",
+    "description": "High-quality scissors set for office and craft use, with ergonomic handles.",
+    "price": "$9.50"
+  },
+  {
+    "title": "Wireless Charging Desk Pad",
+    "manufacturer": "TechMat",
+    "description": "Stylish desk pad with built-in wireless charging for devices, enhancing workspace functionality.",
+    "price": "$30.00"
+  },
+  {
+    "title": "Precision Paper Cutter",
+    "manufacturer": "SharpEdge",
+    "description": "Professional paper cutter for precise cuts, suitable for office and craft projects.",
+    "price": "$25.00"
+  }
+]

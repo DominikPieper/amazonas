@@ -1,0 +1,142 @@
+[
+  {
+    "title": "HydraGlow Moisturizing Cream",
+    "manufacturer": "SkinEssence",
+    "description": "A deeply hydrating cream for a radiant and smooth complexion.",
+    "price": 35.99,
+    "ingredients": "Hyaluronic acid, Jojoba oil, Vitamin E"
+  },
+  {
+    "title": "PureClarity Facial Cleanser",
+    "manufacturer": "AquaFresh",
+    "description": "A gentle cleanser that removes impurities without stripping skin moisture.",
+    "price": 22.5,
+    "ingredients": "Aloe vera, Chamomile extract, Glycerin"
+  },
+  {
+    "title": "SunShield SPF 50 Sunscreen",
+    "manufacturer": "DayGlow",
+    "description": "Broad-spectrum SPF 50 sunscreen to protect against UVA and UVB rays.",
+    "price": 29.99,
+    "ingredients": "Zinc oxide, Titanium dioxide, Aloe vera"
+  },
+  {
+    "title": "AgeDefy Anti-Wrinkle Serum",
+    "manufacturer": "YouthSpring",
+    "description": "An anti-aging serum to reduce fine lines and improve skin elasticity.",
+    "price": 55.0,
+    "ingredients": "Retinol, Peptides, Hyaluronic acid"
+  },
+  {
+    "title": "GlowBoost Vitamin C Serum",
+    "manufacturer": "RadiantSkin",
+    "description": "A potent Vitamin C serum that brightens and evens out skin tone.",
+    "price": 48.0,
+    "ingredients": "Vitamin C, Ferulic acid, Vitamin E"
+  },
+  {
+    "title": "DetoxPure Charcoal Mask",
+    "manufacturer": "ClearComplex",
+    "description": "A detoxifying charcoal mask to cleanse pores and rejuvenate skin.",
+    "price": 25.0,
+    "ingredients": "Activated charcoal, Green tea extract, Bentonite clay"
+  },
+  {
+    "title": "SensiCalm Soothing Cream",
+    "manufacturer": "GentleCare",
+    "description": "A soothing cream for sensitive skin to reduce redness and irritation.",
+    "price": 40.0,
+    "ingredients": "Niacinamide, Ceramides, Aloe vera"
+  },
+  {
+    "title": "ExfoliBright Facial Scrub",
+    "manufacturer": "LuminousGlow",
+    "description": "A gentle exfoliating scrub that reveals brighter, smoother skin.",
+    "price": 30.0,
+    "ingredients": "Jojoba beads, Glycolic acid, Vitamin C"
+  },
+  {
+    "title": "HydraEye Revitalizing Gel",
+    "manufacturer": "EyeRenew",
+    "description": "A refreshing eye gel to reduce puffiness and dark circles.",
+    "price": 35.0,
+    "ingredients": "Caffeine, Peptides, Hyaluronic acid"
+  },
+  {
+    "title": "ClearPore Acne Treatment",
+    "manufacturer": "AcneAway",
+    "description": "A targeted acne treatment to reduce breakouts and prevent scarring.",
+    "price": 20.0,
+    "ingredients": "Salicylic acid, Tea tree oil, Witch hazel"
+  },
+  {
+    "title": "UltraRich Night Cream",
+    "manufacturer": "MoonlightSkin",
+    "description": "A nourishing night cream that moisturizes and repairs skin overnight.",
+    "price": 50.0,
+    "ingredients": "Shea butter, Squalane, Ceramides"
+  },
+  {
+    "title": "BrightEye Under-Eye Cream",
+    "manufacturer": "LookAwake",
+    "description": "An under-eye cream that brightens and minimizes fine lines.",
+    "price": 38.0,
+    "ingredients": "Vitamin K, Arnica, Caffeine"
+  },
+  {
+    "title": "PureRose Hydrating Toner",
+    "manufacturer": "FloraFresh",
+    "description": "A hydrating toner infused with rosewater for a refreshed complexion.",
+    "price": 28.0,
+    "ingredients": "Rosewater, Witch hazel, Glycerin"
+  },
+  {
+    "title": "OilFree Matte Moisturizer",
+    "manufacturer": "BalanceZone",
+    "description": "A lightweight, oil-free moisturizer that provides a matte finish.",
+    "price": 32.0,
+    "ingredients": "Hyaluronic acid, Niacinamide, Green tea extract"
+  },
+  {
+    "title": "RenewCell Night Serum",
+    "manufacturer": "SkinRevive",
+    "description": "An advanced night serum that rejuvenates and repairs skin cells.",
+    "price": 60.0,
+    "ingredients": "Glycolic acid, Vitamin A, Peptides"
+  },
+  {
+    "title": "SootheSoft Calming Lotion",
+    "manufacturer": "TranquilTouch",
+    "description": "A calming body lotion that soothes and hydrates sensitive skin.",
+    "price": 18.0,
+    "ingredients": "Oatmeal, Calendula, Shea butter"
+  },
+  {
+    "title": "UVGuard Daily SPF 30",
+    "manufacturer": "ShieldSkin",
+    "description": "A daily sunscreen with SPF 30 for effective UV protection.",
+    "price": 27.0,
+    "ingredients": "Zinc oxide, Vitamin E, Aloe vera"
+  },
+  {
+    "title": "CollagenBoost Firming Cream",
+    "manufacturer": "ElasticityPlus",
+    "description": "A firming cream that enhances skin elasticity and collagen production.",
+    "price": 45.0,
+    "ingredients": "Collagen, Elastin, Hyaluronic acid"
+  },
+  {
+    "title": "DeepCleanse Oil Cleanser",
+    "manufacturer": "PurityWash",
+    "description": "An oil-based cleanser that gently removes makeup and impurities.",
+    "price": 24.0,
+    "ingredients": "Jojoba oil, Sunflower oil, Vitamin E"
+  },
+  {
+    "title": "Rejuvenate Overnight Mask",
+    "manufacturer": "DreamSkin",
+    "description": "An overnight mask that hydrates and revitalizes tired skin.",
+    "price": 42.0,
+    "ingredients": "Hyaluronic acid, Lavender extract, Peptides"
+  }
+]

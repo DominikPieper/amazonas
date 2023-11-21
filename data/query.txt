@@ -1,0 +1,6 @@
+Create a json array of 20 fictive products for the "Automotive - Tools & Equipment" section. Create a json array with title, manufacturer, description, price, dimensions
+
+
+Imagine you're a top notch product image designer. You have to create all images in the same style for the category "Garden & Outdoor". Make the background living, consistent for the category. Define a color palette, background texture, lightning, layout consistency, additional elements, focus on the product, brand integration, sensory appeal
+
+Create a realistic image of a single product to use in an online shop for the section "Garden & Outdoor - Lawn & Garden Decor" without any price tags

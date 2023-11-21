@@ -1,0 +1,142 @@
+[
+  {
+    "title": "GentleTouch Baby Shampoo",
+    "manufacturer": "SoftCare",
+    "description": "Mild and tear-free baby shampoo for delicate hair.",
+    "price": "$7.99 per bottle",
+    "age": "0+ months"
+  },
+  {
+    "title": "CuddleSoft Baby Lotion",
+    "manufacturer": "PureBaby",
+    "description": "Organic baby lotion with natural moisturizers.",
+    "price": "$9.99 per bottle",
+    "age": "0+ months"
+  },
+  {
+    "title": "HappyTummy Colic Drops",
+    "manufacturer": "SootheWell",
+    "description": "Herbal colic relief drops for babies.",
+    "price": "$12.99 per bottle",
+    "age": "0-6 months"
+  },
+  {
+    "title": "SnugFit Diapers",
+    "manufacturer": "TinySteps",
+    "description": "Super absorbent, hypoallergenic diapers for newborns.",
+    "price": "$24.99 per pack",
+    "age": "0-3 months"
+  },
+  {
+    "title": "BinkySoft Silicone Pacifiers",
+    "manufacturer": "CalmBabies",
+    "description": "Orthodontic silicone pacifiers for soothing comfort.",
+    "price": "$5.99 per pack",
+    "age": "0-6 months"
+  },
+  {
+    "title": "DreamyNights Baby Sleep Aid",
+    "manufacturer": "TranquilBaby",
+    "description": "Gentle, natural sleep aid for babies.",
+    "price": "$14.99 per bottle",
+    "age": "6+ months"
+  },
+  {
+    "title": "SunSafe Baby Sunscreen",
+    "manufacturer": "ProtectoSkin",
+    "description": "Mineral-based sunscreen lotion for sensitive baby skin.",
+    "price": "$11.99 per tube",
+    "age": "0+ months"
+  },
+  {
+    "title": "BubbleFun Bath Soap",
+    "manufacturer": "Splashy",
+    "description": "Fun and safe bubble bath soap for babies.",
+    "price": "$8.99 per bottle",
+    "age": "0+ months"
+  },
+  {
+    "title": "TeethingEase Gel",
+    "manufacturer": "GummySmile",
+    "description": "Soothing teething gel for gum relief.",
+    "price": "$6.99 per tube",
+    "age": "4-24 months"
+  },
+  {
+    "title": "TinyTots Organic Baby Food",
+    "manufacturer": "NutriYum",
+    "description": "Nutritious organic puree for starting solids.",
+    "price": "$2.99 per pouch",
+    "age": "6+ months"
+  },
+  {
+    "title": "SnuggleWarm Swaddle Blanket",
+    "manufacturer": "CozyHug",
+    "description": "Soft and breathable swaddle blanket for newborns.",
+    "price": "$19.99 per pack",
+    "age": "0-3 months"
+  },
+  {
+    "title": "BabyFresh Wipes",
+    "manufacturer": "CleanTouch",
+    "description": "Gentle cleaning baby wipes with aloe vera.",
+    "price": "$4.99 per pack",
+    "age": "0+ months"
+  },
+  {
+    "title": "CradleCalm Rocking Chair",
+    "manufacturer": "QuietNights",
+    "description": "Comfortable baby rocking chair for peaceful sleep.",
+    "price": "$99.99",
+    "age": "0-12 months"
+  },
+  {
+    "title": "InfantCare Digital Thermometer",
+    "manufacturer": "HealthFirst",
+    "description": "Fast and accurate digital thermometer for infants.",
+    "price": "$15.99",
+    "age": "0+ months"
+  },
+  {
+    "title": "PlayBright Activity Gym",
+    "manufacturer": "FunZone",
+    "description": "Colorful and stimulating activity gym for babies.",
+    "price": "$49.99",
+    "age": "0-12 months"
+  },
+  {
+    "title": "FirstSteps Baby Walker",
+    "manufacturer": "MoveAhead",
+    "description": "Safe and sturdy baby walker with engaging activities.",
+    "price": "$39.99",
+    "age": "6-18 months"
+  },
+  {
+    "title": "SootheSonic Baby Sound Machine",
+    "manufacturer": "LullabyTech",
+    "description": "White noise sound machine for calming babies.",
+    "price": "$29.99",
+    "age": "0+ months"
+  },
+  {
+    "title": "MunchyMini Food Processor",
+    "manufacturer": "EasyMeal",
+    "description": "Compact food processor for making baby food.",
+    "price": "$34.99",
+    "age": "6+ months"
+  },
+  {
+    "title": "GiggleGear Baby Monitor",
+    "manufacturer": "SafeWatch",
+    "description": "High-tech baby monitor with video and audio.",
+    "price": "$79.99",
+    "age": "0+ months"
+  },
+  {
+    "title": "PureAir Humidifier",
+    "manufacturer": "BreatheEasy",
+    "description": "Ultrasonic humidifier for baby's room.",
+    "price": "$45.99",
+    "age": "0+ months"
+  }
+]

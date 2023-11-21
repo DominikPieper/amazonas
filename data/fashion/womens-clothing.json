@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Elegant Evening Gown",
+    "manufacturer": "GlamourStyles",
+    "description": "Floor-length evening gown with sequin embellishments and a deep V-neck.",
+    "price": "250.00",
+    "size": "S, M, L, XL"
+  },
+  {
+    "title": "Classic Trench Coat",
+    "manufacturer": "UrbanTrend",
+    "description": "Double-breasted trench coat in beige, with a belted waist and button closure.",
+    "price": "120.00",
+    "size": "XS, S, M, L, XL"
+  },
+  {
+    "title": "Boho Chic Maxi Dress",
+    "manufacturer": "SummerBreeze",
+    "description": "Lightweight maxi dress with floral prints and adjustable spaghetti straps.",
+    "price": "60.00",
+    "size": "S, M, L"
+  },
+  {
+    "title": "Tailored Business Blazer",
+    "manufacturer": "ProfessionalWear",
+    "description": "Sophisticated blazer with a fitted silhouette, perfect for office wear.",
+    "price": "80.00",
+    "size": "XS, S, M, L, XL"
+  },
+  {
+    "title": "Casual Denim Jacket",
+    "manufacturer": "StreetCool",
+    "description": "Classic denim jacket with a vintage wash and button-front closure.",
+    "price": "50.00",
+    "size": "S, M, L"
+  },
+  {
+    "title": "Floral Wrap Skirt",
+    "manufacturer": "BlossomFashions",
+    "description": "Knee-length wrap skirt with a vibrant floral pattern and tie-waist.",
+    "price": "40.00",
+    "size": "S, M, L"
+  },
+  {
+    "title": "Soft Cashmere Sweater",
+    "manufacturer": "CozyKnits",
+    "description": "Luxuriously soft cashmere sweater in a variety of colors, with ribbed cuffs.",
+    "price": "90.00",
+    "size": "XS, S, M, L, XL"
+  },
+  {
+    "title": "High-Waisted Jeans",
+    "manufacturer": "DenimRevolution",
+    "description": "Stretchy high-waisted jeans with a slim fit and classic five-pocket design.",
+    "price": "55.00",
+    "size": "XS, S, M, L, XL"
+  },
+  {
+    "title": "Silk Camisole Top",
+    "manufacturer": "SilkElegance",
+    "description": "Luxurious silk camisole top with lace trim and adjustable straps.",
+    "price": "35.00",
+    "size": "XS, S, M, L"
+  },
+  {
+    "title": "Active Yoga Pants",
+    "manufacturer": "FitForm",
+    "description": "High-performance yoga pants with moisture-wicking fabric and a comfortable fit.",
+    "price": "45.00",
+    "size": "XS, S, M, L, XL"
+  },
+  {
+    "title": "Versatile Knit Dress",
+    "manufacturer": "EverydayChic",
+    "description": "Comfortable knit dress with a versatile style, suitable for various occasions.",
+    "price": "70.00",
+    "size": "S, M, L, XL"
+  },
+  {
+    "title": "Beach Cover-Up",
+    "manufacturer": "SunKissed",
+    "description": "Light and airy beach cover-up with an elegant design, perfect for summer.",
+    "price": "30.00",
+    "size": "One Size"
+  },
+  {
+    "title": "Leather Biker Jacket",
+    "manufacturer": "RebelEdge",
+    "description": "Edgy leather biker jacket with zip details and a fitted silhouette.",
+    "price": "150.00",
+    "size": "XS, S, M, L"
+  },
+  {
+    "title": "Graphic Tee Collection",
+    "manufacturer": "UrbanGraphics",
+    "description": "Trendy graphic tees with unique designs, made from soft, breathable fabric.",
+    "price": "25.00",
+    "size": "S, M, L, XL"
+  },
+  {
+    "title": "Slim Fit Chinos",
+    "manufacturer": "CasualClassics",
+    "description": "Versatile slim fit chinos, ideal for casual or semi-formal settings.",
+    "price": "50.00",
+    "size": "XS, S, M, L, XL"
+  },
+  {
+    "title": "Chunky Knit Cardigan",
+    "manufacturer": "WarmWonders",
+    "description": "Cozy chunky knit cardigan with large buttons and deep pockets.",
+    "price": "65.00",
+    "size": "S, M, L, XL"
+  },
+  {
+    "title": "Elegant Lace Blouse",
+    "manufacturer": "FeminineTouch",
+    "description": "Delicate lace blouse with a sheer design and intricate detailing.",
+    "price": "45.00",
+    "size": "XS, S, M, L"
+  },
+  {
+    "title": "Pleated Midi Skirt",
+    "manufacturer": "ChicTrend",
+    "description": "Stylish pleated midi skirt with a comfortable waistband and flowy silhouette.",
+    "price": "55.00",
+    "size": "S, M, L, XL"
+  },
+  {
+    "title": "Athletic Tank Top",
+    "manufacturer": "SportyVibe",
+    "description": "Breathable athletic tank top, great for workouts and active lifestyles.",
+    "price": "20.00",
+    "size": "XS, S, M, L"
+  },
+  {
+    "title": "Luxury Velvet Blazer",
+    "manufacturer": "ElegantAttire",
+    "description": "Premium velvet blazer with a sophisticated design, perfect for evening events.",
+    "price": "130.00",
+    "size": "S, M, L, XL"
+  }
+]

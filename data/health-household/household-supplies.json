@@ -1,0 +1,122 @@
+[
+  {
+    "title": "EcoClean All-Purpose Cleaner",
+    "manufacturer": "GreenHouse",
+    "description": "Biodegradable, non-toxic cleaner for all surfaces.",
+    "price": "$6.99 per bottle"
+  },
+  {
+    "title": "SparkleBright Window Wash",
+    "manufacturer": "CrystalClear",
+    "description": "Streak-free window cleaner for a sparkling shine.",
+    "price": "$5.50 per bottle"
+  },
+  {
+    "title": "FreshLinen Laundry Detergent",
+    "manufacturer": "PureWash",
+    "description": "Hypoallergenic laundry detergent with a fresh linen scent.",
+    "price": "$12.00 per jug"
+  },
+  {
+    "title": "PowerScrub Dishwasher Tabs",
+    "manufacturer": "WashMax",
+    "description": "Concentrated dishwasher tabs for tough grease removal.",
+    "price": "$8.99 per pack"
+  },
+  {
+    "title": "MightyMop Floor Cleaner",
+    "manufacturer": "ShinyFloors",
+    "description": "Powerful floor cleaner suitable for all types of flooring.",
+    "price": "$7.99 per bottle"
+  },
+  {
+    "title": "BacteriaBlaster Disinfectant Spray",
+    "manufacturer": "CleanSafe",
+    "description": "Kills 99.9% of bacteria and viruses on surfaces.",
+    "price": "$9.99 per can"
+  },
+  {
+    "title": "FreshAir Odor Eliminator",
+    "manufacturer": "AirPure",
+    "description": "Neutralizes and eliminates household odors.",
+    "price": "$4.99 per spray bottle"
+  },
+  {
+    "title": "UltraSoft Toilet Paper",
+    "manufacturer": "ComfortCare",
+    "description": "3-ply, ultra-soft and strong toilet paper.",
+    "price": "$10.99 per pack"
+  },
+  {
+    "title": "ShineBright Silver Polish",
+    "manufacturer": "MetalGlow",
+    "description": "Non-abrasive silver polish for cutlery and jewelry.",
+    "price": "$7.50 per jar"
+  },
+  {
+    "title": "GermGuard Hand Sanitizer",
+    "manufacturer": "HealthFirst",
+    "description": "Quick-drying hand sanitizer with moisturizing aloe.",
+    "price": "$3.99 per bottle"
+  },
+  {
+    "title": "QuickFix Super Glue",
+    "manufacturer": "BondStrong",
+    "description": "Fast-setting super glue for durable bonding.",
+    "price": "$5.99 per tube"
+  },
+  {
+    "title": "EcoWipe Paper Towels",
+    "manufacturer": "GreenClean",
+    "description": "100% recycled paper towels, super absorbent.",
+    "price": "$11.99 per 6-roll pack"
+  },
+  {
+    "title": "DustAway Microfiber Cloths",
+    "manufacturer": "CleanTech",
+    "description": "Reusable microfiber cloths for dusting and cleaning.",
+    "price": "$6.50 per 5-pack"
+  },
+  {
+    "title": "BugBeGone Insect Repellent",
+    "manufacturer": "NatureShield",
+    "description": "Natural insect repellent safe for the whole family.",
+    "price": "$8.99 per bottle"
+  },
+  {
+    "title": "FreshFridge Refrigerator Deodorizer",
+    "manufacturer": "OdorFree",
+    "description": "Absorbs and neutralizes fridge odors for up to 6 months.",
+    "price": "$4.99 per deodorizer"
+  },
+  {
+    "title": "StainLift Carpet Cleaner",
+    "manufacturer": "SpotGone",
+    "description": "Removes tough carpet stains and odors.",
+    "price": "$9.99 per bottle"
+  },
+  {
+    "title": "TrashGuard Garbage Bags",
+    "manufacturer": "Durabag",
+    "description": "Heavy-duty garbage bags with odor control.",
+    "price": "$15.99 per 50-bag box"
+  },
+  {
+    "title": "GrimeFighter Kitchen Scrub",
+    "manufacturer": "CleanPro",
+    "description": "Non-scratch scrub sponges for kitchen cleaning.",
+    "price": "$5.99 per 4-pack"
+  },
+  {
+    "title": "PestControl Mouse Traps",
+    "manufacturer": "SafeCatch",
+    "description": "Humane, non-toxic mouse traps for pest control.",
+    "price": "$12.99 per 4-pack"
+  },
+  {
+    "title": "ScentSational Aroma Candles",
+    "manufacturer": "CandleDelight",
+    "description": "Soy wax candles with calming, natural scents.",
+    "price": "$14.99 per 3-pack"
+  }
+]

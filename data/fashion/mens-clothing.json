@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Slim Fit Suit",
+    "manufacturer": "ModernGent",
+    "description": "A sleek, slim fit suit perfect for business or formal occasions.",
+    "price": "300.00",
+    "size": "S, M, L, XL"
+  },
+  {
+    "title": "Casual Denim Jeans",
+    "manufacturer": "BlueTrend",
+    "description": "Comfortable and stylish denim jeans, ideal for everyday wear.",
+    "price": "60.00",
+    "size": "S, M, L, XL, XXL"
+  },
+  {
+    "title": "Classic White Shirt",
+    "manufacturer": "TimelessApparel",
+    "description": "A versatile white shirt, suitable for both casual and formal settings.",
+    "price": "40.00",
+    "size": "S, M, L, XL"
+  },
+  {
+    "title": "Leather Bomber Jacket",
+    "manufacturer": "UrbanRider",
+    "description": "A durable and fashionable leather bomber jacket for a rugged look.",
+    "price": "180.00",
+    "size": "M, L, XL, XXL"
+  },
+  {
+    "title": "Graphic Hoodie",
+    "manufacturer": "StreetWear",
+    "description": "A trendy hoodie with unique graphic designs for a casual look.",
+    "price": "50.00",
+    "size": "S, M, L, XL"
+  },
+  {
+    "title": "Cargo Pants",
+    "manufacturer": "AdventureGear",
+    "description": "Versatile cargo pants with multiple pockets, perfect for outdoor activities.",
+    "price": "70.00",
+    "size": "S, M, L, XL, XXL"
+  },
+  {
+    "title": "Sports Jacket",
+    "manufacturer": "ActiveStyle",
+    "description": "A lightweight sports jacket for outdoor activities or casual outings.",
+    "price": "90.00",
+    "size": "M, L, XL, XXL"
+  },
+  {
+    "title": "Knit Sweater",
+    "manufacturer": "CozyKnits",
+    "description": "A warm knit sweater, ideal for cooler weather.",
+    "price": "55.00",
+    "size": "S, M, L, XL"
+  },
+  {
+    "title": "Chino Shorts",
+    "manufacturer": "SummerClassics",
+    "description": "Comfortable and stylish chino shorts for summer days.",
+    "price": "35.00",
+    "size": "S, M, L, XL"
+  },
+  {
+    "title": "Tailored Blazer",
+    "manufacturer": "ElegantMan",
+    "description": "A finely tailored blazer, perfect for business meetings or special events.",
+    "price": "150.00",
+    "size": "S, M, L, XL, XXL"
+  },
+  {
+    "title": "Polo Shirt",
+    "manufacturer": "CasualElite",
+    "description": "A classic polo shirt, suitable for both casual and semi-formal occasions.",
+    "price": "45.00",
+    "size": "S, M, L, XL"
+  },
+  {
+    "title": "Gym Tank Top",
+    "manufacturer": "FitFocus",
+    "description": "A breathable and flexible tank top for workouts and gym sessions.",
+    "price": "25.00",
+    "size": "S, M, L, XL"
+  },
+  {
+    "title": "Wool Overcoat",
+    "manufacturer": "WinterTrend",
+    "description": "A stylish wool overcoat to keep warm during cold weather.",
+    "price": "200.00",
+    "size": "M, L, XL, XXL"
+  },
+  {
+    "title": "Running Shorts",
+    "manufacturer": "SpeedRunner",
+    "description": "Lightweight and comfortable running shorts for athletes and fitness enthusiasts.",
+    "price": "30.00",
+    "size": "S, M, L, XL"
+  },
+  {
+    "title": "Beachwear Swim Shorts",
+    "manufacturer": "OceanLife",
+    "description": "Fashionable swim shorts for beach outings and pool parties.",
+    "price": "35.00",
+    "size": "S, M, L, XL"
+  },
+  {
+    "title": "V-Neck T-Shirt",
+    "manufacturer": "BasicTees",
+    "description": "A soft and comfortable V-neck T-shirt, a must-have in any wardrobe.",
+    "price": "20.00",
+    "size": "S, M, L, XL"
+  },
+  {
+    "title": "Formal Trousers",
+    "manufacturer": "ClassicElegance",
+    "description": "Sophisticated formal trousers, ideal for business settings or formal events.",
+    "price": "80.00",
+    "size": "S, M, L, XL, XXL"
+  },
+  {
+    "title": "Henley Shirt",
+    "manufacturer": "RuggedStyle",
+    "description": "A Henley shirt that combines comfort with a touch of rugged charm.",
+    "price": "35.00",
+    "size": "S, M, L, XL"
+  },
+  {
+    "title": "Quilted Vest",
+    "manufacturer": "OutdoorEssentials",
+    "description": "A quilted vest for extra warmth during outdoor adventures.",
+    "price": "60.00",
+    "size": "M, L, XL, XXL"
+  },
+  {
+    "title": "Suede Loafers",
+    "manufacturer": "ClassicFootwear",
+    "description": "Elegant suede loafers, perfect for both casual and formal wear.",
+    "price": "100.00",
+    "size": "8, 9, 10, 11, 12"
+  }
+]

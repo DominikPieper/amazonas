@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Keto Crunch Granola",
+    "manufacturer": "LowCarb Naturals",
+    "description": "A delicious, crunchy granola with nuts and seeds, perfect for keto diets.",
+    "price": "$8.99 per bag",
+    "dietary_preferences": "Keto, Gluten-Free, Vegan"
+  },
+  {
+    "title": "Almond Flour",
+    "manufacturer": "BakeRight",
+    "description": "High-quality, finely ground almond flour ideal for gluten-free baking.",
+    "price": "$12.00 per lb",
+    "dietary_preferences": "Gluten-Free, Paleo, Vegan"
+  },
+  {
+    "title": "Plant Power Protein Powder",
+    "manufacturer": "Vegan Gains",
+    "description": "A plant-based protein powder with pea, hemp, and rice protein.",
+    "price": "$30.00 per container",
+    "dietary_preferences": "Vegan, Gluten-Free, Non-GMO"
+  },
+  {
+    "title": "Organic Coconut Oil",
+    "manufacturer": "Tropical Harvest",
+    "description": "Extra virgin and unrefined coconut oil, great for cooking and baking.",
+    "price": "$7.50 per jar",
+    "dietary_preferences": "Organic, Vegan, Paleo"
+  },
+  {
+    "title": "Erythritol Natural Sweetener",
+    "manufacturer": "Sweet Health",
+    "description": "A zero-calorie, sugar-free sweetener that's perfect for diabetic diets.",
+    "price": "$6.99 per lb",
+    "dietary_preferences": "Diabetic-Friendly, Keto, Vegan"
+  },
+  {
+    "title": "Spirulina Superfood Powder",
+    "manufacturer": "Green Boost",
+    "description": "Nutrient-rich spirulina powder, ideal for adding to smoothies.",
+    "price": "$15.99 per packet",
+    "dietary_preferences": "Vegan, Gluten-Free, Non-GMO"
+  },
+  {
+    "title": "Organic Quinoa",
+    "manufacturer": "Ancient Grains",
+    "description": "Whole grain organic quinoa, perfect for healthy salads and side dishes.",
+    "price": "$5.00 per lb",
+    "dietary_preferences": "Organic, Gluten-Free, Vegan"
+  },
+  {
+    "title": "Paleo Beef Jerky",
+    "manufacturer": "Caveman Snacks",
+    "description": "All-natural beef jerky made with grass-fed beef, seasoned with organic spices.",
+    "price": "$7.99 per pack",
+    "dietary_preferences": "Paleo, Gluten-Free, Non-GMO"
+  },
+  {
+    "title": "Gluten-Free Bread Mix",
+    "manufacturer": "Gourmet Bakes",
+    "description": "Easy-to-make gluten-free bread mix, just add water and bake.",
+    "price": "$4.99 per box",
+    "dietary_preferences": "Gluten-Free, Vegan, Non-GMO"
+  },
+  {
+    "title": "Raw Honey",
+    "manufacturer": "Nature's Sweetness",
+    "description": "100% pure, raw honey, unprocessed and packed with natural goodness.",
+    "price": "$9.50 per jar",
+    "dietary_preferences": "Organic, Paleo, Gluten-Free"
+  },
+  {
+    "title": "Avocado Oil Mayo",
+    "manufacturer": "Healthy Choice Condiments",
+    "description": "A healthier mayo alternative made with avocado oil and free-range eggs.",
+    "price": "$6.99 per jar",
+    "dietary_preferences": "Keto, Paleo, Gluten-Free"
+  },
+  {
+    "title": "Chia Seed Pudding Mix",
+    "manufacturer": "Chia Delights",
+    "description": "Easy-to-prepare chia seed pudding mix, just add your favorite milk.",
+    "price": "$5.99 per packet",
+    "dietary_preferences": "Vegan, Gluten-Free, Organic"
+  },
+  {
+    "title": "Lactose-Free Cheese",
+    "manufacturer": "Dairy Ease",
+    "description": "Delicious, creamy cheese that's completely lactose-free.",
+    "price": "$4.50 per pack",
+    "dietary_preferences": "Lactose-Free, Gluten-Free, Vegetarian"
+  },
+  {
+    "title": "Gluten-Free Pasta",
+    "manufacturer": "Pasta Perfection",
+    "description": "High-quality gluten-free pasta that has the perfect al dente texture.",
+    "price": "$3.99 per box",
+    "dietary_preferences": "Gluten-Free, Vegan, Non-GMO"
+  },
+  {
+    "title": "Organic Tofu",
+    "manufacturer": "Soy Good",
+    "description": "Organic, non-GMO tofu, perfect for vegan and vegetarian dishes.",
+    "price": "$2.99 per block",
+    "dietary_preferences": "Vegan, Gluten-Free, Organic"
+  },
+  {
+    "title": "Sugar-Free Chocolate Chips",
+    "manufacturer": "Sweet Nothings",
+    "description": "Delicious, sugar-free chocolate chips ideal for baking and snacking.",
+    "price": "$5.99 per bag",
+    "dietary_preferences": "Diabetic-Friendly, Vegan, Gluten-Free"
+  },
+  {
+    "title": "Flaxseed Meal",
+    "manufacturer": "Omega Nutrition",
+    "description": "Ground flaxseed meal, a great source of omega-3 and fiber.",
+    "price": "$4.50 per lb",
+    "dietary_preferences": "Vegan, Gluten-Free, Organic"
+  },
+  {
+    "title": "Organic Bone Broth",
+    "manufacturer": "Broth Masters",
+    "description": "Rich and nutritious bone broth made from organic, grass-fed bones.",
+    "price": "$7.99 per jar",
+    "dietary_preferences": "Paleo, Gluten-Free, Organic"
+  },
+  {
+    "title": "Vegan Protein Bars",
+    "manufacturer": "Energy Essentials",
+    "description": "Delicious protein bars made with plant-based proteins and natural ingredients.",
+    "price": "$24.00 per box of 12",
+    "dietary_preferences": "Vegan, Gluten-Free, Non-GMO"
+  },
+  {
+    "title": "Seaweed Snacks",
+    "manufacturer": "Ocean Crunch",
+    "description": "Light and crispy seaweed snacks, lightly seasoned with sea salt.",
+    "price": "$2.25 per pack",
+    "dietary_preferences": "Vegan, Gluten-Free, Low-Calorie"
+  }
+]

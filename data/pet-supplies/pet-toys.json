@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Squeaky Bone Delight",
+    "manufacturer": "BarkFun",
+    "description": "Durable rubber bone with a fun squeaker inside.",
+    "price": "$9.99",
+    "kind_of_animal": "Dog"
+  },
+  {
+    "title": "Feathered Frenzy Wand",
+    "manufacturer": "CatCraze",
+    "description": "Interactive wand toy with feathers and bells for cats.",
+    "price": "$7.99",
+    "kind_of_animal": "Cat"
+  },
+  {
+    "title": "Bouncy Rabbit Ball",
+    "manufacturer": "HopAlong",
+    "description": "Soft, chewable ball made from rabbit-safe materials.",
+    "price": "$4.99",
+    "kind_of_animal": "Rabbit"
+  },
+  {
+    "title": "Tropical Bird Swing",
+    "manufacturer": "SkyPlay",
+    "description": "Colorful swing with beads and ropes for birds.",
+    "price": "$12.99",
+    "kind_of_animal": "Bird"
+  },
+  {
+    "title": "Hamster Spin Wheel",
+    "manufacturer": "RunFun",
+    "description": "Silent spinning wheel for hamster exercise.",
+    "price": "$10.99",
+    "kind_of_animal": "Hamster"
+  },
+  {
+    "title": "Aquatic Treasure Chest",
+    "manufacturer": "OceanWonder",
+    "description": "Decorative treasure chest that opens and closes underwater.",
+    "price": "$15.99",
+    "kind_of_animal": "Fish"
+  },
+  {
+    "title": "Guinea Pig Play Tunnel",
+    "manufacturer": "TinyTunnels",
+    "description": "Flexible fabric tunnel for guinea pig exploration.",
+    "price": "$8.99",
+    "kind_of_animal": "Guinea Pig"
+  },
+  {
+    "title": "ReptiHide Rock Shelter",
+    "manufacturer": "DesertDome",
+    "description": "Realistic rock shelter for reptiles to hide and rest.",
+    "price": "$20.99",
+    "kind_of_animal": "Reptile"
+  },
+  {
+    "title": "Canary Chime Toy",
+    "manufacturer": "MelodyMakers",
+    "description": "Hanging toy with chimes and mirrors for canaries.",
+    "price": "$6.99",
+    "kind_of_animal": "Bird"
+  },
+  {
+    "title": "Mice Maze Playground",
+    "manufacturer": "CheeseChase",
+    "description": "Intricate maze toy for mice and small rodents.",
+    "price": "$17.99",
+    "kind_of_animal": "Rodent"
+  },
+  {
+    "title": "Puppy Teething Rings",
+    "manufacturer": "PuppyChew",
+    "description": "Soft, safe rings for puppies to chew during teething.",
+    "price": "$5.99",
+    "kind_of_animal": "Dog"
+  },
+  {
+    "title": "Catnip Crazy Balls",
+    "manufacturer": "FelineFun",
+    "description": "Set of three balls infused with catnip for extra fun.",
+    "price": "$4.99",
+    "kind_of_animal": "Cat"
+  },
+  {
+    "title": "Fetch & Float Water Toy",
+    "manufacturer": "AquaPup",
+    "description": "Floating toy for water-loving dogs to retrieve.",
+    "price": "$11.99",
+    "kind_of_animal": "Dog"
+  },
+  {
+    "title": "Parrot Puzzle Box",
+    "manufacturer": "BrainyBeaks",
+    "description": "Interactive puzzle toy to stimulate parrot intelligence.",
+    "price": "$14.99",
+    "kind_of_animal": "Bird"
+  },
+  {
+    "title": "Ferret Tumble Tunnel",
+    "manufacturer": "FurryFun",
+    "description": "Playful tunnel for ferrets to run and tumble through.",
+    "price": "$12.99",
+    "kind_of_animal": "Ferret"
+  },
+  {
+    "title": "Chinchilla Chew Tree",
+    "manufacturer": "NibbleNature",
+    "description": "Wooden tree with safe-to-chew branches for chinchillas.",
+    "price": "$9.99",
+    "kind_of_animal": "Chinchilla"
+  },
+  {
+    "title": "Lizard Lounge Hammock",
+    "manufacturer": "SunBasker",
+    "description": "Comfortable hammock for lizards to lounge and bask.",
+    "price": "$8.99",
+    "kind_of_animal": "Reptile"
+  },
+  {
+    "title": "Bunny Bounce House",
+    "manufacturer": "HoppyHaven",
+    "description": "Soft, safe play area for rabbits to hop and play.",
+    "price": "$22.99",
+    "kind_of_animal": "Rabbit"
+  },
+  {
+    "title": "Turtle Climbing Rock",
+    "manufacturer": "ShellClimb",
+    "description": "Naturalistic rock for turtles to climb and bask on.",
+    "price": "$19.99",
+    "kind_of_animal": "Turtle"
+  },
+  {
+    "title": "Gerbil Gym Wheel",
+    "manufacturer": "LittleRunners",
+    "description": "Sturdy exercise wheel for gerbils and small rodents.",
+    "price": "$7.99",
+    "kind_of_animal": "Rodent"
+  }
+]

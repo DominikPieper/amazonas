@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Elegant Leather Pumps",
+    "manufacturer": "StepInStyle",
+    "description": "High-quality leather pumps, perfect for formal occasions.",
+    "price": "75.00",
+    "size": "6, 7, 8, 9, 10"
+  },
+  {
+    "title": "Classic Men's Oxford Shoes",
+    "manufacturer": "Gentleman's Choice",
+    "description": "Timeless Oxford shoes for men, crafted for comfort and style.",
+    "price": "85.00",
+    "size": "8, 9, 10, 11, 12"
+  },
+  {
+    "title": "Trendy Backpack",
+    "manufacturer": "UrbanMove",
+    "description": "Stylish and practical backpack, suitable for everyday use.",
+    "price": "50.00",
+    "size": "One size"
+  },
+  {
+    "title": "Sporty Sneakers",
+    "manufacturer": "RunFast",
+    "description": "Lightweight and durable sneakers, ideal for sports and casual wear.",
+    "price": "60.00",
+    "size": "6, 7, 8, 9, 10, 11"
+  },
+  {
+    "title": "Chic Tote Bag",
+    "manufacturer": "CityFashion",
+    "description": "Spacious and fashionable tote bag, perfect for work or shopping.",
+    "price": "40.00",
+    "size": "One size"
+  },
+  {
+    "title": "Elegant Silk Scarf",
+    "manufacturer": "SilkElegance",
+    "description": "Luxurious silk scarf, adding a touch of sophistication to any outfit.",
+    "price": "30.00",
+    "size": "One size"
+  },
+  {
+    "title": "Casual Canvas Belt",
+    "manufacturer": "EverydayWear",
+    "description": "Versatile canvas belt, suitable for casual outfits.",
+    "price": "15.00",
+    "size": "S, M, L, XL"
+  },
+  {
+    "title": "Designer Sunglasses",
+    "manufacturer": "ShadeStyle",
+    "description": "Fashionable sunglasses, offering style and UV protection.",
+    "price": "120.00",
+    "size": "One size"
+  },
+  {
+    "title": "Handcrafted Leather Wallet",
+    "manufacturer": "ClassicTouch",
+    "description": "Durable and stylish leather wallet, with multiple compartments.",
+    "price": "45.00",
+    "size": "One size"
+  },
+  {
+    "title": "Stylish Ankle Boots",
+    "manufacturer": "ModernWalk",
+    "description": "Chic ankle boots, ideal for a trendy and comfortable look.",
+    "price": "70.00",
+    "size": "6, 7, 8, 9, 10"
+  },
+  {
+    "title": "Running Shoes",
+    "manufacturer": "PaceSetters",
+    "description": "High-performance running shoes, designed for comfort and speed.",
+    "price": "90.00",
+    "size": "6, 7, 8, 9, 10, 11"
+  },
+  {
+    "title": "Vintage Leather Messenger Bag",
+    "manufacturer": "RetroCarry",
+    "description": "Classic leather messenger bag, combining style with functionality.",
+    "price": "65.00",
+    "size": "One size"
+  },
+  {
+    "title": "Waterproof Hiking Boots",
+    "manufacturer": "TrailBlazers",
+    "description": "Durable hiking boots, designed for tough terrains and weather conditions.",
+    "price": "100.00",
+    "size": "7, 8, 9, 10, 11, 12"
+  },
+  {
+    "title": "Fashionable Clutch Purse",
+    "manufacturer": "GlamorNight",
+    "description": "Elegant clutch purse, perfect for evening outings and special events.",
+    "price": "35.00",
+    "size": "One size"
+  },
+  {
+    "title": "Unisex Beanie Hat",
+    "manufacturer": "CoolHeads",
+    "description": "Comfortable and trendy beanie hat, suitable for all genders.",
+    "price": "20.00",
+    "size": "One size"
+  },
+  {
+    "title": "Kids' Colorful Rain Boots",
+    "manufacturer": "PuddleJumpers",
+    "description": "Fun and practical rain boots for kids, ensuring dry feet in wet weather.",
+    "price": "25.00",
+    "size": "1, 2, 3, 4, 5"
+  },
+  {
+    "title": "Women's Yoga Pants",
+    "manufacturer": "ZenFit",
+    "description": "Comfortable and stretchy yoga pants, ideal for fitness and relaxation.",
+    "price": "30.00",
+    "size": "XS, S, M, L, XL"
+  },
+  {
+    "title": "Men's Leather Briefcase",
+    "manufacturer": "ProfessionalEdge",
+    "description": "Sophisticated leather briefcase, perfect for the modern professional.",
+    "price": "110.00",
+    "size": "One size"
+  },
+  {
+    "title": "Smartwatch with Fitness Tracker",
+    "manufacturer": "TechTime",
+    "description": "Advanced smartwatch with fitness tracking capabilities and stylish design.",
+    "price": "150.00",
+    "size": "One size"
+  },
+  {
+    "title": "Travel Duffel Bag",
+    "manufacturer": "JourneyGear",
+    "description": "Spacious and durable duffel bag, ideal for travel and sports.",
+    "price": "55.00",
+    "size": "One size"
+  }
+]

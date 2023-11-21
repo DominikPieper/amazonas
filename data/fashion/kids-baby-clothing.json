@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Colorful Toddler T-Shirt",
+    "manufacturer": "TinyTrends",
+    "description": "Bright and fun t-shirt for toddlers, made with soft cotton.",
+    "price": "15.00",
+    "size": "2T, 3T, 4T"
+  },
+  {
+    "title": "Baby Onesie",
+    "manufacturer": "LittleSteps",
+    "description": "Comfortable and cute onesie for babies, featuring playful designs.",
+    "price": "10.00",
+    "size": "Newborn, 3M, 6M, 9M"
+  },
+  {
+    "title": "Girls' Summer Dress",
+    "manufacturer": "SunshineKids",
+    "description": "Light and airy summer dress perfect for warm days, with floral patterns.",
+    "price": "20.00",
+    "size": "2T, 3T, 4T, 5T"
+  },
+  {
+    "title": "Boys' Cargo Shorts",
+    "manufacturer": "AdventureJuniors",
+    "description": "Durable cargo shorts for boys, ideal for play and exploration.",
+    "price": "18.00",
+    "size": "3T, 4T, 5T, 6T"
+  },
+  {
+    "title": "Infant Sleep Set",
+    "manufacturer": "DreamyNights",
+    "description": "Cozy sleep set for infants, ensuring a comfortable and restful sleep.",
+    "price": "22.00",
+    "size": "Newborn, 3M, 6M"
+  },
+  {
+    "title": "Toddler Sneakers",
+    "manufacturer": "FirstSteps",
+    "description": "Stylish and sturdy sneakers for toddlers, perfect for active little ones.",
+    "price": "25.00",
+    "size": "5, 6, 7, 8"
+  },
+  {
+    "title": "Kids' Rain Jacket",
+    "manufacturer": "RainyDayPlay",
+    "description": "Waterproof rain jacket for kids, keeping them dry during rainy adventures.",
+    "price": "30.00",
+    "size": "2T, 3T, 4T, 5T, 6T"
+  },
+  {
+    "title": "Girls' Ballet Flats",
+    "manufacturer": "LittleDancer",
+    "description": "Elegant and comfortable ballet flats for girls, suitable for dressy occasions.",
+    "price": "18.00",
+    "size": "8, 9, 10, 11, 12"
+  },
+  {
+    "title": "Boys' Graphic Tee",
+    "manufacturer": "CoolKidz",
+    "description": "Trendy graphic tee for boys with fun and colorful prints.",
+    "price": "14.00",
+    "size": "2T, 3T, 4T, 5T, 6T"
+  },
+  {
+    "title": "Kids' Hoodie",
+    "manufacturer": "PlaygroundPals",
+    "description": "Soft and cozy hoodie for kids, perfect for cooler days.",
+    "price": "24.00",
+    "size": "3T, 4T, 5T, 6T, 7T"
+  },
+  {
+    "title": "Baby Pajama Set",
+    "manufacturer": "StarryNights",
+    "description": "Adorable pajama set for babies, made with gentle fabric for a good night's sleep.",
+    "price": "20.00",
+    "size": "Newborn, 3M, 6M, 9M"
+  },
+  {
+    "title": "Girls' Leggings",
+    "manufacturer": "FlexiKids",
+    "description": "Comfortable and stretchy leggings for girls, suitable for various activities.",
+    "price": "15.00",
+    "size": "2T, 3T, 4T, 5T, 6T"
+  },
+  {
+    "title": "Boys' Denim Jeans",
+    "manufacturer": "JuniorStyle",
+    "description": "Classic denim jeans for boys, durable and perfect for everyday wear.",
+    "price": "25.00",
+    "size": "3T, 4T, 5T, 6T, 7T"
+  },
+  {
+    "title": "Newborn Mittens",
+    "manufacturer": "BabyCare",
+    "description": "Soft mittens to keep newborn hands warm and prevent scratching.",
+    "price": "6.00",
+    "size": "One size"
+  },
+  {
+    "title": "Kids' Swimwear",
+    "manufacturer": "AquaKids",
+    "description": "Fun and comfortable swimwear for kids, perfect for beach and pool days.",
+    "price": "19.00",
+    "size": "2T, 3T, 4T, 5T, 6T"
+  },
+  {
+    "title": "Baby Winter Coat",
+    "manufacturer": "WarmHugs",
+    "description": "Warm and snug winter coat for babies, ideal for chilly days.",
+    "price": "35.00",
+    "size": "Newborn, 3M, 6M, 9M"
+  },
+  {
+    "title": "Toddler Backpack",
+    "manufacturer": "LittleAdventures",
+    "description": "Cute and practical backpack for toddlers, perfect for daycare or short trips.",
+    "price": "18.00",
+    "size": "One size"
+  },
+  {
+    "title": "Kids' Puffer Vest",
+    "manufacturer": "WinterFun",
+    "description": "Stylish puffer vest for kids, providing extra warmth in cold weather.",
+    "price": "28.00",
+    "size": "3T, 4T, 5T, 6T, 7T"
+  },
+  {
+    "title": "Girls' Tulle Skirt",
+    "manufacturer": "FairyTaleFashion",
+    "description": "Beautiful tulle skirt for girls, perfect for parties and dress-up occasions.",
+    "price": "22.00",
+    "size": "2T, 3T, 4T, 5T"
+  },
+  {
+    "title": "Boys' Polo Shirt",
+    "manufacturer": "CasualChic",
+    "description": "Smart casual polo shirt for boys, versatile for various occasions.",
+    "price": "16.00",
+    "size": "2T, 3T, 4T, 5T, 6T"
+  }
+]

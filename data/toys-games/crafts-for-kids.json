@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Rainbow Loom Kit",
+    "manufacturer": "CraftyKids",
+    "description": "A colorful loom kit for creating bracelets, necklaces, and more.",
+    "price": "$14.99",
+    "minimum_age": 6
+  },
+  {
+    "title": "Mini Pottery Wheel",
+    "manufacturer": "ClayTime",
+    "description": "A child-friendly pottery wheel set with clay, tools, and paints.",
+    "price": "$29.99",
+    "minimum_age": 8
+  },
+  {
+    "title": "Magic Sand Sculptures",
+    "manufacturer": "SandyFun",
+    "description": "Kinetic sand set for creating and molding magical sand sculptures.",
+    "price": "$18.00",
+    "minimum_age": 5
+  },
+  {
+    "title": "Junior Sewing Kit",
+    "manufacturer": "StitchArt",
+    "description": "A beginner's sewing kit with safe needles, colorful threads, and easy patterns.",
+    "price": "$17.50",
+    "minimum_age": 7
+  },
+  {
+    "title": "Origami Paper Craft",
+    "manufacturer": "FoldIt",
+    "description": "An origami set with assorted papers and step-by-step folding guides.",
+    "price": "$12.00",
+    "minimum_age": 6
+  },
+  {
+    "title": "DIY Jewelry Maker",
+    "manufacturer": "BeadBazaar",
+    "description": "A jewelry-making kit with beads, strings, and clasps for creating custom pieces.",
+    "price": "$15.99",
+    "minimum_age": 7
+  },
+  {
+    "title": "Paint Your Own Figurines",
+    "manufacturer": "ColorCraft",
+    "description": "A set of blank figurines with paints and brushes for custom decoration.",
+    "price": "$19.99",
+    "minimum_age": 6
+  },
+  {
+    "title": "Magnetic Tile Art",
+    "manufacturer": "MagnaCreate",
+    "description": "A set of magnetic tiles for painting and creating fridge art.",
+    "price": "$14.00",
+    "minimum_age": 5
+  },
+  {
+    "title": "Build-a-Bot Workshop",
+    "manufacturer": "RoboFun",
+    "description": "A kit for constructing simple robots with moving parts and decorations.",
+    "price": "$24.99",
+    "minimum_age": 8
+  },
+  {
+    "title": "Eco-Friendly Craft Kit",
+    "manufacturer": "GreenArts",
+    "description": "An environmentally friendly craft kit with recycled materials for creative projects.",
+    "price": "$16.50",
+    "minimum_age": 6
+  },
+  {
+    "title": "My First Collage Kit",
+    "manufacturer": "GlueItAll",
+    "description": "A collage kit with assorted papers, fabrics, and glue for early learners.",
+    "price": "$13.99",
+    "minimum_age": 4
+  },
+  {
+    "title": "Finger Painting Fun",
+    "manufacturer": "MessyArt",
+    "description": "A finger painting set with non-toxic washable paints and large paper sheets.",
+    "price": "$11.00",
+    "minimum_age": 3
+  },
+  {
+    "title": "Dinosaur Clay Models",
+    "manufacturer": "PrehistoricDesigns",
+    "description": "A clay modeling kit with tools and guides for making dinosaur figures.",
+    "price": "$18.99",
+    "minimum_age": 7
+  },
+  {
+    "title": "Wooden Model Building",
+    "manufacturer": "TimberCraft",
+    "description": "A woodworking kit for kids to build and paint simple wooden models.",
+    "price": "$21.50",
+    "minimum_age": 8
+  },
+  {
+    "title": "Butterfly Garden Art",
+    "manufacturer": "NatureCrafts",
+    "description": "A craft kit to create colorful butterfly decorations using various materials.",
+    "price": "$15.00",
+    "minimum_age": 6
+  },
+  {
+    "title": "DIY Mask Making Kit",
+    "manufacturer": "MaskMakers",
+    "description": "A creative kit for designing and decorating wearable paper masks.",
+    "price": "$17.99",
+    "minimum_age": 5
+  },
+  {
+    "title": "Sparkle Slime Lab",
+    "manufacturer": "GooGlam",
+    "description": "A slime-making set with glitter, beads, and safe chemical components.",
+    "price": "$20.00",
+    "minimum_age": 6
+  },
+  {
+    "title": "Felt Friends Kit",
+    "manufacturer": "CozyCraft",
+    "description": "A sewing kit to make cute felt animals with pre-cut shapes and accessories.",
+    "price": "$16.00",
+    "minimum_age": 7
+  },
+  {
+    "title": "Little Architect Set",
+    "manufacturer": "BuildBuddies",
+    "description": "A building set for creating miniature cardboard houses and structures.",
+    "price": "$22.99",
+    "minimum_age": 8
+  },
+  {
+    "title": "Fantasy Dress-Up Trunk",
+    "manufacturer": "ImagineWardrobe",
+    "description": "A trunk filled with materials and accessories for creating fantasy costumes.",
+    "price": "$30.00",
+    "minimum_age": 5
+  }
+]

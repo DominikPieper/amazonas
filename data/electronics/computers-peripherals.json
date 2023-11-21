@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Streamline Pro Laptop",
+    "manufacturer": "TechAdvance",
+    "description": "Ultra-slim laptop with a 15-inch 4K display, 16GB RAM, and a high-speed SSD.",
+    "price": "1200.00"
+  },
+  {
+    "title": "Orion Desktop Tower",
+    "manufacturer": "OrionTech",
+    "description": "High-performance gaming desktop with RGB lighting, liquid cooling, and powerful graphics.",
+    "price": "2000.00"
+  },
+  {
+    "title": "Glide Wireless Mouse",
+    "manufacturer": "SmoothClick",
+    "description": "Ergonomic wireless mouse with customizable buttons and long battery life.",
+    "price": "49.99"
+  },
+  {
+    "title": "Pioneer Mechanical Keyboard",
+    "manufacturer": "KeyCraft",
+    "description": "Mechanical keyboard with tactile switches, LED backlighting, and programmable keys.",
+    "price": "129.99"
+  },
+  {
+    "title": "VividMax 27-inch Monitor",
+    "manufacturer": "VividDisplays",
+    "description": "27-inch QHD monitor with a 144Hz refresh rate and adaptive sync technology.",
+    "price": "350.00"
+  },
+  {
+    "title": "Cyberblade Gaming Headset",
+    "manufacturer": "SoundSphere",
+    "description": "Immersive gaming headset with 7.1 surround sound and noise-canceling microphone.",
+    "price": "99.00"
+  },
+  {
+    "title": "Infinity USB Hub",
+    "manufacturer": "ConnectPro",
+    "description": "7-port USB hub with fast data transfer speeds and compact design.",
+    "price": "34.99"
+  },
+  {
+    "title": "Zenith External Hard Drive",
+    "manufacturer": "DataVault",
+    "description": "2TB external hard drive with high-speed USB-C connectivity and secure encryption.",
+    "price": "150.00"
+  },
+  {
+    "title": "Omni Webcam",
+    "manufacturer": "ClearView",
+    "description": "1080p HD webcam with autofocus, built-in microphone, and low-light enhancement.",
+    "price": "70.00"
+  },
+  {
+    "title": "SonicPrint 3D Printer",
+    "manufacturer": "MakerTech",
+    "description": "High-resolution 3D printer with a large build volume and intuitive interface.",
+    "price": "500.00"
+  },
+  {
+    "title": "Quantum Wireless Charger",
+    "manufacturer": "ChargeSphere",
+    "description": "Fast wireless charger compatible with multiple devices and featuring a sleek design.",
+    "price": "39.99"
+  },
+  {
+    "title": "SkyLink Wi-Fi Router",
+    "manufacturer": "NetPulse",
+    "description": "Advanced Wi-Fi router with dual-band connectivity and easy setup for optimal home network.",
+    "price": "120.00"
+  },
+  {
+    "title": "Atlas Graphics Card",
+    "manufacturer": "PixelForge",
+    "description": "High-end graphics card with ray tracing capabilities and VR readiness.",
+    "price": "800.00"
+  },
+  {
+    "title": "Nano Drone",
+    "manufacturer": "SkyTech",
+    "description": "Compact and lightweight drone with HD camera and easy-to-use controls.",
+    "price": "299.99"
+  },
+  {
+    "title": "LaserJet Pro Printer",
+    "manufacturer": "PrintMaster",
+    "description": "Efficient laser printer suitable for high-volume printing with wireless connectivity.",
+    "price": "230.00"
+  },
+  {
+    "title": "Flexi Tablet Stand",
+    "manufacturer": "StandEasy",
+    "description": "Adjustable tablet stand with a sturdy design and compatibility with various tablet sizes.",
+    "price": "25.00"
+  },
+  {
+    "title": "Thunderbolt Docking Station",
+    "manufacturer": "LinkMax",
+    "description": "High-speed docking station with multiple ports including Thunderbolt, USB-C, and HDMI.",
+    "price": "199.99"
+  },
+  {
+    "title": "Virtual Reality Headset",
+    "manufacturer": "DreamScape",
+    "description": "Immersive VR headset with high-resolution display and motion tracking.",
+    "price": "400.00"
+  },
+  {
+    "title": "RapidScan Document Scanner",
+    "manufacturer": "DocuTech",
+    "description": "High-speed document scanner with automatic document feeder and cloud connectivity.",
+    "price": "350.00"
+  },
+  {
+    "title": "Harmony Speaker System",
+    "manufacturer": "SoundWave",
+    "description": "High-fidelity speaker system with Bluetooth connectivity and room-filling sound.",
+    "price": "220.00"
+  }
+]

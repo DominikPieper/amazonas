@@ -1,0 +1,142 @@
+[
+  {
+    "title": "AquaFresh 5000 Blender",
+    "manufacturer": "KitchenPro",
+    "description": "High-speed blender with 10-speed settings and a 3-horsepower motor, perfect for smoothies and soups.",
+    "price": "129.99",
+    "dimensions": "12x9x17 inches"
+  },
+  {
+    "title": "QuickBake Convection Oven",
+    "manufacturer": "HomeChef",
+    "description": "Energy-efficient convection oven with a spacious interior and digital control panel.",
+    "price": "249.00",
+    "dimensions": "22x18x15 inches"
+  },
+  {
+    "title": "GrindMaster Coffee Grinder",
+    "manufacturer": "BrewElite",
+    "description": "Electric coffee grinder with adjustable settings for various grind sizes.",
+    "price": "35.50",
+    "dimensions": "6x6x11 inches"
+  },
+  {
+    "title": "UltraSteam Steamer",
+    "manufacturer": "FreshCook",
+    "description": "Three-tier food steamer with a digital timer for healthy cooking.",
+    "price": "75.00",
+    "dimensions": "14x9x10 inches"
+  },
+  {
+    "title": "EasyToast 4-Slice Toaster",
+    "manufacturer": "MorningBrew",
+    "description": "Stainless steel toaster with wide slots, suitable for bread and bagels.",
+    "price": "49.99",
+    "dimensions": "10x8x7 inches"
+  },
+  {
+    "title": "ProMix Hand Mixer",
+    "manufacturer": "BakeMaster",
+    "description": "Lightweight hand mixer with five-speed settings and easy-to-clean attachments.",
+    "price": "29.99",
+    "dimensions": "8x4x6 inches"
+  },
+  {
+    "title": "SmartCook Induction Cooktop",
+    "manufacturer": "TechKitchen",
+    "description": "Portable induction cooktop with precise temperature control and a sleek design.",
+    "price": "99.00",
+    "dimensions": "15x14x2.5 inches"
+  },
+  {
+    "title": "FreshFridge Compact Refrigerator",
+    "manufacturer": "CoolLiving",
+    "description": "Energy-efficient compact refrigerator with a separate freezer compartment.",
+    "price": "200.00",
+    "dimensions": "20x20x33 inches"
+  },
+  {
+    "title": "HeatWave Microwave Oven",
+    "manufacturer": "QuickMeal",
+    "description": "Compact microwave with pre-set cooking functions and a child safety lock.",
+    "price": "80.00",
+    "dimensions": "18x14x12 inches"
+  },
+  {
+    "title": "SlicePro Electric Knife",
+    "manufacturer": "CutAbove",
+    "description": "Ergonomic electric knife perfect for slicing bread, meats, and vegetables.",
+    "price": "40.00",
+    "dimensions": "12x3x2 inches"
+  },
+  {
+    "title": "CoolBreeze Air Fryer",
+    "manufacturer": "HealthCook",
+    "description": "Digital air fryer with adjustable temperatures for guilt-free frying.",
+    "price": "99.95",
+    "dimensions": "11x13x14 inches"
+  },
+  {
+    "title": "SousVide Precision Cooker",
+    "manufacturer": "CulinaryTech",
+    "description": "Immersion circulator for precise sous vide cooking, with Bluetooth connectivity.",
+    "price": "120.00",
+    "dimensions": "15x3x3 inches"
+  },
+  {
+    "title": "PureJuice Juicer",
+    "manufacturer": "NatureDrink",
+    "description": "Powerful juicer with easy-to-clean parts, ideal for fruits and vegetables.",
+    "price": "60.00",
+    "dimensions": "10x9x16 inches"
+  },
+  {
+    "title": "MultiCook Digital Rice Cooker",
+    "manufacturer": "RiceGenius",
+    "description": "Versatile rice cooker with multiple settings for white rice, brown rice, and more.",
+    "price": "55.00",
+    "dimensions": "11x11x9 inches"
+  },
+  {
+    "title": "ToastWave 3-in-1 Oven",
+    "manufacturer": "VersaCook",
+    "description": "Combination unit featuring a toaster oven, microwave, and air fryer.",
+    "price": "150.00",
+    "dimensions": "21x17x12 inches"
+  },
+  {
+    "title": "Gourmet Slow Cooker",
+    "manufacturer": "ComfortCuisine",
+    "description": "Large capacity slow cooker with programmable settings for easy meal prep.",
+    "price": "70.00",
+    "dimensions": "16x11x10 inches"
+  },
+  {
+    "title": "PowerBlend 800 Blender",
+    "manufacturer": "SmoothiePro",
+    "description": "Professional-grade blender with powerful motor and durable blades.",
+    "price": "180.00",
+    "dimensions": "13x10x18 inches"
+  },
+  {
+    "title": "EcoKettle Electric Kettle",
+    "manufacturer": "HotBrew",
+    "description": "Fast-boiling electric kettle with auto shut-off and boil-dry protection.",
+    "price": "25.00",
+    "dimensions": "8x6x10 inches"
+  },
+  {
+    "title": "UltimateChef Food Processor",
+    "manufacturer": "KitchenWizard",
+    "description": "Multi-functional food processor with various blades and a large capacity bowl.",
+    "price": "130.00",
+    "dimensions": "14x11x15 inches"
+  },
+  {
+    "title": "Compact Dishwasher",
+    "manufacturer": "CleanDine",
+    "description": "Space-saving dishwasher with multiple wash cycles and easy-to-use controls.",
+    "price": "300.00",
+    "dimensions": "24x24x34 inches"
+  }
+]

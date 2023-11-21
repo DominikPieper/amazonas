@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Echoes of the Valley",
+    "manufacturer": "Melody Grove",
+    "description": "A soulful collection of folk tunes.",
+    "price": "$12.99",
+    "genre": "Folk"
+  },
+  {
+    "title": "Urban Pulse",
+    "manufacturer": "City Beat Records",
+    "description": "Cutting-edge tracks from the heart of the city.",
+    "price": "$14.99",
+    "genre": "Hip-Hop"
+  },
+  {
+    "title": "Retro Waves",
+    "manufacturer": "SynthPop Sounds",
+    "description": "Reviving the 80s synth-pop era with a modern twist.",
+    "price": "$15.50",
+    "genre": "Synth-Pop"
+  },
+  {
+    "title": "Jazz Nights",
+    "manufacturer": "Blue Note Harmonies",
+    "description": "Smooth and classic jazz tracks for evening relaxation.",
+    "price": "$17.99",
+    "genre": "Jazz"
+  },
+  {
+    "title": "Rock Revolution",
+    "manufacturer": "Guitar Heroes",
+    "description": "High-energy rock anthems for the new age.",
+    "price": "$16.00",
+    "genre": "Rock"
+  },
+  {
+    "title": "Country Roads",
+    "manufacturer": "Heartland Tunes",
+    "description": "Songs that take you back to the country's heart.",
+    "price": "$13.99",
+    "genre": "Country"
+  },
+  {
+    "title": "Electronic Dreams",
+    "manufacturer": "Beatwave Studios",
+    "description": "A journey through ambient and electronic soundscapes.",
+    "price": "$18.99",
+    "genre": "Electronic"
+  },
+  {
+    "title": "Reggae Rhythms",
+    "manufacturer": "Island Vibes",
+    "description": "Feel the island breeze with these reggae beats.",
+    "price": "$15.00",
+    "genre": "Reggae"
+  },
+  {
+    "title": "Classical Elegance",
+    "manufacturer": "Orchestra Masterpieces",
+    "description": "A selection of timeless classical music.",
+    "price": "$19.50",
+    "genre": "Classical"
+  },
+  {
+    "title": "Latin Fiesta",
+    "manufacturer": "Caliente Beats",
+    "description": "Upbeat and vibrant Latin music collection.",
+    "price": "$14.95",
+    "genre": "Latin"
+  },
+  {
+    "title": "Blues Soul",
+    "manufacturer": "Deep Blues",
+    "description": "Deep and soulful blues from legendary artists.",
+    "price": "$16.99",
+    "genre": "Blues"
+  },
+  {
+    "title": "Pop Sensations",
+    "manufacturer": "Top Charts Productions",
+    "description": "Hit pop songs that topped the charts worldwide.",
+    "price": "$17.50",
+    "genre": "Pop"
+  },
+  {
+    "title": "Metal Fury",
+    "manufacturer": "Iron Chords",
+    "description": "Heavy metal tracks with fierce guitar solos.",
+    "price": "$18.00",
+    "genre": "Metal"
+  },
+  {
+    "title": "Indie Echoes",
+    "manufacturer": "Alternative Sounds",
+    "description": "Unique and thoughtful indie tracks.",
+    "price": "$14.50",
+    "genre": "Indie"
+  },
+  {
+    "title": "Spiritual Melodies",
+    "manufacturer": "Soul Harmony",
+    "description": "Uplifting spiritual and gospel music.",
+    "price": "$15.99",
+    "genre": "Gospel"
+  },
+  {
+    "title": "World Music Journey",
+    "manufacturer": "Global Tunes",
+    "description": "A collection of music from around the world.",
+    "price": "$20.00",
+    "genre": "World"
+  },
+  {
+    "title": "R&B Hits",
+    "manufacturer": "Smooth Groove Records",
+    "description": "Rhythm and blues tracks with a contemporary twist.",
+    "price": "$16.50",
+    "genre": "R&B"
+  },
+  {
+    "title": "Dance Floor Anthems",
+    "manufacturer": "Club Beats",
+    "description": "The ultimate dance music compilation.",
+    "price": "$17.75",
+    "genre": "Dance"
+  },
+  {
+    "title": "Acoustic Serenity",
+    "manufacturer": "Natural Soundscapes",
+    "description": "Beautiful acoustic melodies for relaxation.",
+    "price": "$14.00",
+    "genre": "Acoustic"
+  },
+  {
+    "title": "Opera Classics",
+    "manufacturer": "Grand Opera",
+    "description": "A collection of the most renowned opera pieces.",
+    "price": "$22.00",
+    "genre": "Opera"
+  }
+]

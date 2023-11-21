@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Elegant Garden Fountain",
+    "manufacturer": "AquaArt",
+    "description": "A beautifully designed garden fountain that adds a touch of elegance to any outdoor space.",
+    "price": "$350.00"
+  },
+  {
+    "title": "Solar-Powered LED Pathway Lights",
+    "manufacturer": "LuminaPath",
+    "description": "Eco-friendly, solar-powered LED lights to illuminate garden pathways.",
+    "price": "$45.99"
+  },
+  {
+    "title": "Rustic Birdhouse",
+    "manufacturer": "NatureNest",
+    "description": "Handcrafted wooden birdhouse with a rustic charm, perfect for attracting birds.",
+    "price": "$29.99"
+  },
+  {
+    "title": "Garden Gnome Collection",
+    "manufacturer": "GnomeWorld",
+    "description": "A whimsical collection of colorful garden gnomes to brighten up your lawn.",
+    "price": "$60.00"
+  },
+  {
+    "title": "Butterfly Garden Stakes",
+    "manufacturer": "FlutterDecor",
+    "description": "Vibrant and colorful butterfly stakes to add a playful touch to flower beds.",
+    "price": "$19.99"
+  },
+  {
+    "title": "Zen Garden Sculpture",
+    "manufacturer": "PeacefulGarden",
+    "description": "A calming Zen garden sculpture to create a serene outdoor retreat.",
+    "price": "$120.00"
+  },
+  {
+    "title": "Hanging Solar Lanterns",
+    "manufacturer": "SkyGlow",
+    "description": "Elegant solar lanterns that provide a warm glow for evening garden ambiance.",
+    "price": "$49.99"
+  },
+  {
+    "title": "Weatherproof Outdoor Rug",
+    "manufacturer": "PatioComfort",
+    "description": "Durable and stylish outdoor rug, designed to withstand the elements.",
+    "price": "$75.00"
+  },
+  {
+    "title": "Decorative Wind Chimes",
+    "manufacturer": "MelodyBreeze",
+    "description": "Charming wind chimes with a soothing melody for a relaxing garden atmosphere.",
+    "price": "$35.00"
+  },
+  {
+    "title": "Wrought Iron Garden Bench",
+    "manufacturer": "ClassicSitting",
+    "description": "Elegant wrought iron bench, perfect for adding a classic touch to your garden.",
+    "price": "$200.00"
+  },
+  {
+    "title": "Ceramic Planters Set",
+    "manufacturer": "GreenThumb",
+    "description": "A set of beautifully designed ceramic planters for indoor or outdoor plants.",
+    "price": "$80.00"
+  },
+  {
+    "title": "Cast Stone Garden Statues",
+    "manufacturer": "StoneArt",
+    "description": "Exquisite cast stone statues to add grandeur to any lawn or garden.",
+    "price": "$150.00"
+  },
+  {
+    "title": "Hummingbird Feeder",
+    "manufacturer": "NectarPoint",
+    "description": "Attract hummingbirds with this elegant glass nectar feeder.",
+    "price": "$22.99"
+  },
+  {
+    "title": "LED Fairy Garden Lights",
+    "manufacturer": "EnchantedLights",
+    "description": "Magical LED fairy lights to create an enchanting garden atmosphere at night.",
+    "price": "$30.00"
+  },
+  {
+    "title": "Metal Garden Arch",
+    "manufacturer": "ArborElegance",
+    "description": "A stunning metal arch to provide a grand entrance to your garden.",
+    "price": "$250.00"
+  },
+  {
+    "title": "Rock Garden Fountain",
+    "manufacturer": "StreamStone",
+    "description": "A natural-looking rock fountain, adding a peaceful water feature to your garden.",
+    "price": "$300.00"
+  },
+  {
+    "title": "Outdoor Fire Pit",
+    "manufacturer": "WarmNights",
+    "description": "A stylish outdoor fire pit for cozy evenings under the stars.",
+    "price": "$199.99"
+  },
+  {
+    "title": "Garden Trellis",
+    "manufacturer": "ClimbingBeauty",
+    "description": "A decorative garden trellis to support climbing plants and add vertical interest.",
+    "price": "$55.00"
+  },
+  {
+    "title": "Mosaic Bird Bath",
+    "manufacturer": "SplashArt",
+    "description": "Handcrafted mosaic bird bath, a beautiful and functional garden piece.",
+    "price": "$89.99"
+  },
+  {
+    "title": "Victorian Style Solar Lamp Post",
+    "manufacturer": "OldWorldLight",
+    "description": "A Victorian-style solar lamp post to add a vintage look to your garden.",
+    "price": "$120.00"
+  }
+]

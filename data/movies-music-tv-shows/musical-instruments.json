@@ -1,0 +1,142 @@
+[
+  {
+    "title": "StratoBlaster Electric Guitar",
+    "manufacturer": "RockCraft",
+    "description": "A sleek electric guitar with innovative sound technology, perfect for rock enthusiasts.",
+    "price": "$499.99",
+    "genre": "Rock"
+  },
+  {
+    "title": "HarmonyFlute",
+    "manufacturer": "Melody Makers",
+    "description": "A silver-plated flute offering exceptional tonal quality for classical music lovers.",
+    "price": "$349.99",
+    "genre": "Classical"
+  },
+  {
+    "title": "JazzMaster Saxophone",
+    "manufacturer": "BrassBeat",
+    "description": "A professional alto saxophone designed for the smooth jazz musician.",
+    "price": "$799.99",
+    "genre": "Jazz"
+  },
+  {
+    "title": "Bluegrass Banjo",
+    "manufacturer": "Country Strings",
+    "description": "A 5-string banjo with a resonant sound, ideal for bluegrass and folk music.",
+    "price": "$250.00",
+    "genre": "Country"
+  },
+  {
+    "title": "ThunderBass",
+    "manufacturer": "BassPro",
+    "description": "A four-string electric bass guitar with a deep, powerful sound for bassists in any genre.",
+    "price": "$450.00",
+    "genre": "All Genres"
+  },
+  {
+    "title": "Reggae Drums",
+    "manufacturer": "Rhythm Roots",
+    "description": "A set of hand drums designed specifically for reggae and Caribbean rhythms.",
+    "price": "$299.99",
+    "genre": "Reggae"
+  },
+  {
+    "title": "PopStar Keyboard",
+    "manufacturer": "KeyTunes",
+    "description": "A versatile electronic keyboard with auto-accompaniment, great for pop music creation.",
+    "price": "$399.99",
+    "genre": "Pop"
+  },
+  {
+    "title": "Folklore Acoustic Guitar",
+    "manufacturer": "StringCraft",
+    "description": "A handcrafted acoustic guitar with a rich, warm sound, suitable for folk music.",
+    "price": "$550.00",
+    "genre": "Folk"
+  },
+  {
+    "title": "Electric Violin Vibe",
+    "manufacturer": "SymphonyTech",
+    "description": "A modern electric violin blending classical design with electronic innovation.",
+    "price": "$700.00",
+    "genre": "Electronic"
+  },
+  {
+    "title": "SoulPiano Upright",
+    "manufacturer": "Piano Masters",
+    "description": "An elegant upright piano with a soulful sound, perfect for jazz and blues.",
+    "price": "$1,200.00",
+    "genre": "Blues"
+  },
+  {
+    "title": "BeatMaker DJ Set",
+    "manufacturer": "ClubTech",
+    "description": "A high-tech DJ set for creating and mixing beats in electronic and dance music.",
+    "price": "$999.99",
+    "genre": "Electronic Dance Music"
+  },
+  {
+    "title": "Classic Cello",
+    "manufacturer": "Orchestra Strings",
+    "description": "A beautifully crafted cello with a deep, resonant sound for classical music.",
+    "price": "$899.99",
+    "genre": "Classical"
+  },
+  {
+    "title": "RapMaster Mic",
+    "manufacturer": "Urban Sound",
+    "description": "A studio-quality microphone designed for rap and hip-hop artists.",
+    "price": "$199.99",
+    "genre": "Hip-Hop"
+  },
+  {
+    "title": "EthnoWorld Percussion",
+    "manufacturer": "Global Beats",
+    "description": "A collection of ethnic percussion instruments from around the world.",
+    "price": "$349.99",
+    "genre": "World Music"
+  },
+  {
+    "title": "Bollywood Sitar",
+    "manufacturer": "RagaStrings",
+    "description": "A traditional sitar with a modern twist, ideal for Indian classical and Bollywood music.",
+    "price": "$650.00",
+    "genre": "Indian"
+  },
+  {
+    "title": "Mandolin Melodies",
+    "manufacturer": "FolkStrings",
+    "description": "A high-quality mandolin that brings life to folk and bluegrass music.",
+    "price": "$400.00",
+    "genre": "Bluegrass"
+  },
+  {
+    "title": "Digital Drums Pro",
+    "manufacturer": "BeatFactory",
+    "description": "An electronic drum kit with customizable sounds for all music genres.",
+    "price": "$800.00",
+    "genre": "All Genres"
+  },
+  {
+    "title": "Latin Groove Congas",
+    "manufacturer": "RhythmLatino",
+    "description": "High-quality conga drums for salsa, merengue, and other Latin music styles.",
+    "price": "$299.99",
+    "genre": "Latin"
+  },
+  {
+    "title": "Blues Harmonica Set",
+    "manufacturer": "Harmonix",
+    "description": "A set of harmonicas tuned specifically for blues music.",
+    "price": "$150.00",
+    "genre": "Blues"
+  },
+  {
+    "title": "Gypsy Jazz Guitar",
+    "manufacturer": "JazzCraft",
+    "description": "A specially designed guitar that resonates with the spirit of gypsy jazz.",
+    "price": "$550.00",
+    "genre": "Jazz"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Striker Pro Soccer Ball",
+    "manufacturer": "GoalMaster",
+    "description": "High-performance soccer ball with superior flight and durability for professional play.",
+    "price": "$35.00",
+    "material": "Synthetic Leather",
+    "weight": "1 lb"
+  },
+  {
+    "title": "AceServe Volleyball",
+    "manufacturer": "BeachBump",
+    "description": "Soft-touch volleyball designed for both indoor and beach play, offering great control and feel.",
+    "price": "$20.00",
+    "material": "Composite Leather",
+    "weight": "0.7 lbs"
+  },
+  {
+    "title": "Ultimate Grip Football",
+    "manufacturer": "Touchdown Tech",
+    "description": "Advanced football with a grip-enhancing surface, ideal for quarterbacks and receivers.",
+    "price": "$45.00",
+    "material": "Grippy Rubber",
+    "weight": "1.5 lbs"
+  },
+  {
+    "title": "DiamondStrike Baseball Bat",
+    "manufacturer": "Homerun Heroes",
+    "description": "Aluminum baseball bat with a balanced weight distribution for maximum power and precision.",
+    "price": "$80.00",
+    "material": "Aluminum",
+    "weight": "3 lbs"
+  },
+  {
+    "title": "Slam Dunk Basketball Hoop",
+    "manufacturer": "Court Kings",
+    "description": "Durable and adjustable basketball hoop system, perfect for home or school courts.",
+    "price": "$150.00",
+    "material": "Steel, Polycarbonate",
+    "weight": "50 lbs"
+  },
+  {
+    "title": "Speedster Hockey Stick",
+    "manufacturer": "IceEdge",
+    "description": "Lightweight and strong hockey stick for precision puck control and powerful shots.",
+    "price": "$70.00",
+    "material": "Carbon Fiber",
+    "weight": "1.2 lbs"
+  },
+  {
+    "title": "Champion Rugby Ball",
+    "manufacturer": "RugbyRush",
+    "description": "High-quality rugby ball with enhanced grip and balanced aerodynamics for competitive play.",
+    "price": "$30.00",
+    "material": "Rubber",
+    "weight": "1 lb"
+  },
+  {
+    "title": "NetMaster Badminton Set",
+    "manufacturer": "ShuttlePro",
+    "description": "Complete badminton set with durable rackets and shuttlecocks, ideal for team play and training.",
+    "price": "$60.00",
+    "material": "Aluminum, Nylon",
+    "weight": "4 lbs (set)"
+  },
+  {
+    "title": "ProGoal Lacrosse Stick",
+    "manufacturer": "LaxLeaders",
+    "description": "Expertly crafted lacrosse stick for enhanced ball control and shot accuracy.",
+    "price": "$90.00",
+    "material": "Alloy, Mesh",
+    "weight": "1.5 lbs"
+  },
+  {
+    "title": "FieldMaster Cricket Bat",
+    "manufacturer": "CricketCraft",
+    "description": "Premium quality cricket bat made from willow, designed for power and balance.",
+    "price": "$100.00",
+    "material": "English Willow",
+    "weight": "2.8 lbs"
+  }
+]

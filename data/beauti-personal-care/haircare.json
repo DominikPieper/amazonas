@@ -1,0 +1,142 @@
+[
+  {
+    "title": "SilkShine Shampoo",
+    "manufacturer": "LustrousLocks",
+    "description": "A nourishing shampoo for silky, shiny hair.",
+    "price": 15.99,
+    "ingredients": "Argan oil, Keratin, Vitamin B5"
+  },
+  {
+    "title": "HydraBoost Conditioner",
+    "manufacturer": "AquaEssence",
+    "description": "A hydrating conditioner to soften and detangle hair.",
+    "price": 16.5,
+    "ingredients": "Shea butter, Coconut oil, Aloe vera"
+  },
+  {
+    "title": "VolumePlus Hair Mousse",
+    "manufacturer": "ElevateStyle",
+    "description": "A lightweight mousse for added volume and hold.",
+    "price": 12.99,
+    "ingredients": "Panthenol, Wheat protein, Sunflower extract"
+  },
+  {
+    "title": "CurlDefine Styling Gel",
+    "manufacturer": "SpiralBeauty",
+    "description": "A defining gel to enhance and hold natural curls.",
+    "price": 14.0,
+    "ingredients": "Flaxseed extract, Glycerin, Castor oil"
+  },
+  {
+    "title": "RepairTherapy Hair Mask",
+    "manufacturer": "ReviveRoots",
+    "description": "An intensive treatment mask to repair and strengthen hair.",
+    "price": 18.0,
+    "ingredients": "Avocado oil, Honey, Biotin"
+  },
+  {
+    "title": "ColorGuard Shampoo",
+    "manufacturer": "HueHold",
+    "description": "A protective shampoo for color-treated hair.",
+    "price": 17.0,
+    "ingredients": "Quinoa extract, Sunflower seed extract, Vitamin E"
+  },
+  {
+    "title": "SmoothSilk Hair Serum",
+    "manufacturer": "GlossGlam",
+    "description": "A smoothing serum for frizz-free, glossy hair.",
+    "price": 20.0,
+    "ingredients": "Silicone, Jojoba oil, Vitamin C"
+  },
+  {
+    "title": "DandruffAway Scalp Treatment",
+    "manufacturer": "ClearScalp",
+    "description": "A soothing scalp treatment to reduce dandruff and itchiness.",
+    "price": 15.0,
+    "ingredients": "Tea tree oil, Salicylic acid, Peppermint oil"
+  },
+  {
+    "title": "StrongRoots Hair Oil",
+    "manufacturer": "RootRevive",
+    "description": "A nourishing hair oil to strengthen roots and stimulate growth.",
+    "price": 22.0,
+    "ingredients": "Castor oil, Rosemary oil, Vitamin E"
+  },
+  {
+    "title": "HeatShield Styling Spray",
+    "manufacturer": "StyleSafe",
+    "description": "A heat protectant spray to shield hair from styling damage.",
+    "price": 13.0,
+    "ingredients": "Silk protein, Argan oil, Keratin"
+  },
+  {
+    "title": "BalancedBliss Dry Shampoo",
+    "manufacturer": "FreshFusion",
+    "description": "A refreshing dry shampoo for clean, volumized hair.",
+    "price": 12.5,
+    "ingredients": "Rice starch, Lavender oil, Chamomile extract"
+  },
+  {
+    "title": "NaturalWave Sea Salt Spray",
+    "manufacturer": "BeachBloom",
+    "description": "A sea salt spray for creating natural, beachy waves.",
+    "price": 15.0,
+    "ingredients": "Sea salt, Algae extract, Coconut water"
+  },
+  {
+    "title": "FrizzControl Leave-In Conditioner",
+    "manufacturer": "SmoothSerenity",
+    "description": "A leave-in conditioner to tame frizz and add moisture.",
+    "price": 16.0,
+    "ingredients": "Shea butter, Argan oil, Panthenol"
+  },
+  {
+    "title": "GrowthBooster Scalp Serum",
+    "manufacturer": "FollicleFuel",
+    "description": "A stimulating serum for healthier hair growth.",
+    "price": 25.0,
+    "ingredients": "Caffeine, Biotin, Ginseng extract"
+  },
+  {
+    "title": "DeepDetox Scalp Scrub",
+    "manufacturer": "PureRoots",
+    "description": "An exfoliating scrub to cleanse and rejuvenate the scalp.",
+    "price": 18.0,
+    "ingredients": "Sea salt, Peppermint oil, Charcoal"
+  },
+  {
+    "title": "ShineBright Finishing Spray",
+    "manufacturer": "GlimmerGlow",
+    "description": "A finishing spray for extra shine and hold.",
+    "price": 14.0,
+    "ingredients": "Aloe vera, Green tea extract, Sunflower oil"
+  },
+  {
+    "title": "ClarityClarifying Shampoo",
+    "manufacturer": "PureEssence",
+    "description": "A clarifying shampoo for removing build-up and impurities.",
+    "price": 15.0,
+    "ingredients": "Apple cider vinegar, Lemon extract, Witch hazel"
+  },
+  {
+    "title": "HydraEssence Leave-In Mist",
+    "manufacturer": "MoistureMist",
+    "description": "A hydrating leave-in mist for soft, manageable hair.",
+    "price": 17.0,
+    "ingredients": "Rosewater, Honey, Glycerin"
+  },
+  {
+    "title": "VolumeLift Hair Powder",
+    "manufacturer": "ElevateEssentials",
+    "description": "A volumizing hair powder for instant lift and texture.",
+    "price": 13.5,
+    "ingredients": "Silica, Corn starch, Bamboo extract"
+  },
+  {
+    "title": "AntiBreakage Hair Ties",
+    "manufacturer": "GentleGrip",
+    "description": "Gentle hair ties to prevent breakage and damage.",
+    "price": 10.0,
+    "ingredients": "Silk fabric, Elastic, Satin"
+  }
+]

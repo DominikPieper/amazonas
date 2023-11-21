@@ -1,0 +1,162 @@
+[
+  {
+    "title": "DreamWeave Cotton Sheets",
+    "manufacturer": "SoftSlumber",
+    "description": "Ultra-soft, 100% cotton sheets with a 400 thread count for a luxurious sleep experience.",
+    "price": 89.99,
+    "material": "Cotton",
+    "dimensions": "Queen size"
+  },
+  {
+    "title": "Hypoallergenic Bamboo Pillow",
+    "manufacturer": "EcoRest",
+    "description": "A breathable, hypoallergenic bamboo pillow, perfect for those with allergies or sensitive skin.",
+    "price": 45.0,
+    "material": "Bamboo fiber",
+    "dimensions": "20 x 26 inches"
+  },
+  {
+    "title": "Heated Microfleece Blanket",
+    "manufacturer": "CozyWarm",
+    "description": "A plush microfleece blanket with adjustable heat settings for cozy, warm nights.",
+    "price": 70.0,
+    "material": "Microfleece",
+    "dimensions": "50 x 60 inches"
+  },
+  {
+    "title": "Luxury Silk Duvet Cover",
+    "manufacturer": "SilkenElegance",
+    "description": "A high-quality, 100% silk duvet cover that adds a touch of luxury to any bedroom.",
+    "price": 200.0,
+    "material": "Silk",
+    "dimensions": "King size"
+  },
+  {
+    "title": "Memory Foam Mattress Topper",
+    "manufacturer": "ComfortLayer",
+    "description": "A 3-inch memory foam topper that conforms to your body for an enhanced sleep experience.",
+    "price": 120.0,
+    "material": "Memory foam",
+    "dimensions": "Queen size"
+  },
+  {
+    "title": "Waterproof Mattress Protector",
+    "manufacturer": "GuardianSleep",
+    "description": "A waterproof, breathable mattress protector, ensuring your mattress stays dry and clean.",
+    "price": 50.0,
+    "material": "Polyester, waterproof layer",
+    "dimensions": "Queen size"
+  },
+  {
+    "title": "Organic Linen Comforter",
+    "manufacturer": "NaturalDreams",
+    "description": "A 100% organic linen comforter, lightweight and perfect for all seasons.",
+    "price": 150.0,
+    "material": "Organic linen",
+    "dimensions": "King size"
+  },
+  {
+    "title": "Thermal Insulated Curtains",
+    "manufacturer": "HomeShield",
+    "description": "Energy-saving thermal insulated curtains that block out light and reduce noise.",
+    "price": 60.0,
+    "material": "Polyester",
+    "dimensions": "52 x 84 inches"
+  },
+  {
+    "title": "Velvet Throw Pillow Set",
+    "manufacturer": "LuxeDecor",
+    "description": "A set of two plush velvet throw pillows, adding a touch of elegance to any room.",
+    "price": 40.0,
+    "material": "Velvet",
+    "dimensions": "18 x 18 inches"
+  },
+  {
+    "title": "Down Alternative Quilt",
+    "manufacturer": "AllSeasonComfort",
+    "description": "A soft, down alternative quilt, hypoallergenic and perfect for year-round use.",
+    "price": 90.0,
+    "material": "Microfiber, down alternative fill",
+    "dimensions": "Full/Queen size"
+  },
+  {
+    "title": "Decorative Bed Runner",
+    "manufacturer": "AccentHome",
+    "description": "A stylish bed runner that adds an extra layer of decor to your bedding ensemble.",
+    "price": 35.0,
+    "material": "Cotton blend",
+    "dimensions": "24 x 90 inches"
+  },
+  {
+    "title": "Egyptian Cotton Bath Towels",
+    "manufacturer": "LuxorLinen",
+    "description": "Luxuriously soft and absorbent Egyptian cotton bath towels, a spa-like experience at home.",
+    "price": 55.0,
+    "material": "Egyptian cotton",
+    "dimensions": "30 x 56 inches"
+  },
+  {
+    "title": "Children's Character Bedding Set",
+    "manufacturer": "KidsDream",
+    "description": "A fun and colorful children's bedding set with popular cartoon characters.",
+    "price": 60.0,
+    "material": "Polyester",
+    "dimensions": "Twin size"
+  },
+  {
+    "title": "Faux Fur Throw Blanket",
+    "manufacturer": "CozyLuxe",
+    "description": "A luxurious faux fur throw blanket, perfect for snuggling up on the couch.",
+    "price": 80.0,
+    "material": "Faux fur",
+    "dimensions": "50 x 65 inches"
+  },
+  {
+    "title": "Ergonomic Neck Support Pillow",
+    "manufacturer": "RestAlign",
+    "description": "An ergonomic pillow designed to provide optimal neck support and improve sleep quality.",
+    "price": 55.0,
+    "material": "Memory foam",
+    "dimensions": "24 x 16 inches"
+  },
+  {
+    "title": "Waffle Weave Bathrobe",
+    "manufacturer": "SpaComfort",
+    "description": "A lightweight waffle weave bathrobe, bringing a touch of spa luxury to your home.",
+    "price": 45.0,
+    "material": "Cotton",
+    "dimensions": "One size fits most"
+  },
+  {
+    "title": "Satin Bed Sheet Set",
+    "manufacturer": "SilkySmooth",
+    "description": "A smooth, satin bed sheet set that is gentle on the skin and hair.",
+    "price": 70.0,
+    "material": "Satin",
+    "dimensions": "Queen size"
+  },
+  {
+    "title": "Therapeutic Weighted Blanket",
+    "manufacturer": "CalmEmbrace",
+    "description": "A weighted blanket designed to provide therapeutic pressure for a calming effect.",
+    "price": 100.0,
+    "material": "Cotton, glass beads",
+    "dimensions": "60 x 80 inches"
+  },
+  {
+    "title": "Anti-Allergy Mattress Encasement",
+    "manufacturer": "SafeSleep",
+    "description": "An anti-allergy mattress encasement to protect against dust mites, allergens, and bed bugs.",
+    "price": 65.0,
+    "material": "Hypoallergenic fabric",
+    "dimensions": "Queen size"
+  },
+  {
+    "title": "Vintage Floral Bedspread",
+    "manufacturer": "RetroHome",
+    "description": "A vintage floral bedspread, adding a classic touch to your bedroom decor.",
+    "price": 85.0,
+    "material": "Cotton blend",
+    "dimensions": "Full size"
+  }
+]

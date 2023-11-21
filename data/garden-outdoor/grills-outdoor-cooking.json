@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Summit Charcoal Grill",
+    "manufacturer": "GrillMaster Pro",
+    "description": "Premium charcoal grill with adjustable heat control and a built-in thermometer.",
+    "price": "$499.99"
+  },
+  {
+    "title": "Eco-Friendly Solar Cooker",
+    "manufacturer": "SunFeast",
+    "description": "An innovative solar-powered cooker, perfect for eco-friendly outdoor cooking.",
+    "price": "$249.99"
+  },
+  {
+    "title": "Portable Propane Grill",
+    "manufacturer": "TravelChef",
+    "description": "Compact and portable propane grill, ideal for camping and tailgating.",
+    "price": "$159.99"
+  },
+  {
+    "title": "Electric Patio Grill",
+    "manufacturer": "UrbanGrill",
+    "description": "An electric grill designed for patio use, featuring non-stick grates.",
+    "price": "$199.99"
+  },
+  {
+    "title": "Wood-Fired Pizza Oven",
+    "manufacturer": "Pizzaiolo Deluxe",
+    "description": "Outdoor wood-fired pizza oven for authentic, restaurant-quality pizzas.",
+    "price": "$599.99"
+  },
+  {
+    "title": "BBQ Smoker with Bluetooth",
+    "manufacturer": "SmartSmoke",
+    "description": "Advanced BBQ smoker with Bluetooth connectivity and temperature control.",
+    "price": "$699.99"
+  },
+  {
+    "title": "Stainless Steel Gas Grill",
+    "manufacturer": "FlameKing",
+    "description": "High-performance stainless steel gas grill with multiple burners.",
+    "price": "$999.99"
+  },
+  {
+    "title": "Kettle Charcoal Grill",
+    "manufacturer": "ClassicCookout",
+    "description": "Traditional kettle-style charcoal grill, perfect for backyard BBQs.",
+    "price": "$89.99"
+  },
+  {
+    "title": "Tabletop Hibachi Grill",
+    "manufacturer": "MiniGrill",
+    "description": "Compact hibachi-style grill for tabletop cooking and entertainment.",
+    "price": "$59.99"
+  },
+  {
+    "title": "Foldable Camping Stove",
+    "manufacturer": "OutdoorAdventurer",
+    "description": "Lightweight, foldable camping stove, easy to pack and use.",
+    "price": "$29.99"
+  },
+  {
+    "title": "Rotisserie Grill Kit",
+    "manufacturer": "RoastPro",
+    "description": "A complete rotisserie grill kit for evenly roasted meats.",
+    "price": "$129.99"
+  },
+  {
+    "title": "Ceramic Kamado Grill",
+    "manufacturer": "GrillZen",
+    "description": "High-quality ceramic kamado grill for precise temperature control.",
+    "price": "$799.99"
+  },
+  {
+    "title": "Multi-Fuel Outdoor Cooker",
+    "manufacturer": "VersaCook",
+    "description": "Versatile outdoor cooker compatible with wood, charcoal, or gas.",
+    "price": "$399.99"
+  },
+  {
+    "title": "Deluxe Outdoor Kitchen Unit",
+    "manufacturer": "PatioChef",
+    "description": "A complete outdoor kitchen unit with grill, sink, and storage.",
+    "price": "$2,499.99"
+  },
+  {
+    "title": "Vertical Meat Smoker",
+    "manufacturer": "SmokeTower",
+    "description": "Vertical smoker for efficient smoking of meats and fish.",
+    "price": "$349.99"
+  },
+  {
+    "title": "Infrared Electric Grill",
+    "manufacturer": "InfraredChef",
+    "description": "An electric grill with infrared technology for even cooking.",
+    "price": "$279.99"
+  },
+  {
+    "title": "Portable Fire Pit Grill",
+    "manufacturer": "CampfirePro",
+    "description": "A portable fire pit that doubles as a grill, perfect for outdoor gatherings.",
+    "price": "$199.99"
+  },
+  {
+    "title": "Dual Zone Charcoal Grill",
+    "manufacturer": "GrillFlex",
+    "description": "Charcoal grill with dual cooking zones for different temperatures.",
+    "price": "$359.99"
+  },
+  {
+    "title": "Outdoor Fryer and Boiler",
+    "manufacturer": "BoilNFry",
+    "description": "Outdoor deep fryer and boiler, ideal for seafood and fries.",
+    "price": "$179.99"
+  },
+  {
+    "title": "Gourmet BBQ Tool Set",
+    "manufacturer": "GrillAce",
+    "description": "High-quality BBQ tool set including tongs, spatula, and brush.",
+    "price": "$49.99"
+  }
+]

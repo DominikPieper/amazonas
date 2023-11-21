@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Morning Dew Herbal Tea",
+    "manufacturer": "Serenity Blends",
+    "description": "A calming blend of chamomile and mint, perfect for relaxing evenings.",
+    "price": "$4.50 per box",
+    "dietary_preferences": "Organic, Caffeine-Free, Vegan"
+  },
+  {
+    "title": "Energize Sports Drink",
+    "manufacturer": "Athlete's Choice",
+    "description": "Electrolyte-rich sports drink for hydration and energy, with a tropical flavor.",
+    "price": "$2.00 per bottle",
+    "dietary_preferences": "Gluten-Free, Vegan"
+  },
+  {
+    "title": "Pure Peak Spring Water",
+    "manufacturer": "Mountain Fresh",
+    "description": "Crisp and refreshing spring water sourced from high-altitude springs.",
+    "price": "$1.20 per bottle",
+    "dietary_preferences": "Natural, Vegan, Gluten-Free"
+  },
+  {
+    "title": "Ginger Zing Kombucha",
+    "manufacturer": "Ferment Frenzy",
+    "description": "Probiotic-rich kombucha with a spicy ginger kick, fermented to perfection.",
+    "price": "$3.75 per bottle",
+    "dietary_preferences": "Organic, Vegan"
+  },
+  {
+    "title": "Almond Bliss Milk",
+    "manufacturer": "Nutritious Naturals",
+    "description": "Creamy and delicious almond milk, enriched with calcium and vitamins.",
+    "price": "$3.99 per carton",
+    "dietary_preferences": "Dairy-Free, Vegan, Gluten-Free"
+  },
+  {
+    "title": "Sunrise Orange Juice",
+    "manufacturer": "Citrus Burst",
+    "description": "Freshly squeezed orange juice, packed with vitamin C and no added sugars.",
+    "price": "$4.00 per bottle",
+    "dietary_preferences": "Vegan, Gluten-Free"
+  },
+  {
+    "title": "Berry Blast Smoothie Mix",
+    "manufacturer": "Smoothie Revolution",
+    "description": "A mix of freeze-dried berries to create instant smoothies, just add water or milk.",
+    "price": "$5.99 per packet",
+    "dietary_preferences": "Vegan, Gluten-Free"
+  },
+  {
+    "title": "Cool Cucumber Water",
+    "manufacturer": "HydraFusion",
+    "description": "Infused water with a hint of cucumber, perfect for a refreshing hydration.",
+    "price": "$1.99 per bottle",
+    "dietary_preferences": "Vegan, Gluten-Free, Zero Calorie"
+  },
+  {
+    "title": "Bold Brew Coffee",
+    "manufacturer": "Bean Roasters",
+    "description": "A strong, full-bodied coffee with a deep, rich flavor.",
+    "price": "$9.99 per lb",
+    "dietary_preferences": "Vegan, Gluten-Free"
+  },
+  {
+    "title": "Golden Turmeric Latte",
+    "manufacturer": "Spice Sips",
+    "description": "A warming blend of turmeric, cinnamon, and ginger in a latte mix.",
+    "price": "$6.50 per jar",
+    "dietary_preferences": "Vegan, Gluten-Free, Organic"
+  },
+  {
+    "title": "Raspberry Fizz Soda",
+    "manufacturer": "Soda Spark",
+    "description": "A bubbly raspberry flavored soda, with no artificial sweeteners.",
+    "price": "$1.50 per can",
+    "dietary_preferences": "Vegan, Gluten-Free"
+  },
+  {
+    "title": "Soothing Lemongrass Tea",
+    "manufacturer": "Tranquil Teas",
+    "description": "Herbal tea with a citrusy lemongrass flavor and calming properties.",
+    "price": "$4.99 per box",
+    "dietary_preferences": "Organic, Caffeine-Free, Vegan"
+  },
+  {
+    "title": "Cocoa Delight Hot Chocolate",
+    "manufacturer": "Choco Rich",
+    "description": "Rich and creamy hot chocolate mix with real cocoa.",
+    "price": "$4.75 per packet",
+    "dietary_preferences": "Gluten-Free, Vegan"
+  },
+  {
+    "title": "Sparkling Mineral Water",
+    "manufacturer": "Fizz Naturals",
+    "description": "Naturally carbonated mineral water with a crisp taste.",
+    "price": "$1.35 per bottle",
+    "dietary_preferences": "Vegan, Gluten-Free, Zero Calorie"
+  },
+  {
+    "title": "Green Machine Juice",
+    "manufacturer": "Veggie Power",
+    "description": "A blend of green vegetables and fruits for a nutritious juice boost.",
+    "price": "$3.50 per bottle",
+    "dietary_preferences": "Vegan, Gluten-Free, Organic"
+  },
+  {
+    "title": "Peppermint Patty Tea",
+    "manufacturer": "Minty Moments",
+    "description": "Peppermint tea with a hint of chocolate flavor, a sweet and refreshing blend.",
+    "price": "$5.25 per box",
+    "dietary_preferences": "Vegan, Gluten-Free, Organic"
+  },
+  {
+    "title": "Tropical Mango Punch",
+    "manufacturer": "Island Sips",
+    "description": "A fruit punch with the taste of ripe mangoes and tropical fruits.",
+    "price": "$2.75 per bottle",
+    "dietary_preferences": "Vegan, Gluten-Free"
+  },
+  {
+    "title": "Matcha Green Tea",
+    "manufacturer": "Zen Blends",
+    "description": "High-quality matcha green tea powder, perfect for lattes or baking.",
+    "price": "$12.00 per packet",
+    "dietary_preferences": "Vegan, Gluten-Free, Organic"
+  },
+  {
+    "title": "Vanilla Bean Frappe Mix",
+    "manufacturer": "Cool Café",
+    "description": "A creamy frappe mix with real vanilla bean specks, just blend with ice.",
+    "price": "$7.99 per bag",
+    "dietary_preferences": "Vegan, Gluten-Free"
+  },
+  {
+    "title": "Lemon-Lime Electrolyte Water",
+    "manufacturer": "Hydrate+",
+    "description": "Enhanced water with added electrolytes and a zesty lemon-lime flavor.",
+    "price": "$2.25 per bottle",
+    "dietary_preferences": "Vegan, Gluten-Free, Zero Calorie"
+  }
+]

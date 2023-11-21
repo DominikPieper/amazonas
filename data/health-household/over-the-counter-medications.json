@@ -1,0 +1,142 @@
+[
+  {
+    "title": "QuickRelief Pain Tablets",
+    "manufacturer": "HealthAid",
+    "description": "Fast-acting pain relief tablets for headaches and muscle aches.",
+    "price": "$5.99 per bottle",
+    "active_ingredient": "Acetaminophen"
+  },
+  {
+    "title": "AllerEase Antihistamine",
+    "manufacturer": "SneezeStop",
+    "description": "Non-drowsy antihistamine for relief from allergies and hay fever.",
+    "price": "$8.99 per pack",
+    "active_ingredient": "Loratadine"
+  },
+  {
+    "title": "DigestWell Herbal Capsules",
+    "manufacturer": "Natural Cure",
+    "description": "Herbal capsules that aid digestion and relieve bloating.",
+    "price": "$7.50 per bottle",
+    "active_ingredient": "Ginger Extract"
+  },
+  {
+    "title": "SleepTight Melatonin Gummies",
+    "manufacturer": "Dreamland",
+    "description": "Melatonin gummies to help regulate sleep cycles and improve sleep quality.",
+    "price": "$10.00 per jar",
+    "active_ingredient": "Melatonin"
+  },
+  {
+    "title": "ColdAway Day & Night",
+    "manufacturer": "ReliefMax",
+    "description": "Dual formula for daytime energy and nighttime rest during colds.",
+    "price": "$9.99 per pack",
+    "active_ingredient": "Dextromethorphan, Phenylephrine"
+  },
+  {
+    "title": "Ultra Sunscreen Lotion SPF 50",
+    "manufacturer": "SunGuard",
+    "description": "Broad-spectrum SPF 50 sunscreen lotion for maximum UV protection.",
+    "price": "$12.00 per tube",
+    "active_ingredient": "Avobenzone, Octocrylene"
+  },
+  {
+    "title": "FastHeal Antiseptic Cream",
+    "manufacturer": "HealQuick",
+    "description": "Antiseptic cream for minor cuts, burns, and skin irritations.",
+    "price": "$6.00 per tube",
+    "active_ingredient": "Benzalkonium Chloride"
+  },
+  {
+    "title": "JointFlex Arthritis Cream",
+    "manufacturer": "MoveEase",
+    "description": "Topical cream for temporary relief of arthritis joint pain.",
+    "price": "$15.99 per jar",
+    "active_ingredient": "Capsaicin"
+  },
+  {
+    "title": "CalmTummy Antacid Chewables",
+    "manufacturer": "StomachCare",
+    "description": "Chewable antacid tablets for fast relief from heartburn and indigestion.",
+    "price": "$4.99 per bottle",
+    "active_ingredient": "Calcium Carbonate"
+  },
+  {
+    "title": "FeverDown Children's Syrup",
+    "manufacturer": "LittleCare",
+    "description": "Gentle syrup for reducing fever and relieving pain in children.",
+    "price": "$5.99 per bottle",
+    "active_ingredient": "Ibuprofen"
+  },
+  {
+    "title": "BreatheEasy Nasal Spray",
+    "manufacturer": "NoseWell",
+    "description": "Nasal spray for immediate relief from nasal congestion.",
+    "price": "$7.99 per bottle",
+    "active_ingredient": "Oxymetazoline Hydrochloride"
+  },
+  {
+    "title": "Herbal Cough Syrup",
+    "manufacturer": "Nature's Remedy",
+    "description": "Natural cough syrup with honey and herbal extracts to soothe sore throats.",
+    "price": "$8.50 per bottle",
+    "active_ingredient": "Honey, Ivy Leaf Extract"
+  },
+  {
+    "title": "MuscleRub Cream",
+    "manufacturer": "FlexFit",
+    "description": "Topical cream for muscle aches, strains, and sprains.",
+    "price": "$10.99 per tube",
+    "active_ingredient": "Methyl Salicylate, Menthol"
+  },
+  {
+    "title": "Probiotic Daily Capsules",
+    "manufacturer": "GutBalance",
+    "description": "Daily probiotic capsules for digestive health and immune support.",
+    "price": "$16.99 per bottle",
+    "active_ingredient": "Bifidobacterium Lactis"
+  },
+  {
+    "title": "Eczema Relief Cream",
+    "manufacturer": "SkinSoothe",
+    "description": "Cream for relieving itching and irritation caused by eczema.",
+    "price": "$14.99 per tube",
+    "active_ingredient": "Hydrocortisone"
+  },
+  {
+    "title": "RapidRelief Rehydration Salts",
+    "manufacturer": "HydraHealth",
+    "description": "Electrolyte rehydration salts for quick recovery from dehydration.",
+    "price": "$3.99 per packet",
+    "active_ingredient": "Potassium Chloride, Sodium Chloride"
+  },
+  {
+    "title": "MigraineEase Tablets",
+    "manufacturer": "HeadRelief",
+    "description": "Specially formulated tablets for the relief of migraine symptoms.",
+    "price": "$11.99 per pack",
+    "active_ingredient": "Sumatriptan"
+  },
+  {
+    "title": "WartFreeze Remover",
+    "manufacturer": "SkinClear",
+    "description": "Fast-acting freeze therapy for the removal of warts.",
+    "price": "$13.99 per kit",
+    "active_ingredient": "Dimethyl Ether, Propane"
+  },
+  {
+    "title": "AcneClear Spot Treatment",
+    "manufacturer": "ClearSkin",
+    "description": "Targeted spot treatment for rapid relief from acne breakouts.",
+    "price": "$6.99 per tube",
+    "active_ingredient": "Benzoyl Peroxide"
+  },
+  {
+    "title": "Hemorrhoid Relief Ointment",
+    "manufacturer": "SootheMax",
+    "description": "Ointment for effective relief from pain and discomfort of hemorrhoids.",
+    "price": "$8.99 per tube",
+    "active_ingredient": "Witch Hazel"
+  }
+]

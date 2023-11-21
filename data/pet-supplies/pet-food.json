@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Ocean Delight Salmon Feast",
+    "manufacturer": "Paws & Fins",
+    "description": "Premium salmon-based cat food enriched with omega-3.",
+    "price": "$24.99 per bag",
+    "kind_of_animal": "Cat"
+  },
+  {
+    "title": "Hearty Beef Bites",
+    "manufacturer": "BarkFuel",
+    "description": "Nutrient-packed beef flavored kibbles for dogs.",
+    "price": "$29.99 per bag",
+    "kind_of_animal": "Dog"
+  },
+  {
+    "title": "Green Garden Rabbit Mix",
+    "manufacturer": "Hoppy Harvest",
+    "description": "Natural blend of grasses and vegetables for rabbits.",
+    "price": "$15.99 per bag",
+    "kind_of_animal": "Rabbit"
+  },
+  {
+    "title": "Tropical Birdseed Symphony",
+    "manufacturer": "Feathered Friends",
+    "description": "Variety seed mix for parrots and tropical birds.",
+    "price": "$19.99 per bag",
+    "kind_of_animal": "Bird"
+  },
+  {
+    "title": "Tiny Tim's Hamster Feast",
+    "manufacturer": "WhiskerWheat",
+    "description": "Complete meal mix for hamsters with seeds and nuts.",
+    "price": "$9.99 per bag",
+    "kind_of_animal": "Hamster"
+  },
+  {
+    "title": "Wild Catch Fish Food",
+    "manufacturer": "AquaBites",
+    "description": "High-protein flakes for tropical aquarium fish.",
+    "price": "$8.99 per canister",
+    "kind_of_animal": "Fish"
+  },
+  {
+    "title": "Cheesy Chews for Guinea Pigs",
+    "manufacturer": "Guinea Gourmet",
+    "description": "Vitamin C enriched cheesy treats for guinea pigs.",
+    "price": "$5.99 per pack",
+    "kind_of_animal": "Guinea Pig"
+  },
+  {
+    "title": "ReptiCrunch Insect Blend",
+    "manufacturer": "ReptiFeast",
+    "description": "Dried insect blend for reptiles like bearded dragons.",
+    "price": "$12.99 per jar",
+    "kind_of_animal": "Reptile"
+  },
+  {
+    "title": "Canary Songbird Seeds",
+    "manufacturer": "Birds of Melody",
+    "description": "Special seed mix to enhance canary song quality.",
+    "price": "$14.99 per bag",
+    "kind_of_animal": "Bird"
+  },
+  {
+    "title": "Purrfect Tuna Treat",
+    "manufacturer": "MeowMunch",
+    "description": "Tuna-flavored treat sticks for cats.",
+    "price": "$6.99 per pack",
+    "kind_of_animal": "Cat"
+  },
+  {
+    "title": "Puppy Growth Kibble",
+    "manufacturer": "PuppyPro",
+    "description": "Chicken and rice formula for growing puppies.",
+    "price": "$31.99 per bag",
+    "kind_of_animal": "Dog"
+  },
+  {
+    "title": "Serenity Senior Cat Food",
+    "manufacturer": "NineLives",
+    "description": "Gentle formula for older cats with joint support.",
+    "price": "$26.99 per bag",
+    "kind_of_animal": "Cat"
+  },
+  {
+    "title": "ActiveDog Plus",
+    "manufacturer": "CanineFit",
+    "description": "High-energy food for active and working dogs.",
+    "price": "$34.99 per bag",
+    "kind_of_animal": "Dog"
+  },
+  {
+    "title": "FeatherFast Parakeet Pellets",
+    "manufacturer": "SkyBites",
+    "description": "Nutrient-rich pellets for parakeets and small birds.",
+    "price": "$10.99 per bag",
+    "kind_of_animal": "Bird"
+  },
+  {
+    "title": "CritterCare Rodent Blend",
+    "manufacturer": "NibbleNest",
+    "description": "Balanced food blend for mice and rats.",
+    "price": "$7.99 per bag",
+    "kind_of_animal": "Rodent"
+  },
+  {
+    "title": "TurtleLife Aquatic Pellets",
+    "manufacturer": "ShellFeast",
+    "description": "Complete diet pellets for aquatic turtles.",
+    "price": "$11.99 per jar",
+    "kind_of_animal": "Reptile"
+  },
+  {
+    "title": "Gourmet Lizard Bites",
+    "manufacturer": "SunBask",
+    "description": "Vitamin-enriched food for iguanas and lizards.",
+    "price": "$14.99 per bag",
+    "kind_of_animal": "Reptile"
+  },
+  {
+    "title": "Ferret Feast Delight",
+    "manufacturer": "FurryGourmet",
+    "description": "High-protein chicken-based food for ferrets.",
+    "price": "$22.99 per bag",
+    "kind_of_animal": "Ferret"
+  },
+  {
+    "title": "Chinchilla Chew Mix",
+    "manufacturer": "SoftNibble",
+    "description": "Diverse blend of grains and herbs for chinchillas.",
+    "price": "$13.99 per bag",
+    "kind_of_animal": "Chinchilla"
+  },
+  {
+    "title": "Senior Dog Wellness Food",
+    "manufacturer": "GoldenYears",
+    "description": "Specially formulated food for older dogs with glucosamine.",
+    "price": "$28.99 per bag",
+    "kind_of_animal": "Dog"
+  }
+]
