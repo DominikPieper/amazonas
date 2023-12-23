@@ -1,0 +1,15 @@
+{
+  "name": "@spartan-ng/ui-menu-helm",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/core": "^17.0.0",
+    "@spartan-ng/ui-core": "0.0.1-alpha.319",
+    "@spartan-ng/ui-menu-brain": "0.0.1-alpha.319",
+    "clsx": "^1.2.1",
+    "@ng-icons/radix-icons": "^25.1.0",
+    "@spartan-ng/ui-icon-helm": "*",
+    "class-variance-authority": "^0.7.0"
+  },
+  "dependencies": {},
+  "sideEffects": false
+}

@@ -10,24 +10,104 @@
     "importHelpers": true,
     "target": "es2015",
     "module": "esnext",
-    "lib": [
-      "es2020",
-      "dom"
-    ],
+    "lib": ["es2020", "dom"],
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@amazonas/shared/forms": [
-        "libs/shared/forms/src/index.ts"
+      "@amazonas/shared/forms": ["libs/shared/forms/src/index.ts"],
+      "@amazonas/shared/utils": ["libs/shared/utils/src/index.ts"],
+      "@spartan-ng/ui-accordion-helm": [
+        "libs/shared/ui-design-system/ui-accordion-helm/src/index.ts"
       ],
-      "@amazonas/shared/utils": [
-        "libs/shared/utils/src/index.ts"
+      "@spartan-ng/ui-alert-helm": [
+        "libs/shared/ui-design-system/ui-alert-helm/src/index.ts"
+      ],
+      "@spartan-ng/ui-alertdialog-helm": [
+        "libs/shared/ui-design-system/ui-alertdialog-helm/src/index.ts"
+      ],
+      "@spartan-ng/ui-aspectratio-helm": [
+        "libs/shared/ui-design-system/ui-aspectratio-helm/src/index.ts"
+      ],
+      "@spartan-ng/ui-avatar-helm": [
+        "libs/shared/ui-design-system/ui-avatar-helm/src/index.ts"
+      ],
+      "@spartan-ng/ui-badge-helm": [
+        "libs/shared/ui-design-system/ui-badge-helm/src/index.ts"
+      ],
+      "@spartan-ng/ui-button-helm": [
+        "libs/shared/ui-design-system/ui-button-helm/src/index.ts"
+      ],
+      "@spartan-ng/ui-card-helm": [
+        "libs/shared/ui-design-system/ui-card-helm/src/index.ts"
+      ],
+      "@spartan-ng/ui-checkbox-helm": [
+        "libs/shared/ui-design-system/ui-checkbox-helm/src/index.ts"
+      ],
+      "@spartan-ng/ui-command-helm": [
+        "libs/shared/ui-design-system/ui-command-helm/src/index.ts"
+      ],
+      "@spartan-ng/ui-dialog-helm": [
+        "libs/shared/ui-design-system/ui-dialog-helm/src/index.ts"
+      ],
+      "@spartan-ng/ui-hovercard-helm": [
+        "libs/shared/ui-design-system/ui-hovercard-helm/src/index.ts"
+      ],
+      "@spartan-ng/ui-icon-helm": [
+        "libs/shared/ui-design-system/ui-icon-helm/src/index.ts"
+      ],
+      "@spartan-ng/ui-input-helm": [
+        "libs/shared/ui-design-system/ui-input-helm/src/index.ts"
+      ],
+      "@spartan-ng/ui-label-helm": [
+        "libs/shared/ui-design-system/ui-label-helm/src/index.ts"
+      ],
+      "@spartan-ng/ui-menu-helm": [
+        "libs/shared/ui-design-system/ui-menu-helm/src/index.ts"
+      ],
+      "@spartan-ng/ui-popover-helm": [
+        "libs/shared/ui-design-system/ui-popover-helm/src/index.ts"
+      ],
+      "@spartan-ng/ui-progress-helm": [
+        "libs/shared/ui-design-system/ui-progress-helm/src/index.ts"
+      ],
+      "@spartan-ng/ui-radiogroup-helm": [
+        "libs/shared/ui-design-system/ui-radiogroup-helm/src/index.ts"
+      ],
+      "@spartan-ng/ui-scrollarea-helm": [
+        "libs/shared/ui-design-system/ui-scrollarea-helm/src/index.ts"
+      ],
+      "@spartan-ng/ui-separator-helm": [
+        "libs/shared/ui-design-system/ui-separator-helm/src/index.ts"
+      ],
+      "@spartan-ng/ui-sheet-helm": [
+        "libs/shared/ui-design-system/ui-sheet-helm/src/index.ts"
+      ],
+      "@spartan-ng/ui-skeleton-helm": [
+        "libs/shared/ui-design-system/ui-skeleton-helm/src/index.ts"
+      ],
+      "@spartan-ng/ui-spinner-helm": [
+        "libs/shared/ui-design-system/ui-spinner-helm/src/index.ts"
+      ],
+      "@spartan-ng/ui-switch-helm": [
+        "libs/shared/ui-design-system/ui-switch-helm/src/index.ts"
+      ],
+      "@spartan-ng/ui-table-helm": [
+        "libs/shared/ui-design-system/ui-table-helm/src/index.ts"
+      ],
+      "@spartan-ng/ui-tabs-helm": [
+        "libs/shared/ui-design-system/ui-tabs-helm/src/index.ts"
+      ],
+      "@spartan-ng/ui-toggle-helm": [
+        "libs/shared/ui-design-system/ui-toggle-helm/src/index.ts"
+      ],
+      "@spartan-ng/ui-tooltip-helm": [
+        "libs/shared/ui-design-system/ui-tooltip-helm/src/index.ts"
+      ],
+      "@spartan-ng/ui-typography-helm": [
+        "libs/shared/ui-design-system/ui-typography-helm/src/index.ts"
       ]
     }
   },
-  "exclude": [
-    "node_modules",
-    "tmp"
-  ]
+  "exclude": ["node_modules", "tmp"]
 }

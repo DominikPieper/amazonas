@@ -1,0 +1,93 @@
+{
+  "name": "storybook",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/storybook/src",
+  "prefix": "amazonas",
+  "tags": [
+    "type:storybook"
+  ],
+  "implicitDependencies": [
+    "shared/ui-design-system/accordion",
+    "shared/ui-design-system/alert",
+    "shared/ui-design-system/alert-dialog",
+    "shared/ui-design-system/aspect-ratio",
+    "shared/ui-design-system/avatar",
+    "shared/ui-design-system/badge",
+    "shared/ui-design-system/button",
+    "shared/ui-design-system/card",
+    "shared/ui-design-system/checkbox",
+    "shared/ui-design-system/command",
+    "shared/ui-design-system/dialog",
+    "shared/ui-design-system/hover-card",
+    "shared/ui-design-system/icon",
+    "shared/ui-design-system/input",
+    "shared/ui-design-system/label",
+    "shared/ui-design-system/menu",
+    "shared/ui-design-system/popover",
+    "shared/ui-design-system/progress",
+    "shared/ui-design-system/radio-group",
+    "shared/ui-design-system/scroll-area",
+    "shared/ui-design-system/separator",
+    "shared/ui-design-system/sheet",
+    "shared/ui-design-system/skeleton",
+    "shared/ui-design-system/spinner",
+    "shared/ui-design-system/switch",
+    "shared/ui-design-system/table",
+    "shared/ui-design-system/tabs",
+    "shared/ui-design-system/toggle",
+    "shared/ui-design-system/tooltip",
+    "shared/ui-design-system/typography"
+  ],
+  "projectType": "library",
+  "targets": {
+    "storybook": {
+      "executor": "@storybook/angular:start-storybook",
+      "options": {
+        "port": 4400,
+        "configDir": "apps/storybook/.storybook",
+        "browserTarget": "storybook:build-storybook",
+        "compodoc": false
+      },
+      "configurations": {
+        "ci": {
+          "quiet": true
+        }
+      }
+    },
+    "build-storybook": {
+      "executor": "@storybook/angular:build-storybook",
+      "outputs": [
+        "{options.outputDir}"
+      ],
+      "options": {
+        "outputDir": "dist/storybook/storybook",
+        "configDir": "apps/storybook/.storybook",
+        "browserTarget": "storybook:build-storybook",
+        "compodoc": false
+      },
+      "configurations": {
+        "ci": {
+          "quiet": true
+        }
+      }
+    },
+    "test-storybook": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "test-storybook -c apps/storybook/.storybook --url=http://localhost:4400"
+      }
+    },
+    "static-storybook": {
+      "executor": "@nx/web:file-server",
+      "options": {
+        "buildTarget": "storybook:build-storybook",
+        "staticFilePath": "dist/storybook/storybook"
+      },
+      "configurations": {
+        "ci": {
+          "buildTarget": "storybook:build-storybook:ci"
+        }
+      }
+    }
+  }
+}

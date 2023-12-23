@@ -1,0 +1,26 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "outDir": "../../../dist/out-tsc",
+    "declaration": true,
+    "declarationMap": true,
+    "inlineSources": true,
+    "types": []
+  },
+  "exclude": [
+    "src/**/*.spec.ts",
+    "src/test-setup.ts",
+    "jest.config.ts",
+    "src/**/*.test.ts"
+  ],
+  "include": [
+    "**/*.stories.ts",
+    "**/*.stories.js",
+    "../../libs/shared/ui-design-system/**/*.stories.ts",
+    "../../libs/shared/ui-design-system/**/*.stories.js",
+    "../../libs/shared/ui-design-system/**/*.stories.jsx",
+    "../../libs/shared/ui-design-system/**/*.stories.tsx",
+    "../../libs/shared/ui-design-system/**/*.stories.mdx",
+    "*.js"
+  ]
+}
