@@ -9,7 +9,7 @@ import { HlmIconComponent } from './lib/hlm-icon.component';
 import { provideIcons } from './index';
 
 const meta: Meta<HlmIconComponent> = {
-  title: 'Icon',
+  title: 'Atom/Icon',
   component: HlmIconComponent,
   tags: ['autodocs'],
   decorators: [

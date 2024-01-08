@@ -14,7 +14,7 @@ import { HlmTooltipTriggerDirective } from './lib/hlm-tooltip-trigger.directive'
 import { HlmIconComponent } from '@spartan-ng/ui-icon-helm';
 
 const meta: Meta<HlmTooltipComponent> = {
-  title: 'Tooltip',
+  title: 'Atom/Tooltip',
   component: HlmTooltipComponent,
   tags: ['autodocs'],
   argTypes: {},

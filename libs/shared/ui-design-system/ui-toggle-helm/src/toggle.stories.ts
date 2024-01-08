@@ -14,7 +14,7 @@ import { HlmToggleGroupModule } from './index';
 import { HlmButtonDirective } from '@spartan-ng/ui-button-helm';
 
 const meta: Meta<HlmToggleDirective> = {
-  title: 'Toggle',
+  title: 'Atom/Toggle',
   component: HlmToggleDirective,
   tags: ['autodocs'],
   decorators: [

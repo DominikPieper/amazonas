@@ -7,7 +7,7 @@ import {
 import { HlmBadgeDirective } from './index';
 
 const meta: Meta<HlmBadgeDirective> = {
-  title: 'Badge',
+  title: 'Atom/Badge',
   component: HlmBadgeDirective,
   tags: ['autodocs'],
   argTypes: {

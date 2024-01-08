@@ -8,7 +8,7 @@ import { BrnSeparatorComponent } from '@spartan-ng/ui-separator-brain';
 import { HlmSeparatorDirective } from './lib/hlm-separator.directive';
 
 const meta: Meta<BrnSeparatorComponent> = {
-  title: 'Separator',
+  title: 'Atom/Separator',
   component: BrnSeparatorComponent,
   tags: ['autodocs'],
   args: {

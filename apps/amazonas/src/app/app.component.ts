@@ -1,19 +1,12 @@
-import { Component, OnInit } from '@angular/core';
-import { CommonModule } from '@angular/common';
+import { Component } from '@angular/core';
+import { CommonModule, NgOptimizedImage } from '@angular/common';
 import { RouterModule } from '@angular/router';
-import { OverlayModule } from '@angular/cdk/overlay';
-import { FormsModule } from '@angular/forms';
-import { initFlowbite } from 'flowbite';
 
 @Component({
   standalone: true,
-  imports: [CommonModule, RouterModule, OverlayModule, FormsModule],
+  imports: [CommonModule, RouterModule, NgOptimizedImage],
   selector: 'am-root',
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss',
 })
-export class AppComponent implements OnInit {
-  ngOnInit() {
-    initFlowbite();
-  }
-}
+export class AppComponent {}

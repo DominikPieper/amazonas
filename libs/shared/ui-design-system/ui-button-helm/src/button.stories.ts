@@ -7,7 +7,7 @@ import {
 import { HlmButtonDirective } from './index';
 
 const meta: Meta<HlmButtonDirective> = {
-  title: 'Button',
+  title: 'Atom/Button',
   component: HlmButtonDirective,
   tags: ['autodocs'],
   args: {

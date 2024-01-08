@@ -9,7 +9,7 @@ import { HlmInputDirective } from './lib/hlm-input.directive';
 import { HlmButtonDirective } from '@spartan-ng/ui-button-helm';
 
 const meta: Meta<HlmInputDirective> = {
-  title: 'Input',
+  title: 'Atom/Input',
   component: HlmInputDirective,
   tags: ['autodocs'],
   args: {
